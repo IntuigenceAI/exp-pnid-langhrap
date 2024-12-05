@@ -1,0 +1,17 @@
+# Ignore Python files
+__pycache__/
+*.pyc
+
+# Ignore environment folders
+.venv/
+.env/
+.langgraph_api/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+50e91ef000944a3f8f810c88d06a52eb.md
