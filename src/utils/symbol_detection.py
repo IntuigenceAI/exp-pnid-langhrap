@@ -9,10 +9,12 @@ from tqdm import tqdm
 from src.utils.storage import StorageInterface
 import numpy as np
 
-def detect_symbols(image_path, results_dir="results", file_name="", apply_preprocessing=False, storage=None):
+def detect_symbols(image_path, results_dir="results", file_name="", apply_preprocessing=True, storage=None):
     """
     Wrapper function for symbol detection using run_detection_with_optimal_threshold.
     """
+    print("PATTTTHHH")
+    print(image_path)
     return run_detection_with_optimal_threshold(
         image_path=image_path,
         results_dir=results_dir,
@@ -37,6 +39,7 @@ def evaluate_detections(detections_list):
 
 # Detection function with automatic confidence threshold selection
 def run_detection_with_optimal_threshold(image_path, results_dir="results", file_name="", apply_preprocessing=False, storage: StorageInterface = None):
+    
     # Load the image using the storage interface
     image_data = storage.load_file(image_path)
     nparr = np.frombuffer(image_data, np.uint8)
@@ -49,10 +52,10 @@ def run_detection_with_optimal_threshold(image_path, results_dir="results", file
         print("Skipping image preprocessing for symbol detection...")
 
     # Get the latest model path for symbol detection
-    model_path = "models/Intui_SDM_15.pt"
+    model_path = "utils/models/Intui_SDM_15.pt"
     if not model_path:
         return "Error: No model found!", None, None, None, None, None, None, None
-
+   
     model = YOLO(model_path)
 
     best_confidence_threshold = 0.5  # Default value
@@ -141,11 +144,13 @@ def run_detection_with_optimal_threshold(image_path, results_dir="results", file
 if __name__ == "__main__":
     from storage import StorageFactory
 
-    uploaded_file_path = "samples/images/01fig07_alt.jpg"
+    # uploaded_file_path = "samples/images/01fig07_alt.jpg"
+    uploaded_file_path = "/Users/hivamoh/Desktop/IntuigenceAI/exp-pnid-langhrap/samples/001.jpg"
     results_dir = "results"
     apply_symbol_preprocessing = False  # Set to False if preprocessing isn't needed
 
     storage = StorageFactory.get_storage()
+    
 
     detection_image_path, detection_json_path, detection_log_message, diagram_bbox = run_detection_with_optimal_threshold(
         uploaded_file_path,

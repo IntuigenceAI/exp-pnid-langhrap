@@ -15,20 +15,27 @@ def parse_p_and_id(file_path):
     Returns:
         dict: Structured data containing detected symbols and text.
     """
+    print(file_path)
     # Load the image
     image = cv2.imread(file_path)
     if image is None:
         raise ValueError(f"Unable to load image: {file_path}")
-
+    import os 
     # Step 1: Detect Symbols
     print("Detecting symbols...")
+    current_directory = os.getcwd()
+    import sys
+    if current_directory not in sys.path:
+        sys.path.append(current_directory)
+    from utils.storage import StorageFactory
+    storage = StorageFactory.get_storage()
     preprocessed_image = preprocess_image_for_symbol_detection(image)
-    symbols = detect_symbols(preprocessed_image)
+    symbols = detect_symbols(image_path= file_path, storage= storage)
     
     # Step 2: Detect Text
     print("Detecting text...")
     image_pil = Image.open(file_path)
-    text_annotations = detect_text(image_pil)
+    text_annotations = detect_text(file_path, storage)
     
     # Combine results
     parsed_data = {
@@ -37,7 +44,5 @@ def parse_p_and_id(file_path):
     }
     return parsed_data
 
-# Example usage
-# file_path = "example_pid.png"
-# result = parse_p_and_id(file_path)
-# print(json.dumps(result, indent=2))
+
+

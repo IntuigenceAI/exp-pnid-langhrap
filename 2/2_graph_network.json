@@ -1,0 +1,1088 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "pos": [
+                2790,
+                1084
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Pri Loc access",
+            "id": "b0050869-b6dd-4f2e-8c33-a77d61e925da"
+        },
+        {
+            "pos": [
+                2068,
+                2889
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete indicator",
+            "id": "984aaf3e-9f74-4184-aef0-0157af20727d"
+        },
+        {
+            "pos": [
+                2242,
+                3364
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete indicator",
+            "id": "eae4ad9b-a646-4752-ae36-8c48797cc794"
+        },
+        {
+            "pos": [
+                4231,
+                2793
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete indicator",
+            "id": "c9ed7fd1-bd7e-4c5e-8b13-90c5ca0dc3f8"
+        },
+        {
+            "pos": [
+                3493,
+                3551
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "0684e8e1-28f9-46c1-80aa-2c9ee9a95afd"
+        },
+        {
+            "pos": [
+                4635,
+                2071
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "fdd03149-e2b9-41e0-adb2-83a36141240a"
+        },
+        {
+            "pos": [
+                2071,
+                2660
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "b1a381a7-5311-4539-9450-ccc7308f8a1f"
+        },
+        {
+            "pos": [
+                3916,
+                3077
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "667291b0-3e92-47d6-b563-477838d7e89d"
+        },
+        {
+            "pos": [
+                643,
+                3793
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete recorder",
+            "id": "e11ad652-5cc9-4b55-be84-9b7ac00dc835"
+        },
+        {
+            "pos": [
+                4220,
+                3647
+            ],
+            "node_type": "symbol",
+            "label": "Control Valve",
+            "id": "41c24c3a-f4da-4ab7-9d9c-58985348f1cb"
+        },
+        {
+            "pos": [
+                3209,
+                2354
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete recorder",
+            "id": "c828a1ed-53cb-4daa-be27-94693691348a"
+        },
+        {
+            "pos": [
+                2071,
+                4066
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "45010bce-a143-40ff-bed9-8260b77623ae"
+        },
+        {
+            "pos": [
+                1365,
+                4215
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "ed9a8e1d-6c6a-402b-89a4-9c2b33879e3b"
+        },
+        {
+            "pos": [
+                3359,
+                3644
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "e2bab51e-dca2-4a41-9736-a1209b03f711"
+        },
+        {
+            "pos": [
+                2070,
+                1224
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NO",
+            "id": "b8a281d7-0f98-4c05-9da2-35640fd916e5"
+        },
+        {
+            "pos": [
+                654,
+                960
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "9abb256b-3fc5-430b-b970-98afc02b65a9"
+        },
+        {
+            "pos": [
+                3305,
+                3928
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "e72409e4-4ad6-41f4-9212-ff74ea7df611"
+        },
+        {
+            "pos": [
+                640,
+                2646
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "85f15411-30f9-4f43-ba3f-a231facb4e50"
+        },
+        {
+            "pos": [
+                2633,
+                4085
+            ],
+            "node_type": "symbol",
+            "label": "shared with Pri Loc access",
+            "id": "30ce7349-e6e5-4cf0-9bc1-85c5a5fd6e62"
+        },
+        {
+            "pos": [
+                1897,
+                3362
+            ],
+            "node_type": "symbol",
+            "label": "Spade blind",
+            "id": "4de73cc4-8015-4488-b9df-312228387af6"
+        },
+        {
+            "pos": [
+                2097,
+                1431
+            ],
+            "node_type": "symbol",
+            "label": "Spade close blind flanged",
+            "id": "683c9dd0-910a-44dc-b32e-337b78abedcd"
+        },
+        {
+            "pos": [
+                1386,
+                508
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "9d91c433-3e52-46ac-a04f-b080b6af1721"
+        },
+        {
+            "pos": [
+                1124,
+                3647
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "7dbd11cc-46b8-4fa6-8e5f-9773b64815ed"
+        },
+        {
+            "pos": [
+                2740,
+                3648
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "063bd23e-b846-4290-b311-a64ae0f4c761"
+        },
+        {
+            "pos": [
+                2925,
+                1785
+            ],
+            "node_type": "symbol",
+            "label": "Control Valve",
+            "id": "15890827-a44d-4296-affa-4756d734f469"
+        },
+        {
+            "pos": [
+                931,
+                3262
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "4b228477-ed4c-49d4-a895-555756138f13"
+        },
+        {
+            "pos": [
+                3781,
+                1263
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NC",
+            "id": "8d165661-723b-4d1c-9e80-78d4608ee122"
+        },
+        {
+            "pos": [
+                3035,
+                3344
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "a544ca0a-772b-46ae-b109-960a06daccb4"
+        },
+        {
+            "pos": [
+                3687,
+                3589
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "1d3751d2-a7ed-4cd9-97b8-875d24d525ca"
+        },
+        {
+            "pos": [
+                2822,
+                1369
+            ],
+            "node_type": "symbol",
+            "label": "Globe valve NO",
+            "id": "c3703eeb-fc5e-46c5-b376-a5a5576a0f5c"
+        },
+        {
+            "pos": [
+                1912,
+                1372
+            ],
+            "node_type": "symbol",
+            "label": "Programmable with Pri Loc access",
+            "id": "bbfaf0f5-6ac1-4b7f-826c-5cca27a50707"
+        },
+        {
+            "pos": [
+                4350,
+                911
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "071c0137-92ff-409d-90fd-4465f6768089"
+        },
+        {
+            "pos": [
+                1635,
+                519
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Aux Loc access",
+            "id": "17e23900-1d92-450c-8275-14a0e9263f53"
+        },
+        {
+            "pos": [
+                1074,
+                3922
+            ],
+            "node_type": "symbol",
+            "label": "Sealing gate valve",
+            "id": "348238d9-ae40-41a0-9b15-f28a337ec07e"
+        },
+        {
+            "pos": [
+                2640,
+                3507
+            ],
+            "node_type": "symbol",
+            "label": "Solenoid actuator",
+            "id": "e53e5dc9-6942-479f-8825-be4b725c5bc8"
+        },
+        {
+            "pos": [
+                1352,
+                1083
+            ],
+            "node_type": "symbol",
+            "label": "Programmable with Pri Loc access",
+            "id": "dd5581b7-5a2d-49e3-8102-172258fd4366"
+        },
+        {
+            "pos": [
+                3057,
+                1365
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete recorder",
+            "id": "57bd0b6b-1052-41a4-90e4-2d3b093dfdb3"
+        },
+        {
+            "pos": [
+                2196,
+                3932
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NO",
+            "id": "d46be104-9e98-4e8e-9285-9c569d2f5dbd"
+        },
+        {
+            "pos": [
+                3494,
+                2359
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Aux Loc access",
+            "id": "93027f4b-3582-404a-9cbb-27be3301829f"
+        },
+        {
+            "pos": [
+                944,
+                3534
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "30a0bb98-3bed-4c4a-99af-ead2086b7200"
+        },
+        {
+            "pos": [
+                2068,
+                951
+            ],
+            "node_type": "symbol",
+            "label": "Spade blind",
+            "id": "c2de7d0a-c338-4f8c-b6ee-b93d809a7cf7"
+        },
+        {
+            "pos": [
+                3492,
+                1465
+            ],
+            "node_type": "symbol",
+            "label": "Flanged connection",
+            "id": "f4553c05-7ecb-4b2c-91ec-35fb2235447b"
+        },
+        {
+            "pos": [
+                2353,
+                3854
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "09b9f4e8-d055-4046-a0fa-d3db91a1acac"
+        },
+        {
+            "pos": [
+                2638,
+                2877
+            ],
+            "node_type": "symbol",
+            "label": "Field mounted discrete recorder",
+            "id": "1e76feff-a785-49e2-bd77-ac2b6e6b4cd1"
+        },
+        {
+            "pos": [
+                2993,
+                3077
+            ],
+            "node_type": "symbol",
+            "label": "Spade blind",
+            "id": "7dd46f67-bfe6-458b-98b6-e1516aa21eaf"
+        },
+        {
+            "pos": [
+                4070,
+                2951
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "12653e15-18c3-42de-b1fd-1a63ad4972c2"
+        },
+        {
+            "pos": [
+                3210,
+                4051
+            ],
+            "node_type": "symbol",
+            "label": "Heating coil tubes",
+            "id": "5aa88d5b-b1c4-49fb-a2db-75556694874d"
+        },
+        {
+            "pos": [
+                2940,
+                2353
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "550d3cda-89d4-48e0-8f40-9c19899fc090"
+        },
+        {
+            "pos": [
+                2928,
+                3494
+            ],
+            "node_type": "symbol",
+            "label": "Solenoid actuator",
+            "id": "ca702d95-a0f9-4ab0-8ead-55be23d8c19d"
+        },
+        {
+            "pos": [
+                1629,
+                1935
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "86159d8d-5021-482b-9fd9-130a20ea4549"
+        },
+        {
+            "pos": [
+                2925,
+                2056
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NO",
+            "id": "a9826b79-bcf5-4780-aaa4-21aa20311270"
+        },
+        {
+            "pos": [
+                1031,
+                2223
+            ],
+            "node_type": "symbol",
+            "label": "Control Valve",
+            "id": "acbed399-77fb-4ffb-baad-2df9b8ffae1a"
+        },
+        {
+            "pos": [
+                3632,
+                2793
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "c7e18317-e498-49e5-b1bc-12c333a5601f"
+        },
+        {
+            "pos": [
+                3497,
+                1784
+            ],
+            "node_type": "symbol",
+            "label": "Control Valve",
+            "id": "54ab4dab-079d-424b-b4d0-10a8c85e1396"
+        },
+        {
+            "pos": [
+                4067,
+                2634
+            ],
+            "node_type": "symbol",
+            "label": "Butterfly Valve",
+            "id": "5456a2ce-7cc0-4079-aa84-5d270c97ef80"
+        },
+        {
+            "pos": [
+                922,
+                1867
+            ],
+            "node_type": "symbol",
+            "label": "Spade close blind flanged",
+            "id": "b9a74771-9774-4e16-9a27-f3ec5b0c5a3e"
+        },
+        {
+            "pos": [
+                793,
+                1084
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Pri Loc access",
+            "id": "cdb18cc2-2260-464a-875a-1408662fd774"
+        },
+        {
+            "pos": [
+                3209,
+                3503
+            ],
+            "node_type": "symbol",
+            "label": "Control Valve",
+            "id": "7d4129ab-6b61-47a5-a727-5fede30e09ea"
+        },
+        {
+            "pos": [
+                1031,
+                2223
+            ],
+            "node_type": "symbol",
+            "label": "Globe valve NC",
+            "id": "7b220350-f144-4ae1-9ed0-97e248fd3c10"
+        },
+        {
+            "pos": [
+                642,
+                1762
+            ],
+            "node_type": "symbol",
+            "label": "shared with Pri Loc access",
+            "id": "9c6d59af-a029-4b92-bd5c-8a74498399b4"
+        },
+        {
+            "pos": [
+                769,
+                3631
+            ],
+            "node_type": "symbol",
+            "label": "Sealing gate valve",
+            "id": "4cc505d4-b61c-46af-988e-e6968250c430"
+        },
+        {
+            "pos": [
+                1039,
+                1080
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "af7cc312-f659-4e0b-b403-68be99ae04b4"
+        },
+        {
+            "pos": [
+                3888,
+                3358
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NC",
+            "id": "55fca931-be37-4c44-88b4-950102e1ccef"
+        },
+        {
+            "pos": [
+                3932,
+                1369
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Pri Loc access",
+            "id": "0fb1a5bf-5b22-42c1-bb3d-77c1be4f9d12"
+        },
+        {
+            "pos": [
+                2926,
+                1528
+            ],
+            "node_type": "symbol",
+            "label": "Manual gate valve",
+            "id": "0986c7c4-d72c-4fd4-8653-61260f309c81"
+        },
+        {
+            "pos": [
+                3463,
+                2119
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "99ed20d6-0dbb-43a7-b4bc-0805db312531"
+        },
+        {
+            "pos": [
+                2499,
+                1401
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "9c27048d-ff90-46c8-ae20-5043f1f7a73d"
+        },
+        {
+            "pos": [
+                2507,
+                1939
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "171bdaa1-7693-4be8-9315-ebf7a6261f1a"
+        },
+        {
+            "pos": [
+                4518,
+                2793
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NC",
+            "id": "244e0472-b868-476c-9b88-b4b1a34b74cd"
+        },
+        {
+            "pos": [
+                5033,
+                1660
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "e5179ce0-c106-444a-95e8-95faa9f514fd"
+        },
+        {
+            "pos": [
+                3335,
+                3646
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "b34b8674-7072-41ae-9250-dc6c992b767d"
+        },
+        {
+            "pos": [
+                3202,
+                3208
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "0cf1acd7-cbc4-4d98-a342-d9f3b3fbe828"
+        },
+        {
+            "pos": [
+                3552,
+                3008
+            ],
+            "node_type": "symbol",
+            "label": "Spade open blind flanged",
+            "id": "54092632-0ef9-41cf-b4fc-827793e1eca2"
+        },
+        {
+            "pos": [
+                930,
+                2881
+            ],
+            "node_type": "symbol",
+            "label": "Flanged connection",
+            "id": "89be8574-114e-427d-b179-d3c04b4e1bdb"
+        },
+        {
+            "pos": [
+                3316,
+                1082
+            ],
+            "node_type": "symbol",
+            "label": "Butterfly Valve",
+            "id": "f3839402-28a0-41d9-a99c-ac693a41c46c"
+        },
+        {
+            "pos": [
+                3208,
+                2072
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Aux Loc access",
+            "id": "592662a9-e3cb-41a0-86bc-2e2f9c82dde0"
+        },
+        {
+            "pos": [
+                2534,
+                3392
+            ],
+            "node_type": "symbol",
+            "label": "Spade close blind flanged",
+            "id": "47913b39-1f25-45fb-8266-b994b98c64ec"
+        },
+        {
+            "pos": [
+                4477,
+                1969
+            ],
+            "node_type": "symbol",
+            "label": "Spade close blind flanged",
+            "id": "0ffa5d00-6cbc-4fa2-abec-0f5d3730d810"
+        },
+        {
+            "pos": [
+                3632,
+                2800
+            ],
+            "node_type": "symbol",
+            "label": "Programmable with Pri Loc access",
+            "id": "645f5614-689b-4955-af47-11ec2d65ae58"
+        },
+        {
+            "pos": [
+                3353,
+                3362
+            ],
+            "node_type": "symbol",
+            "label": "discrete with Aux Loc access",
+            "id": "01bd2957-1fd9-49fd-8450-ae84353f9553"
+        },
+        {
+            "pos": [
+                3213,
+                2922
+            ],
+            "node_type": "symbol",
+            "label": "Solenoid actuator",
+            "id": "da6a486a-24d4-4ddf-957b-9e3ba03cd622"
+        },
+        {
+            "pos": [
+                2068,
+                3494
+            ],
+            "node_type": "symbol",
+            "label": "Flanged connection",
+            "id": "0c7eb3e8-81b4-45eb-b804-7b4e2014776c"
+        },
+        {
+            "pos": [
+                1312,
+                567
+            ],
+            "node_type": "symbol",
+            "label": "Butterfly Valve",
+            "id": "3af66fe7-729d-474b-8a55-99330dd69f8f"
+        },
+        {
+            "pos": [
+                4324,
+                3498
+            ],
+            "node_type": "symbol",
+            "label": "Spade close blind flanged",
+            "id": "8f93316e-538f-40ab-b61c-e47dbc253d97"
+        },
+        {
+            "pos": [
+                3917,
+                1066
+            ],
+            "node_type": "symbol",
+            "label": "Programmable with Pri Loc access",
+            "id": "1223dbfc-3f0f-40b3-a695-934bb1710deb"
+        },
+        {
+            "pos": [
+                3130,
+                3945
+            ],
+            "node_type": "symbol",
+            "label": "Sealing gate valve",
+            "id": "66c80cfb-5914-4210-8188-8f6c14d1d998"
+        },
+        {
+            "pos": [
+                4353,
+                2933
+            ],
+            "node_type": "symbol",
+            "label": "Globe valve NO",
+            "id": "3646c950-d178-42a0-997d-c216f3918e68"
+        },
+        {
+            "pos": [
+                3299,
+                1935
+            ],
+            "node_type": "symbol",
+            "label": "Control Valve",
+            "id": "112b8bbf-b5ff-4510-b157-e4ec9cbc0fe0"
+        },
+        {
+            "pos": [
+                1197,
+                1794
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "8bf11eb5-c442-4b43-a337-053b01410ded"
+        },
+        {
+            "pos": [
+                1726,
+                3364
+            ],
+            "node_type": "symbol",
+            "label": "shared with Pri Loc access",
+            "id": "84fd5945-13d7-4c06-bae9-62b5a85ddbf7"
+        },
+        {
+            "pos": [
+                1637,
+                1081
+            ],
+            "node_type": "symbol",
+            "label": "Heating coil tubes",
+            "id": "6491c545-561e-46c3-a034-8ba3df290ccb"
+        },
+        {
+            "pos": [
+                3444,
+                2891
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NC",
+            "id": "dfc257e8-e44a-48ad-9d6e-a7b191de2c4f"
+        },
+        {
+            "pos": [
+                1498,
+                3535
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NO",
+            "id": "818b06b8-2d03-413d-bc38-42731016ddf1"
+        },
+        {
+            "pos": [
+                3633,
+                3650
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "ef7b30a4-979c-48a4-820e-f45584b38371"
+        },
+        {
+            "pos": [
+                5207,
+                2060
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "277c52b5-d70d-4dfe-8b24-ece6318e9bf1"
+        },
+        {
+            "pos": [
+                4767,
+                1918
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "1081458e-0d15-4c86-a26d-255ef7a7bdf4"
+        },
+        {
+            "pos": [
+                3093,
+                3932
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "4d8a040d-550b-4616-85b1-b2fc69398ab5"
+        },
+        {
+            "pos": [
+                3030,
+                3286
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NC",
+            "id": "38bf1bc9-1ebe-4e5a-aa62-bb87ef40d681"
+        },
+        {
+            "pos": [
+                2342,
+                4074
+            ],
+            "node_type": "symbol",
+            "label": "Needle Valve",
+            "id": "48234bfb-66ef-423c-835f-37ff640006b0"
+        },
+        {
+            "pos": [
+                1496,
+                2378
+            ],
+            "node_type": "symbol",
+            "label": "Ball valve",
+            "id": "3a5771b1-ea81-43ec-9306-cd4c1cef58fc"
+        },
+        {
+            "pos": [
+                3352,
+                3363
+            ],
+            "node_type": "symbol",
+            "label": "Solenoid actuator",
+            "id": "d308fc71-0ffc-40ee-9be7-f2924d189b71"
+        },
+        {
+            "pos": [
+                1066,
+                4214
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NC",
+            "id": "f3ea621c-f642-4d77-8b6c-7b6ddd316fb4"
+        },
+        {
+            "pos": [
+                1915,
+                1366
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "a7eaa64e-7e91-4886-a8bc-80f6269bf698"
+        },
+        {
+            "pos": [
+                651,
+                2943
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "627edf29-d5b0-4835-ba0e-2972a57b7b38"
+        },
+        {
+            "pos": [
+                4348,
+                3284
+            ],
+            "node_type": "symbol",
+            "label": "Spade blind",
+            "id": "34645361-9585-49e4-b7cb-f81986582efc"
+        },
+        {
+            "pos": [
+                3418,
+                2108
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NC",
+            "id": "0e0bed42-fc95-4cd9-95de-337f9db1810c"
+        },
+        {
+            "pos": [
+                3035,
+                3353
+            ],
+            "node_type": "symbol",
+            "label": "Sealing gate valve",
+            "id": "63b3dd33-38d8-4df3-991f-95ed4ae44b60"
+        },
+        {
+            "pos": [
+                4762,
+                3931
+            ],
+            "node_type": "symbol",
+            "label": "Spade close blind flanged",
+            "id": "2e8c4613-e803-4f75-8bf1-64c30e54f3dd"
+        },
+        {
+            "pos": [
+                649,
+                2947
+            ],
+            "node_type": "symbol",
+            "label": "Mid arrow flow direction",
+            "id": "d2b40e92-6fe6-442a-921c-a08cbc147586"
+        },
+        {
+            "pos": [
+                1758,
+                3934
+            ],
+            "node_type": "symbol",
+            "label": "shared with Pri Loc access",
+            "id": "ef745daf-e84d-4d8a-9718-d75140902693"
+        },
+        {
+            "pos": [
+                1491,
+                2932
+            ],
+            "node_type": "symbol",
+            "label": "Sealing gate valve",
+            "id": "8a11bf92-f9b6-4836-82f4-476d1485ba20"
+        },
+        {
+            "pos": [
+                3534,
+                3009
+            ],
+            "node_type": "symbol",
+            "label": "Right concentric reducer",
+            "id": "7cb43f20-a712-4836-ac05-44cf157feb76"
+        },
+        {
+            "pos": [
+                4349,
+                1262
+            ],
+            "node_type": "symbol",
+            "label": "Gate valve NO",
+            "id": "45a6c7f4-a55b-4172-a50f-5420333b9726"
+        },
+        {
+            "pos": [
+                3633,
+                3651
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "dc682791-d902-4a42-91e7-0e271d213778"
+        },
+        {
+            "pos": [
+                1214,
+                4083
+            ],
+            "node_type": "symbol",
+            "label": "shared control logic",
+            "id": "52d1f494-f6ad-4084-9ac5-286510902253"
+        },
+        {
+            "pos": [
+                1269,
+                3368
+            ],
+            "node_type": "symbol",
+            "label": "shared with Pri Loc access",
+            "id": "c2fee2d8-2b6d-499d-8c67-ad097b915645"
+        },
+        {
+            "pos": [
+                2768,
+                3931
+            ],
+            "node_type": "symbol",
+            "label": "Solenoid actuator",
+            "id": "6026d692-8e08-4dc2-a27f-cb613329ff61"
+        },
+        {
+            "pos": [
+                2477,
+                1383
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "04feffbc-02c9-4da8-80e4-b8cf4fa1a658"
+        },
+        {
+            "pos": [
+                3477,
+                2096
+            ],
+            "node_type": "symbol",
+            "label": "Rotary valve NO",
+            "id": "b1e7b9ff-a44e-42e8-a9ea-6bcb66e34caf"
+        },
+        {
+            "pos": [
+                3205,
+                3274
+            ],
+            "node_type": "symbol",
+            "label": "Jacketed pipe",
+            "id": "e7d7834f-f560-4e09-a567-7be5b10d311e"
+        }
+    ],
+    "edges": []
+}

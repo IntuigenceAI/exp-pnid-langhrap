@@ -8,6 +8,14 @@ from doctr.models import ocr_predictor
 import numpy as np
 import uuid  # For generating unique text IDs
 import tensorflow as tf
+import os 
+    
+current_directory = os.getcwd()
+import sys
+if current_directory not in sys.path:
+    sys.path.append(current_directory)
+print(sys.path)
+
 from src.utils.storage import StorageInterface
 
 # Check for GPU availability
@@ -38,8 +46,9 @@ def extract_text(image_path: str, storage: StorageInterface):
     Returns:
         result (doctr document): Structured OCR result from doctr.
     """
+    
     try:
-        # Load doctr OCR model
+        # Load doctr OCR model    
         model = ocr_predictor(pretrained=True)
 
         # Load the image
@@ -69,6 +78,7 @@ def detect_texts(image_path: str, result_path: str, diagram_bbox: list, storage:
         JSON file: '<input_file_name>_detected_texts.json'.
     """
     try:
+        print()
         # Load the image
         image_data = storage.load_file(image_path)
         image = Image.open(io.BytesIO(image_data))
@@ -129,7 +139,7 @@ def detect_texts(image_path: str, result_path: str, diagram_bbox: list, storage:
         image_name = os.path.splitext(os.path.basename(image_path))[0]
         output_image_path = os.path.join(result_path, f"{image_name}_detected_texts.jpg")
         output_json_path = os.path.join(result_path, f"{image_name}_detected_texts.json")
-
+        
         # Save outputs
         image_byte_array = io.BytesIO()
         image.save(image_byte_array, format="JPEG")
@@ -141,7 +151,25 @@ def detect_texts(image_path: str, result_path: str, diagram_bbox: list, storage:
     except Exception as e:
         raise RuntimeError(f"Error detecting texts: {e}")
 
+def is_within_diagram(text_bbox, diagram_bbox):
+    """
+    Checks if the text bounding box is within the diagram bounding box.
 
+    Parameters:
+        text_bbox (list): The bounding box of the text as [x_min, y_min, x_max, y_max].
+        diagram_bbox (list): The bounding box of the diagram as [x_min, y_min, x_max, y_max].
+
+    Returns:
+        bool: True if the text box is inside the diagram box, False otherwise.
+    """
+    t_xmin, t_ymin, t_xmax, t_ymax = text_bbox
+    d_xmin, d_ymin, d_xmax, d_ymax = diagram_bbox
+
+    # Check that the entire text bbox is inside the diagram bbox
+    return (t_xmin >= d_xmin and t_ymin >= d_ymin and 
+            t_xmax <= d_xmax and t_ymax <= d_ymax)
+    
+    
 def detect_text(image_path: str, storage: StorageInterface):
     """
     Wrapper for detect_texts for simplified use.
@@ -153,9 +181,10 @@ def detect_text(image_path: str, storage: StorageInterface):
 
 
 if __name__ == "__main__":
+    
     from src.utils.storage import StorageFactory
 
-    image_path = "samples/images/55A0171D02_pdf_p0001.png"
+    image_path = "/Users/hivamoh/Desktop/IntuigenceAI/exp-pnid-langhrap/src/utils/001.jpg"
     result_path = "results"
     diagram_bbox = [100, 200, 300, 400]  # Example diagram bounding box
 

@@ -1,10 +1,10 @@
 {
-    "python_version": "3.11",
+    "python_version": "3.12.2",
     "dependencies": [
         "."
     ],
     "graphs": {
-        "pandID_agent": "./src/agent.py:graph"
+        "pandID_agent": "/Users/hivamoh/Desktop/IntuigenceAI/exp-pnid-langhrap/agent_p_and_id.py:app"
     },
     "env": ".env"
 }

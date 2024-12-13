@@ -22,18 +22,23 @@ def map_relationships(symbols, text_annotations):
             if i >= j:  # Avoid duplicate pairs
                 continue
             # Check proximity
-            distance = calculate_distance(symbol1["position"], symbol2["position"])
+            distance = calculate_distance(symbol1["bbox"], symbol2["bbox"])
             if distance < 100:  # Threshold for relationship proximity
                 relationships.append({
-                    "source": symbol1["id"],
-                    "target": symbol2["id"],
+                    "source": symbol1["symbol_id"],
+                    "target": symbol2["symbol_id"],
                     "relationship": "connected"
                 })
 
     # Annotate relationships with text if available
     for annotation in text_annotations:
         for relationship in relationships:
-            if calculate_distance(annotation["position"], symbols[relationship["source"]]["position"]) < 50:
+            
+            source_symbol = next((sym for sym in symbols if sym["symbol_id"] == relationship["source"]), None)
+            
+            # Now you can use source_symbol["bbox"] safely
+            if calculate_distance(annotation["bbox"], source_symbol["bbox"]) < 50:
                 relationship["annotation"] = annotation["text"]
+                
 
     return relationships

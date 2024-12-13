@@ -1,0 +1,338 @@
+[
+    {
+        "symbol_id": "013416e1-6aa9-460b-b97f-6da4cf9948fe",
+        "class_id": 12,
+        "category": "inst",
+        "type": "valv",
+        "label": "Globe valve NC",
+        "confidence": 0.6611266732215881,
+        "bbox": [
+            2463,
+            1909,
+            2538,
+            1960
+        ]
+    },
+    {
+        "symbol_id": "f63f9bbd-b6ea-4daf-a943-810e7dce9485",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.5721167325973511,
+        "bbox": [
+            3440,
+            3458,
+            3545,
+            3572
+        ]
+    },
+    {
+        "symbol_id": "a4250e87-ad28-4846-a301-372b3f8db34d",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.5599952936172485,
+        "bbox": [
+            3094,
+            3933,
+            3190,
+            4028
+        ]
+    },
+    {
+        "symbol_id": "97280f37-cf6f-4fa0-9d80-903d298730a5",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.5069051384925842,
+        "bbox": [
+            4476,
+            2806,
+            4579,
+            2862
+        ]
+    },
+    {
+        "symbol_id": "a339d0ad-2cbe-4593-ad32-267cc0ab762f",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.4910773038864136,
+        "bbox": [
+            1481,
+            2319,
+            1585,
+            2419
+        ]
+    },
+    {
+        "symbol_id": "ecc7f1c1-1a0b-4345-b668-07f03ccc8a9a",
+        "class_id": 12,
+        "category": "inst",
+        "type": "valv",
+        "label": "Globe valve NC",
+        "confidence": 0.4714871942996979,
+        "bbox": [
+            311,
+            4222,
+            367,
+            4306
+        ]
+    },
+    {
+        "symbol_id": "5349064f-6db6-41e7-a6ff-0ce17148bde7",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.45296570658683777,
+        "bbox": [
+            3064,
+            3955,
+            3172,
+            4036
+        ]
+    },
+    {
+        "symbol_id": "29b07635-17d9-4574-b5a6-a1b637567cde",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.35231927037239075,
+        "bbox": [
+            1042,
+            4190,
+            1158,
+            4305
+        ]
+    },
+    {
+        "symbol_id": "78a5ee32-4824-4efa-81dd-9c935ef0ed1e",
+        "class_id": 10,
+        "category": "inst",
+        "type": "valv",
+        "label": "Sealing gate valve",
+        "confidence": 0.3477588891983032,
+        "bbox": [
+            3603,
+            3605,
+            3661,
+            3699
+        ]
+    },
+    {
+        "symbol_id": "2cbedbb6-dda7-479d-824b-babe8272b217",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.3443920612335205,
+        "bbox": [
+            2021,
+            3951,
+            2137,
+            4070
+        ]
+    },
+    {
+        "symbol_id": "b4557c0e-7af5-49d1-8eb9-ba1a8cf06f27",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.31420081853866577,
+        "bbox": [
+            571,
+            886,
+            681,
+            1018
+        ]
+    },
+    {
+        "symbol_id": "c20ffa79-110f-453b-9be7-2770e82567c5",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.3134527802467346,
+        "bbox": [
+            3465,
+            1424,
+            3513,
+            1536
+        ]
+    },
+    {
+        "symbol_id": "861b1a58-5052-44e4-81f7-43605f2c96eb",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.3063228726387024,
+        "bbox": [
+            3738,
+            1201,
+            3819,
+            1314
+        ]
+    },
+    {
+        "symbol_id": "a4f25673-f242-42de-9e88-acd1df7d1ac2",
+        "class_id": 12,
+        "category": "inst",
+        "type": "valv",
+        "label": "Globe valve NC",
+        "confidence": 0.2924722135066986,
+        "bbox": [
+            1847,
+            1347,
+            1948,
+            1418
+        ]
+    },
+    {
+        "symbol_id": "38b22be2-ba8c-4027-9c92-1e462c7241e6",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.28491103649139404,
+        "bbox": [
+            6688,
+            3933,
+            6799,
+            4040
+        ]
+    },
+    {
+        "symbol_id": "08cf71b5-be75-4199-ae2d-db382a110a99",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.2726738452911377,
+        "bbox": [
+            2892,
+            1737,
+            2959,
+            1841
+        ]
+    },
+    {
+        "symbol_id": "7d5de3d3-063d-408d-885b-129670e05b2f",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.2678735852241516,
+        "bbox": [
+            1577,
+            463,
+            1682,
+            565
+        ]
+    },
+    {
+        "symbol_id": "4552bf3c-96b9-481c-94c5-c4dcfce48498",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.2670317590236664,
+        "bbox": [
+            1142,
+            3538,
+            1239,
+            3642
+        ]
+    },
+    {
+        "symbol_id": "1b23ff3d-cbdf-4c43-ab59-2c8843c870d0",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.26432570815086365,
+        "bbox": [
+            602,
+            3770,
+            707,
+            3886
+        ]
+    },
+    {
+        "symbol_id": "7051157b-40a8-4cd0-87ea-b5991261db5e",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.26285505294799805,
+        "bbox": [
+            3461,
+            1759,
+            3507,
+            1881
+        ]
+    },
+    {
+        "symbol_id": "14e7402b-5b42-43de-b3e1-ee3d2f6bc17d",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.2628161907196045,
+        "bbox": [
+            851,
+            1726,
+            960,
+            1837
+        ]
+    },
+    {
+        "symbol_id": "e3d0591a-85f3-4bb4-9234-d5a005b52706",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.25847136974334717,
+        "bbox": [
+            1475,
+            2315,
+            1586,
+            2436
+        ]
+    },
+    {
+        "symbol_id": "81956805-06a7-48f7-8b9d-f730e7f6cf4e",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.2579641044139862,
+        "bbox": [
+            2703,
+            3900,
+            2799,
+            4003
+        ]
+    },
+    {
+        "symbol_id": "218ad1f0-f972-47cd-a815-b54dd496e893",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.25431299209594727,
+        "bbox": [
+            3608,
+            3595,
+            3659,
+            3702
+        ]
+    }
+]

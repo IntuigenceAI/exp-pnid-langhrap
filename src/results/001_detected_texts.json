@@ -1,0 +1,2411 @@
+[
+    {
+        "text_id": "7ad6901a-df0a-4e37-a11e-73604262ec2f",
+        "content": "3",
+        "confidence": 0.9980506896972656,
+        "bbox": [
+            1733,
+            125,
+            1768,
+            165
+        ]
+    },
+    {
+        "text_id": "fae46bdf-3d69-4aee-a8c0-04fba7813925",
+        "content": "t",
+        "confidence": 0.9864875078201294,
+        "bbox": [
+            2271,
+            111,
+            2305,
+            165
+        ]
+    },
+    {
+        "text_id": "f981935d-e085-4f4b-a215-2dd7b32044d1",
+        "content": "2",
+        "confidence": 0.99842768907547,
+        "bbox": [
+            2818,
+            125,
+            2853,
+            165
+        ]
+    },
+    {
+        "text_id": "cf3d6944-e216-40b9-b6a7-eca505ea6ce8",
+        "content": "NOTES:",
+        "confidence": 0.9951727390289307,
+        "bbox": [
+            3750,
+            200,
+            3869,
+            255
+        ]
+    },
+    {
+        "text_id": "3bdc9612-70d1-466a-b758-39555472e888",
+        "content": "RESRNAISARLERD",
+        "confidence": 1.3749564153897609e-08,
+        "bbox": [
+            3745,
+            225,
+            4133,
+            310
+        ]
+    },
+    {
+        "text_id": "c47c77f8-8359-401d-a928-2789e4280e65",
+        "content": "SE",
+        "confidence": 0.2955763339996338,
+        "bbox": [
+            4113,
+            235,
+            4178,
+            305
+        ]
+    },
+    {
+        "text_id": "0b13b74d-225c-4eb6-8150-2ca5df7b2167",
+        "content": "BNSANO",
+        "confidence": 0.013193530961871147,
+        "bbox": [
+            4158,
+            235,
+            4288,
+            310
+        ]
+    },
+    {
+        "text_id": "15414ec2-b613-44e2-985d-0b06e08d8955",
+        "content": "006.",
+        "confidence": 0.8542097806930542,
+        "bbox": [
+            4268,
+            250,
+            4337,
+            305
+        ]
+    },
+    {
+        "text_id": "755ca33d-53b7-4489-b478-a06e716e2190",
+        "content": "BLAPORT",
+        "confidence": 0.002447580685839057,
+        "bbox": [
+            3745,
+            280,
+            3944,
+            379
+        ]
+    },
+    {
+        "text_id": "6bcf4d12-7f95-4ad1-b996-5d9dff2fbdd4",
+        "content": "TLOOP",
+        "confidence": 0.5579863786697388,
+        "bbox": [
+            3919,
+            290,
+            3994,
+            355
+        ]
+    },
+    {
+        "text_id": "722421de-a1ce-416d-b34d-684b22b74294",
+        "content": "PANDINTERLOCK",
+        "confidence": 0.6381630301475525,
+        "bbox": [
+            3979,
+            290,
+            4168,
+            355
+        ]
+    },
+    {
+        "text_id": "28184536-2bde-41dd-a8d0-91f4a03ec287",
+        "content": "ANBERS-SHONNSE",
+        "confidence": 0.0058434768579900265,
+        "bbox": [
+            4153,
+            290,
+            4367,
+            360
+        ]
+    },
+    {
+        "text_id": "af8ce51f-b193-4709-a840-b54d57f0ad53",
+        "content": "Sef",
+        "confidence": 0.09789057821035385,
+        "bbox": [
+            776,
+            340,
+            841,
+            399
+        ]
+    },
+    {
+        "text_id": "122b9c45-d3c3-41a5-8154-6aa7ce53df7c",
+        "content": "FOR",
+        "confidence": 0.9934403300285339,
+        "bbox": [
+            4004,
+            360,
+            4074,
+            409
+        ]
+    },
+    {
+        "text_id": "d3575a0b-2071-43d4-aec2-83cb7c20bad2",
+        "content": "TV-032",
+        "confidence": 0.9024009108543396,
+        "bbox": [
+            4054,
+            360,
+            4158,
+            409
+        ]
+    },
+    {
+        "text_id": "248bd596-347a-439a-99a6-42493678b070",
+        "content": "BYPASS",
+        "confidence": 0.6290000081062317,
+        "bbox": [
+            4148,
+            360,
+            4248,
+            409
+        ]
+    },
+    {
+        "text_id": "ad8760f6-7a35-4344-993a-8f55f273f44b",
+        "content": "DONOT",
+        "confidence": 0.915510892868042,
+        "bbox": [
+            4253,
+            360,
+            4357,
+            409
+        ]
+    },
+    {
+        "text_id": "b5478984-a903-40b7-bb22-48be420ba67f",
+        "content": "025",
+        "confidence": 0.8705800175666809,
+        "bbox": [
+            727,
+            379,
+            786,
+            444
+        ]
+    },
+    {
+        "text_id": "ba6a6833-05cc-4e38-981f-79850da9f5b2",
+        "content": "GLOSEAMANVELSFOUIRED",
+        "confidence": 0.000271895551122725,
+        "bbox": [
+            3750,
+            360,
+            4019,
+            434
+        ]
+    },
+    {
+        "text_id": "8da329d1-2fad-4529-8b6f-4f1b1b1ab787",
+        "content": "NOTE",
+        "confidence": 0.9987943172454834,
+        "bbox": [
+            687,
+            424,
+            757,
+            474
+        ]
+    },
+    {
+        "text_id": "96631ace-2c32-487f-97a7-486c448c5612",
+        "content": "10'x8",
+        "confidence": 0.2734353840351105,
+        "bbox": [
+            1763,
+            409,
+            1832,
+            459
+        ]
+    },
+    {
+        "text_id": "b7c8ef07-1ad6-424d-8320-76db206fb8c6",
+        "content": "SLOPE",
+        "confidence": 0.974638044834137,
+        "bbox": [
+            2669,
+            409,
+            2759,
+            464
+        ]
+    },
+    {
+        "text_id": "fecc1c76-d0a1-4ae0-ac4d-18c92070785d",
+        "content": "10'-P-411011-PAB",
+        "confidence": 0.29436641931533813,
+        "bbox": [
+            3252,
+            414,
+            3496,
+            479
+        ]
+    },
+    {
+        "text_id": "28e050c5-be31-463f-8e19-c3d460eb4e83",
+        "content": "REUE-VAM",
+        "confidence": 0.015954744070768356,
+        "bbox": [
+            3516,
+            384,
+            3660,
+            464
+        ]
+    },
+    {
+        "text_id": "f47c069e-0463-477a-b6f7-f26c200a7cd6",
+        "content": "BELERALVERSON",
+        "confidence": 0.002816602820530534,
+        "bbox": [
+            3750,
+            414,
+            3974,
+            484
+        ]
+    },
+    {
+        "text_id": "7d1ce298-82c5-4f46-9eef-465ab0b8dbd7",
+        "content": "LINE",
+        "confidence": 0.5262588858604431,
+        "bbox": [
+            4014,
+            414,
+            4083,
+            464
+        ]
+    },
+    {
+        "text_id": "b035fda0-f4b1-4363-97eb-c4cbdbf2daf9",
+        "content": "TO",
+        "confidence": 0.9887908697128296,
+        "bbox": [
+            4079,
+            419,
+            4118,
+            459
+        ]
+    },
+    {
+        "text_id": "96136a1f-4ce8-4488-82da-c68dcb8b31a0",
+        "content": "CONNECT",
+        "confidence": 0.9815901517868042,
+        "bbox": [
+            4103,
+            414,
+            4228,
+            464
+        ]
+    },
+    {
+        "text_id": "7ff81b60-4de9-4f8e-be6d-d6c66b15cc9d",
+        "content": "TO",
+        "confidence": 0.9814441800117493,
+        "bbox": [
+            4213,
+            419,
+            4258,
+            459
+        ]
+    },
+    {
+        "text_id": "1101d99a-a047-4122-8508-f4ece9e8eed6",
+        "content": "TOPOF",
+        "confidence": 0.9815274477005005,
+        "bbox": [
+            4248,
+            409,
+            4352,
+            464
+        ]
+    },
+    {
+        "text_id": "bf65a047-583c-4af8-bc02-41f619b517c5",
+        "content": "NOTE",
+        "confidence": 0.8634262681007385,
+        "bbox": [
+            1882,
+            464,
+            1957,
+            524
+        ]
+    },
+    {
+        "text_id": "1edb5ee1-ebd8-40fb-bac2-945666a8c5b7",
+        "content": "FREE",
+        "confidence": 0.989616334438324,
+        "bbox": [
+            3252,
+            459,
+            3331,
+            519
+        ]
+    },
+    {
+        "text_id": "fce50649-0cdf-4813-9eeb-e6b5621ae907",
+        "content": "DRAINING",
+        "confidence": 0.7561768889427185,
+        "bbox": [
+            3316,
+            459,
+            3431,
+            514
+        ]
+    },
+    {
+        "text_id": "2aa852cf-33d4-49a5-815d-a10a5cc7e791",
+        "content": "-",
+        "confidence": 0.0801907479763031,
+        "bbox": [
+            3516,
+            429,
+            3685,
+            534
+        ]
+    },
+    {
+        "text_id": "762b679c-4898-48ac-9478-b78109a32f89",
+        "content": "5.",
+        "confidence": 0.9778528213500977,
+        "bbox": [
+            3705,
+            469,
+            3755,
+            519
+        ]
+    },
+    {
+        "text_id": "ef0acedb-1a0a-4153-8a52-ccf915f55101",
+        "content": "LOCATE_RV-O24",
+        "confidence": 0.028361136093735695,
+        "bbox": [
+            3745,
+            469,
+            3939,
+            534
+        ]
+    },
+    {
+        "text_id": "1cd012c1-4d00-45ce-ad26-37ec7f0e1e1a",
+        "content": "AND",
+        "confidence": 0.9838084578514099,
+        "bbox": [
+            3924,
+            464,
+            3994,
+            519
+        ]
+    },
+    {
+        "text_id": "e27405a6-561e-4c7a-8187-583b1b90a8be",
+        "content": "RV-025",
+        "confidence": 0.9652952551841736,
+        "bbox": [
+            3974,
+            469,
+            4083,
+            514
+        ]
+    },
+    {
+        "text_id": "b963fc0c-3795-4a44-9299-1f76bec68682",
+        "content": "AT",
+        "confidence": 0.9983781576156616,
+        "bbox": [
+            4074,
+            474,
+            4113,
+            504
+        ]
+    },
+    {
+        "text_id": "d1982742-e418-4b68-ad20-0a6c64c35c5e",
+        "content": "MINIMUM",
+        "confidence": 0.9752963185310364,
+        "bbox": [
+            4103,
+            464,
+            4213,
+            514
+        ]
+    },
+    {
+        "text_id": "5d707f04-afb8-4e09-9bc4-68a4832e5692",
+        "content": "DISTANCE",
+        "confidence": 0.9963569641113281,
+        "bbox": [
+            4198,
+            464,
+            4318,
+            514
+        ]
+    },
+    {
+        "text_id": "7147f793-c161-4dae-99d6-d21e232ec4d4",
+        "content": "D",
+        "confidence": 0.9843011498451233,
+        "bbox": [
+            4402,
+            504,
+            4447,
+            544
+        ]
+    },
+    {
+        "text_id": "d905886b-74fc-4f47-9f73-5ed89b33f8cd",
+        "content": "STECE",
+        "confidence": 7.144223491195589e-05,
+        "bbox": [
+            3740,
+            504,
+            4148,
+            624
+        ]
+    },
+    {
+        "text_id": "e22b54ab-0dc8-481a-923b-240577a6bd6a",
+        "content": "ONOSICONNSCTIONS",
+        "confidence": 0.008598673157393932,
+        "bbox": [
+            4118,
+            519,
+            4372,
+            589
+        ]
+    },
+    {
+        "text_id": "d91ff5c3-936f-439b-98c8-057115726983",
+        "content": "-",
+        "confidence": 0.1641557514667511,
+        "bbox": [
+            3735,
+            579,
+            3979,
+            703
+        ]
+    },
+    {
+        "text_id": "ef5c7fe3-1526-4fcf-b294-f2ab45b8f09c",
+        "content": "NOHEHCH/ASEE",
+        "confidence": 1.6243826394202188e-05,
+        "bbox": [
+            3745,
+            668,
+            3954,
+            738
+        ]
+    },
+    {
+        "text_id": "d1d65db8-60b6-4b17-a140-976a14d86e59",
+        "content": "TNE",
+        "confidence": 0.07037197053432465,
+        "bbox": [
+            3944,
+            673,
+            4014,
+            733
+        ]
+    },
+    {
+        "text_id": "5cae58f5-6b79-4fca-8e0b-f50058daaebd",
+        "content": "DELQ1",
+        "confidence": 0.007286250125616789,
+        "bbox": [
+            3994,
+            673,
+            4083,
+            733
+        ]
+    },
+    {
+        "text_id": "66b994f8-4578-4d94-a1ca-ff4d457ee0f1",
+        "content": "ERAT",
+        "confidence": 0.02726207673549652,
+        "bbox": [
+            3924,
+            564,
+            4407,
+            748
+        ]
+    },
+    {
+        "text_id": "f933ed72-859b-493f-91e9-853771698a54",
+        "content": "PAE",
+        "confidence": 0.9980887770652771,
+        "bbox": [
+            1603,
+            728,
+            1653,
+            763
+        ]
+    },
+    {
+        "text_id": "e0413372-b9d6-4933-a86f-527de823b0ff",
+        "content": "PERMANENT",
+        "confidence": 0.9677009582519531,
+        "bbox": [
+            3750,
+            718,
+            3894,
+            768
+        ]
+    },
+    {
+        "text_id": "a76feb12-cf6f-4fbf-9872-a2dd6a4bd356",
+        "content": "ACCESS",
+        "confidence": 0.603832483291626,
+        "bbox": [
+            3879,
+            718,
+            3979,
+            768
+        ]
+    },
+    {
+        "text_id": "1eef8c45-c870-47f4-a644-2e5282ce65bf",
+        "content": "TO",
+        "confidence": 0.901183545589447,
+        "bbox": [
+            3969,
+            723,
+            4019,
+            758
+        ]
+    },
+    {
+        "text_id": "33d52651-9e8b-4133-a6eb-13041b811109",
+        "content": "THE",
+        "confidence": 0.9942781925201416,
+        "bbox": [
+            4004,
+            718,
+            4069,
+            768
+        ]
+    },
+    {
+        "text_id": "2feb414e-db52-46cb-bc33-0d2d080d6834",
+        "content": "FLOW",
+        "confidence": 0.9722521901130676,
+        "bbox": [
+            4049,
+            718,
+            4128,
+            768
+        ]
+    },
+    {
+        "text_id": "7a60e1af-dcf7-4973-93ae-27dd550413e1",
+        "content": "WMETER.",
+        "confidence": 0.6116819381713867,
+        "bbox": [
+            4108,
+            718,
+            4208,
+            768
+        ]
+    },
+    {
+        "text_id": "acd53c12-6b14-452c-a399-1c85c8e96bf5",
+        "content": "SAMPLEPOINT",
+        "confidence": 0.9604935646057129,
+        "bbox": [
+            3750,
+            763,
+            3919,
+            813
+        ]
+    },
+    {
+        "text_id": "7dff2254-7e19-4e01-a172-dca1e8259b01",
+        "content": "TO",
+        "confidence": 0.9024473428726196,
+        "bbox": [
+            3914,
+            768,
+            3964,
+            803
+        ]
+    },
+    {
+        "text_id": "3b79db7a-ae23-4ba2-b283-aa11a610540a",
+        "content": "BE",
+        "confidence": 0.9996395707130432,
+        "bbox": [
+            3954,
+            768,
+            3994,
+            803
+        ]
+    },
+    {
+        "text_id": "1c932af1-9daf-478a-8dd0-a3eaec66e1c4",
+        "content": "MINIMUM",
+        "confidence": 0.9371036291122437,
+        "bbox": [
+            3984,
+            763,
+            4093,
+            813
+        ]
+    },
+    {
+        "text_id": "4465c6d0-cee8-474a-8102-99815693e268",
+        "content": "DISTANCE",
+        "confidence": 0.9983333945274353,
+        "bbox": [
+            4079,
+            758,
+            4193,
+            813
+        ]
+    },
+    {
+        "text_id": "70f83bbe-d5dc-4726-9903-c7053baae14d",
+        "content": "FROM",
+        "confidence": 0.9883185625076294,
+        "bbox": [
+            4178,
+            763,
+            4268,
+            813
+        ]
+    },
+    {
+        "text_id": "cb415f3c-c91f-4031-9561-3eca84a714ee",
+        "content": "MAIN",
+        "confidence": 0.9986419081687927,
+        "bbox": [
+            4253,
+            768,
+            4318,
+            803
+        ]
+    },
+    {
+        "text_id": "dc02137c-fa09-4e6b-950e-7fbd5c014459",
+        "content": "LINE",
+        "confidence": 0.6575432419776917,
+        "bbox": [
+            4313,
+            768,
+            4372,
+            803
+        ]
+    },
+    {
+        "text_id": "c59d5b37-241a-46d9-8b53-fd8903e08541",
+        "content": "CORECION",
+        "confidence": 0.06072358787059784,
+        "bbox": [
+            3750,
+            803,
+            3899,
+            878
+        ]
+    },
+    {
+        "text_id": "ff255b67-885b-46f0-8b21-c3a4accf8c4e",
+        "content": "FOR",
+        "confidence": 0.9952059388160706,
+        "bbox": [
+            3884,
+            803,
+            3954,
+            853
+        ]
+    },
+    {
+        "text_id": "ab31f1c9-0b77-49df-9c6d-df68bb7218be",
+        "content": "FUTURE",
+        "confidence": 0.9793479442596436,
+        "bbox": [
+            3934,
+            803,
+            4044,
+            853
+        ]
+    },
+    {
+        "text_id": "6da511d1-e9da-405e-a395-bc7eaec32321",
+        "content": "OIL",
+        "confidence": 0.7684893608093262,
+        "bbox": [
+            4029,
+            808,
+            4079,
+            848
+        ]
+    },
+    {
+        "text_id": "6b23b3be-bb46-46f6-91cb-5386079ce1f7",
+        "content": "SOLUBLE",
+        "confidence": 0.9986276626586914,
+        "bbox": [
+            4069,
+            803,
+            4183,
+            853
+        ]
+    },
+    {
+        "text_id": "3ea198a2-8f1e-4ae2-b6ae-9be16b220665",
+        "content": "DEMULSIFIER",
+        "confidence": 0.9972200989723206,
+        "bbox": [
+            4168,
+            803,
+            4318,
+            853
+        ]
+    },
+    {
+        "text_id": "1df57847-7436-45e1-86e8-8f16e7ff26dc",
+        "content": "RERER-IOPADING",
+        "confidence": 0.015802761539816856,
+        "bbox": [
+            3750,
+            863,
+            3979,
+            932
+        ]
+    },
+    {
+        "text_id": "b2695ade-26a7-4c6d-8b68-10c097dab2d4",
+        "content": "41.000.00.041.201",
+        "confidence": 0.28806760907173157,
+        "bbox": [
+            3974,
+            863,
+            4218,
+            912
+        ]
+    },
+    {
+        "text_id": "4c57497f-b593-4d99-98dd-397a9529e3d3",
+        "content": "FOR",
+        "confidence": 0.9997644424438477,
+        "bbox": [
+            4208,
+            863,
+            4273,
+            912
+        ]
+    },
+    {
+        "text_id": "e993f11a-c8a9-4c2c-8968-de9ecc2f1604",
+        "content": "meurteag",
+        "confidence": 0.0015905892942100763,
+        "bbox": [
+            3501,
+            987,
+            3690,
+            1092
+        ]
+    },
+    {
+        "text_id": "82e768ca-b964-4601-944f-a4c1409f6156",
+        "content": "E",
+        "confidence": 0.6272754073143005,
+        "bbox": [
+            1653,
+            1181,
+            1683,
+            1221
+        ]
+    },
+    {
+        "text_id": "27050af5-f3c3-4783-84ad-5ab24eb55cb4",
+        "content": "16'x10\"",
+        "confidence": 0.5243541598320007,
+        "bbox": [
+            1768,
+            1176,
+            1862,
+            1226
+        ]
+    },
+    {
+        "text_id": "09246c25-8656-4d9d-ae73-40dd4c2cd4c9",
+        "content": "ET",
+        "confidence": 0.9995681047439575,
+        "bbox": [
+            2191,
+            1191,
+            2226,
+            1221
+        ]
+    },
+    {
+        "text_id": "21ca2e31-fc05-4325-afb2-394f28d4d7df",
+        "content": "10-P-411009-PAE",
+        "confidence": 0.49894824624061584,
+        "bbox": [
+            3277,
+            1186,
+            3496,
+            1236
+        ]
+    },
+    {
+        "text_id": "16169424-dc91-4064-a475-e5aa55a8decb",
+        "content": "ouypenues",
+        "confidence": 8.006967254914343e-05,
+        "bbox": [
+            3471,
+            1166,
+            3690,
+            1266
+        ]
+    },
+    {
+        "text_id": "86e2305d-e582-4c82-a737-d9af7feda107",
+        "content": "C",
+        "confidence": 0.952362060546875,
+        "bbox": [
+            134,
+            1261,
+            174,
+            1301
+        ]
+    },
+    {
+        "text_id": "119f6a2d-bdee-46aa-9048-e5bf99fd5789",
+        "content": "2X",
+        "confidence": 0.5704502463340759,
+        "bbox": [
+            2564,
+            1236,
+            2629,
+            1291
+        ]
+    },
+    {
+        "text_id": "31dc4e52-482e-4ea7-ba19-c91c772232ca",
+        "content": "B-ALOIVS",
+        "confidence": 0.0008984884480014443,
+        "bbox": [
+            3262,
+            1221,
+            3416,
+            1301
+        ]
+    },
+    {
+        "text_id": "9ecd60c7-690a-45d8-8dbe-0bb1548b909a",
+        "content": "E-41102A/B",
+        "confidence": 0.7662215232849121,
+        "bbox": [
+            3526,
+            1236,
+            3680,
+            1286
+        ]
+    },
+    {
+        "text_id": "b12f260f-5ea2-42d0-a9d0-0650aecd68d8",
+        "content": "C",
+        "confidence": 0.9270060658454895,
+        "bbox": [
+            4407,
+            1261,
+            4447,
+            1301
+        ]
+    },
+    {
+        "text_id": "c3ea0095-14eb-44f7-8bd6-95715c22ad27",
+        "content": "8\"",
+        "confidence": 0.8631027340888977,
+        "bbox": [
+            2689,
+            1331,
+            2729,
+            1366
+        ]
+    },
+    {
+        "text_id": "747fdcbf-4a79-4d25-95ce-b84ddd90bf91",
+        "content": "\"-P",
+        "confidence": 0.822860836982727,
+        "bbox": [
+            413,
+            1391,
+            458,
+            1420
+        ]
+    },
+    {
+        "text_id": "04c0f27f-6900-4b17-8893-7d6d241db1ff",
+        "content": "110",
+        "confidence": 0.7696962952613831,
+        "bbox": [
+            493,
+            1391,
+            527,
+            1420
+        ]
+    },
+    {
+        "text_id": "73e07b41-e10a-4baa-9661-fc30a9d8c4ca",
+        "content": "BITUMEN",
+        "confidence": 0.9387333393096924,
+        "bbox": [
+            3566,
+            1366,
+            3670,
+            1415
+        ]
+    },
+    {
+        "text_id": "24ca41b6-964c-49f9-88f9-15caf06d5f30",
+        "content": "Em",
+        "confidence": 0.6905348300933838,
+        "bbox": [
+            323,
+            1400,
+            393,
+            1480
+        ]
+    },
+    {
+        "text_id": "431ab851-fc1b-4253-aca1-e5aac78881e5",
+        "content": "RECOMBINATION",
+        "confidence": 0.9668043851852417,
+        "bbox": [
+            388,
+            1425,
+            557,
+            1480
+        ]
+    },
+    {
+        "text_id": "57b50726-2231-4982-98e4-10ed99d2c3a8",
+        "content": "RUMCUM",
+        "confidence": 0.17389744520187378,
+        "bbox": [
+            737,
+            1425,
+            841,
+            1485
+        ]
+    },
+    {
+        "text_id": "5e2ac5f5-5e45-4a35-bf88-b0d1070cf52c",
+        "content": "FLOW",
+        "confidence": 0.9895747900009155,
+        "bbox": [
+            831,
+            1440,
+            911,
+            1490
+        ]
+    },
+    {
+        "text_id": "93f8de88-7a3d-42ed-9ae7-c65d8cfacf58",
+        "content": "DE",
+        "confidence": 0.11245159804821014,
+        "bbox": [
+            174,
+            1341,
+            428,
+            1525
+        ]
+    },
+    {
+        "text_id": "46f1c0ef-e056-41c3-adae-9ca1840777ed",
+        "content": "MuaCs",
+        "confidence": 9.631011926103383e-05,
+        "bbox": [
+            3217,
+            1341,
+            3700,
+            1505
+        ]
+    },
+    {
+        "text_id": "a25a2a09-8b4e-46c5-8d3c-b7c64ddf1e50",
+        "content": "I",
+        "confidence": 0.6244485974311829,
+        "bbox": [
+            4452,
+            1565,
+            4502,
+            1679
+        ]
+    },
+    {
+        "text_id": "3a05753d-f8f3-4eaf-8761-8906660f0c6c",
+        "content": "GO",
+        "confidence": 0.9561031460762024,
+        "bbox": [
+            373,
+            1709,
+            408,
+            1739
+        ]
+    },
+    {
+        "text_id": "b62a7bad-16bd-4391-b53c-245546b44f17",
+        "content": "X2",
+        "confidence": 0.7863730192184448,
+        "bbox": [
+            2027,
+            1669,
+            2061,
+            1714
+        ]
+    },
+    {
+        "text_id": "481581c6-701f-43ee-a390-c5bc5a2a9d6e",
+        "content": "T40",
+        "confidence": 0.6511469483375549,
+        "bbox": [
+            3217,
+            1689,
+            3257,
+            1719
+        ]
+    },
+    {
+        "text_id": "932d6101-235d-4a7f-ab1e-4e5eb5d98cac",
+        "content": "Laorueny",
+        "confidence": 5.58673445993918e-06,
+        "bbox": [
+            184,
+            1689,
+            348,
+            1784
+        ]
+    },
+    {
+        "text_id": "15508afb-796c-4c08-8233-b8eb23d8cb85",
+        "content": "-OP-411",
+        "confidence": 0.8716974258422852,
+        "bbox": [
+            458,
+            1724,
+            547,
+            1754
+        ]
+    },
+    {
+        "text_id": "07429021-7af5-4c16-a343-70c00b9721df",
+        "content": "TAR",
+        "confidence": 0.7218167185783386,
+        "bbox": [
+            2525,
+            1724,
+            2564,
+            1759
+        ]
+    },
+    {
+        "text_id": "1e94a0ac-18fe-49e6-9c52-00bdcb9b5849",
+        "content": "368-PAD",
+        "confidence": 0.4596099257469177,
+        "bbox": [
+            3411,
+            1684,
+            3496,
+            1739
+        ]
+    },
+    {
+        "text_id": "1007233e-fb22-4943-9131-d4d97394477c",
+        "content": "MAULC",
+        "confidence": 0.012657571583986282,
+        "bbox": [
+            3536,
+            1669,
+            3685,
+            1754
+        ]
+    },
+    {
+        "text_id": "e0d5af7e-3ded-4851-b6df-529dbc4fee49",
+        "content": "FROM",
+        "confidence": 0.9239804744720459,
+        "bbox": [
+            3431,
+            1729,
+            3516,
+            1784
+        ]
+    },
+    {
+        "text_id": "46939c2c-36a7-4d84-b831-3dd1fdd0fffb",
+        "content": "I",
+        "confidence": 0.2939126789569855,
+        "bbox": [
+            4457,
+            1684,
+            4507,
+            1779
+        ]
+    },
+    {
+        "text_id": "c6735103-dd5c-424a-97e1-615fcb0cdad8",
+        "content": "FROM",
+        "confidence": 0.9930974245071411,
+        "bbox": [
+            199,
+            1754,
+            283,
+            1809
+        ]
+    },
+    {
+        "text_id": "ef7f9049-55f1-41f1-a027-e5da4779994b",
+        "content": "STORAGE",
+        "confidence": 0.42959123849868774,
+        "bbox": [
+            263,
+            1759,
+            373,
+            1809
+        ]
+    },
+    {
+        "text_id": "e6218da9-532b-446b-8d45-03a82cff70b0",
+        "content": "NONE",
+        "confidence": 0.9873971939086914,
+        "bbox": [
+            652,
+            1769,
+            732,
+            1819
+        ]
+    },
+    {
+        "text_id": "fddb7d85-6b14-4347-9d5a-0b8b27b6ef48",
+        "content": "ET",
+        "confidence": 0.9662337899208069,
+        "bbox": [
+            717,
+            1764,
+            781,
+            1819
+        ]
+    },
+    {
+        "text_id": "09b0bee6-6d38-4e48-b0c1-551093366b52",
+        "content": "NOT",
+        "confidence": 0.9980554580688477,
+        "bbox": [
+            766,
+            1769,
+            811,
+            1799
+        ]
+    },
+    {
+        "text_id": "e350682f-97a9-4403-ae1a-eee359f3a818",
+        "content": "3/47",
+        "confidence": 0.2977183163166046,
+        "bbox": [
+            881,
+            1764,
+            956,
+            1819
+        ]
+    },
+    {
+        "text_id": "9d93250c-1586-4a69-b574-a4a2bff6fbd9",
+        "content": "RECOUENATON",
+        "confidence": 0.16896869242191315,
+        "bbox": [
+            3496,
+            1724,
+            3680,
+            1804
+        ]
+    },
+    {
+        "text_id": "52b9e76c-f0d7-49db-a07f-e4a41e734427",
+        "content": "COLPICOTION",
+        "confidence": 0.030563628301024437,
+        "bbox": [
+            199,
+            1799,
+            373,
+            1869
+        ]
+    },
+    {
+        "text_id": "b6a35804-0d4a-4bb9-9deb-10ebcc123a57",
+        "content": "I",
+        "confidence": 0.4451373219490051,
+        "bbox": [
+            4457,
+            1764,
+            4507,
+            1854
+        ]
+    },
+    {
+        "text_id": "b8abd415-a701-4826-9c67-23f2ec46a36a",
+        "content": "411-0",
+        "confidence": 0.7643265128135681,
+        "bbox": [
+            219,
+            1854,
+            303,
+            1904
+        ]
+    },
+    {
+        "text_id": "13c9520e-0072-457f-b13c-577cc9c99841",
+        "content": "START-UP",
+        "confidence": 0.9793133735656738,
+        "bbox": [
+            418,
+            1869,
+            542,
+            1923
+        ]
+    },
+    {
+        "text_id": "068267b6-cf8c-4995-8c36-7533beeefb32",
+        "content": "12\"-P-411567-PA",
+        "confidence": 0.4972478449344635,
+        "bbox": [
+            428,
+            1839,
+            632,
+            1889
+        ]
+    },
+    {
+        "text_id": "8d16c3f1-45b6-4b25-890c-e0f3f0a12cf4",
+        "content": ":",
+        "confidence": 0.29969316720962524,
+        "bbox": [
+            4457,
+            1844,
+            4507,
+            1933
+        ]
+    },
+    {
+        "text_id": "802d5811-1e5f-4c8c-b0cd-eca159392347",
+        "content": "FROMISINVS",
+        "confidence": 0.12454254180192947,
+        "bbox": [
+            199,
+            1889,
+            358,
+            1963
+        ]
+    },
+    {
+        "text_id": "9bb78be6-dce7-415f-a0f2-00dcc06c89ef",
+        "content": "MP-001",
+        "confidence": 0.7059537172317505,
+        "bbox": [
+            508,
+            1933,
+            647,
+            1983
+        ]
+    },
+    {
+        "text_id": "41b37144-cee7-4ec1-8c7a-3431afa25294",
+        "content": "3/4\"-P",
+        "confidence": 0.9902110695838928,
+        "bbox": [
+            1035,
+            1943,
+            1115,
+            1973
+        ]
+    },
+    {
+        "text_id": "4d7947a4-c7f3-4714-b005-5c80c244873c",
+        "content": "1750-PAE",
+        "confidence": 0.4145033061504364,
+        "bbox": [
+            1160,
+            1943,
+            1250,
+            1973
+        ]
+    },
+    {
+        "text_id": "7c9b9ba4-6d83-4c3f-ac60-b6534704c531",
+        "content": "BITUMEN",
+        "confidence": 0.8778667449951172,
+        "bbox": [
+            298,
+            1973,
+            398,
+            2023
+        ]
+    },
+    {
+        "text_id": "d44202c2-28c6-45fb-b6f2-2888567935f0",
+        "content": ":",
+        "confidence": 0.2242690622806549,
+        "bbox": [
+            4457,
+            1918,
+            4507,
+            2003
+        ]
+    },
+    {
+        "text_id": "b394b883-2b43-4a34-b01d-0eda19a89dee",
+        "content": "OPL3",
+        "confidence": 0.5558751225471497,
+        "bbox": [
+            2818,
+            1963,
+            2883,
+            2018
+        ]
+    },
+    {
+        "text_id": "6b46c54d-b190-452d-aae1-c3b8a3dfd731",
+        "content": "EL",
+        "confidence": 0.6468858122825623,
+        "bbox": [
+            89,
+            1978,
+            149,
+            2068
+        ]
+    },
+    {
+        "text_id": "3b4693ec-6d1d-4de4-90c4-73ebfb0840f0",
+        "content": "B",
+        "confidence": 0.9999732971191406,
+        "bbox": [
+            4407,
+            2018,
+            4447,
+            2058
+        ]
+    },
+    {
+        "text_id": "afbe3787-b408-4b9c-8729-02e3e0d8f8c8",
+        "content": "8",
+        "confidence": 0.694445788860321,
+        "bbox": [
+            4462,
+            2008,
+            4497,
+            2068
+        ]
+    },
+    {
+        "text_id": "d99c76da-588b-47f3-9b6f-337157dc7fe0",
+        "content": "PAG",
+        "confidence": 0.9322723150253296,
+        "bbox": [
+            1085,
+            2063,
+            1150,
+            2118
+        ]
+    },
+    {
+        "text_id": "a4addc57-183d-4eca-801d-9748ed5a484a",
+        "content": "IPAE",
+        "confidence": 0.68638014793396,
+        "bbox": [
+            1633,
+            2063,
+            1683,
+            2103
+        ]
+    },
+    {
+        "text_id": "87984e60-5250-4227-a62e-59b057182ab7",
+        "content": "E",
+        "confidence": 0.5323497653007507,
+        "bbox": [
+            179,
+            1953,
+            373,
+            2128
+        ]
+    },
+    {
+        "text_id": "acb28ced-4d4c-47d4-bacd-1df0670292b3",
+        "content": "L",
+        "confidence": 0.4312792122364044,
+        "bbox": [
+            79,
+            2048,
+            169,
+            2133
+        ]
+    },
+    {
+        "text_id": "d33aa4d1-8625-4196-9d65-8f10bb640b66",
+        "content": "PAG,FAC",
+        "confidence": 0.9712448120117188,
+        "bbox": [
+            1787,
+            2068,
+            1907,
+            2123
+        ]
+    },
+    {
+        "text_id": "4625cdf3-6556-46cd-8cd5-88d045c2af17",
+        "content": "PAG_FAC",
+        "confidence": 0.35856640338897705,
+        "bbox": [
+            3247,
+            2063,
+            3366,
+            2118
+        ]
+    },
+    {
+        "text_id": "3e344b8e-918b-4d0e-a103-aef342c7dfd1",
+        "content": "8",
+        "confidence": 0.7579973936080933,
+        "bbox": [
+            1773,
+            2128,
+            1807,
+            2172
+        ]
+    },
+    {
+        "text_id": "da6ae348-85c1-49c0-bce0-030002483169",
+        "content": "PAD,PAG",
+        "confidence": 0.970084011554718,
+        "bbox": [
+            2425,
+            2103,
+            2535,
+            2158
+        ]
+    },
+    {
+        "text_id": "e1b04b5c-4d85-4e2f-a81a-497e2ffc88f7",
+        "content": "8",
+        "confidence": 0.7802154421806335,
+        "bbox": [
+            3242,
+            2128,
+            3272,
+            2167
+        ]
+    },
+    {
+        "text_id": "a70ba17f-7b5e-49a5-b989-9dee0472324f",
+        "content": "6E",
+        "confidence": 0.16504666209220886,
+        "bbox": [
+            119,
+            2167,
+            149,
+            2197
+        ]
+    },
+    {
+        "text_id": "4b8af994-aa58-4a25-bf48-9596e1eaa5f5",
+        "content": "2-05-41058-FAC",
+        "confidence": 0.24978670477867126,
+        "bbox": [
+            1862,
+            2138,
+            2086,
+            2202
+        ]
+    },
+    {
+        "text_id": "df5f9fd4-2012-420a-a429-a436b8529817",
+        "content": "\"-OS-41",
+        "confidence": 0.37730950117111206,
+        "bbox": [
+            3326,
+            2143,
+            3431,
+            2187
+        ]
+    },
+    {
+        "text_id": "b462200e-07d3-40b1-95ad-aafdeafa8122",
+        "content": "op",
+        "confidence": 0.18246234953403473,
+        "bbox": [
+            2116,
+            2187,
+            2161,
+            2222
+        ]
+    },
+    {
+        "text_id": "bea32366-9d16-4187-b46a-a655f1a16d1f",
+        "content": "E",
+        "confidence": 0.8644565939903259,
+        "bbox": [
+            134,
+            2242,
+            164,
+            2277
+        ]
+    },
+    {
+        "text_id": "5df9ee56-211b-4e48-ad2a-aeb4930e8563",
+        "content": "lonver",
+        "confidence": 0.000706526858266443,
+        "bbox": [
+            3715,
+            2237,
+            3849,
+            2342
+        ]
+    },
+    {
+        "text_id": "3b74a9f4-cbf0-47ed-962a-b43d0de88a92",
+        "content": "SE",
+        "confidence": 0.005751590244472027,
+        "bbox": [
+            3810,
+            2237,
+            4014,
+            2342
+        ]
+    },
+    {
+        "text_id": "46b8f75b-5aa6-4e71-9b10-c8c7df786bd9",
+        "content": "",
+        "confidence": 0.22325851023197174,
+        "bbox": [
+            4014,
+            2247,
+            4069,
+            2327
+        ]
+    },
+    {
+        "text_id": "0ed465d6-dc77-4bf3-82f2-3b6152c78550",
+        "content": "E",
+        "confidence": 0.07580181956291199,
+        "bbox": [
+            4049,
+            2247,
+            4168,
+            2337
+        ]
+    },
+    {
+        "text_id": "9d76f743-d657-4be3-9e63-9a493004a4f3",
+        "content": "Ex",
+        "confidence": 0.3347010016441345,
+        "bbox": [
+            4143,
+            2257,
+            4203,
+            2332
+        ]
+    },
+    {
+        "text_id": "3e0c6be9-0eae-458c-94f5-57f88d887283",
+        "content": "Ee",
+        "confidence": 0.11145331710577011,
+        "bbox": [
+            4178,
+            2247,
+            4288,
+            2337
+        ]
+    },
+    {
+        "text_id": "37d8a7ac-283d-4dbd-bb09-bcb0f13be48f",
+        "content": "Mo",
+        "confidence": 0.5138078331947327,
+        "bbox": [
+            4268,
+            2252,
+            4323,
+            2312
+        ]
+    },
+    {
+        "text_id": "b73677e9-1f47-44e3-a1f7-05fba0d958e7",
+        "content": "JSS",
+        "confidence": 0.9728476405143738,
+        "bbox": [
+            4318,
+            2262,
+            4362,
+            2297
+        ]
+    },
+    {
+        "text_id": "c76fb1cc-61f6-4529-894f-cc0c8b5c9036",
+        "content": "LOS16",
+        "confidence": 0.008337323553860188,
+        "bbox": [
+            2037,
+            2302,
+            2136,
+            2357
+        ]
+    },
+    {
+        "text_id": "960f9040-443e-4fa3-98cc-6025ade6cd4c",
+        "content": "411-12",
+        "confidence": 0.557316780090332,
+        "bbox": [
+            3486,
+            2312,
+            3575,
+            2357
+        ]
+    },
+    {
+        "text_id": "01053cf8-69d1-4662-9daf-d9a8c1f84948",
+        "content": "10/2",
+        "confidence": 0.9911463856697083,
+        "bbox": [
+            3745,
+            2322,
+            3780,
+            2357
+        ]
+    },
+    {
+        "text_id": "09787d2c-5ee6-4547-b860-329cc5df462a",
+        "content": "ORREVIEW",
+        "confidence": 0.5287798047065735,
+        "bbox": [
+            3899,
+            2322,
+            3979,
+            2362
+        ]
+    },
+    {
+        "text_id": "9b6a767f-0a90-45c4-9dd6-cc35a745c86b",
+        "content": "DO",
+        "confidence": 0.8043920397758484,
+        "bbox": [
+            3192,
+            2362,
+            3242,
+            2397
+        ]
+    },
+    {
+        "text_id": "4ebcc3aa-9e31-49d7-a929-046041a9b76c",
+        "content": "Es",
+        "confidence": 0.008999965153634548,
+        "bbox": [
+            3680,
+            2342,
+            3815,
+            2412
+        ]
+    },
+    {
+        "text_id": "c56f350f-3dcd-4d9e-9d6a-1a8350f6930c",
+        "content": "DESCRPION",
+        "confidence": 0.4680951237678528,
+        "bbox": [
+            3869,
+            2347,
+            3974,
+            2402
+        ]
+    },
+    {
+        "text_id": "02e44e00-7842-4996-8b15-542b0c4353cd",
+        "content": "BY",
+        "confidence": 0.9946665167808533,
+        "bbox": [
+            4024,
+            2362,
+            4054,
+            2392
+        ]
+    },
+    {
+        "text_id": "5e3cc5f4-0c3b-448d-97a4-e5b999156f61",
+        "content": "OPRS",
+        "confidence": 0.04189879447221756,
+        "bbox": [
+            4088,
+            2347,
+            4148,
+            2402
+        ]
+    },
+    {
+        "text_id": "3ae34ff4-ad1a-4309-a75a-5273dc8e10e0",
+        "content": "cspoe",
+        "confidence": 0.09687861800193787,
+        "bbox": [
+            4138,
+            2347,
+            4243,
+            2402
+        ]
+    },
+    {
+        "text_id": "85c34db4-98ea-4420-a790-ea9bcc39d2f8",
+        "content": "velwesae",
+        "confidence": 7.412168542941799e-06,
+        "bbox": [
+            4228,
+            2347,
+            4407,
+            2407
+        ]
+    },
+    {
+        "text_id": "293d72db-ee13-4bc6-8e9d-19b3e6c1ace0",
+        "content": "EE",
+        "confidence": 0.19439387321472168,
+        "bbox": [
+            104,
+            2431,
+            159,
+            2496
+        ]
+    },
+    {
+        "text_id": "0e7040b6-cd27-4cff-bdbd-a2a906b7c95c",
+        "content": "RE",
+        "confidence": 0.06786996126174927,
+        "bbox": [
+            104,
+            2481,
+            164,
+            2546
+        ]
+    },
+    {
+        "text_id": "47bd6c47-b172-4b1e-bd4f-b45a5807dbcc",
+        "content": "2\")",
+        "confidence": 0.48828500509262085,
+        "bbox": [
+            1270,
+            2481,
+            1299,
+            2516
+        ]
+    },
+    {
+        "text_id": "9c014423-b4df-43e4-9a4a-d132b5d5daf6",
+        "content": "2X",
+        "confidence": 0.5645502805709839,
+        "bbox": [
+            2709,
+            2466,
+            2774,
+            2526
+        ]
+    },
+    {
+        "text_id": "736a6bdb-f88a-4649-a5c4-e56a764d01a8",
+        "content": "",
+        "confidence": 0.17755423486232758,
+        "bbox": [
+            2943,
+            2561,
+            2978,
+            2596
+        ]
+    },
+    {
+        "text_id": "65fd338a-2c61-4351-baf5-88848b6cd162",
+        "content": "SHELL",
+        "confidence": 0.990627646446228,
+        "bbox": [
+            3844,
+            2661,
+            4014,
+            2735
+        ]
+    },
+    {
+        "text_id": "bcb5d4e8-9f97-44da-a565-3c0700e0861e",
+        "content": "CANADA",
+        "confidence": 0.9984638690948486,
+        "bbox": [
+            4019,
+            2661,
+            4228,
+            2730
+        ]
+    },
+    {
+        "text_id": "d08b3d64-cbdf-49ef-aea3-c6f31b07e22c",
+        "content": "LTD.",
+        "confidence": 0.9989000558853149,
+        "bbox": [
+            4233,
+            2661,
+            4362,
+            2730
+        ]
+    },
+    {
+        "text_id": "999eb5c3-8611-46fa-bd0f-0a48062dbc92",
+        "content": "AOSP",
+        "confidence": 0.9892709851264954,
+        "bbox": [
+            3805,
+            2720,
+            3904,
+            2780
+        ]
+    },
+    {
+        "text_id": "c1326558-8550-45ce-be8a-d16e7d5a367a",
+        "content": "-",
+        "confidence": 0.4185374677181244,
+        "bbox": [
+            3894,
+            2735,
+            3934,
+            2770
+        ]
+    },
+    {
+        "text_id": "b28b57db-47a6-478d-9573-5406b4f0d41d",
+        "content": "DOWNSTREAM",
+        "confidence": 0.9932863712310791,
+        "bbox": [
+            3924,
+            2725,
+            4123,
+            2775
+        ]
+    },
+    {
+        "text_id": "184b3eb5-8e2d-444d-96eb-d3c87b6ed900",
+        "content": "EXPANSION",
+        "confidence": 0.9976823925971985,
+        "bbox": [
+            4113,
+            2725,
+            4283,
+            2775
+        ]
+    },
+    {
+        "text_id": "fbcc7734-f53e-4110-9a5d-9ea6af1fad7c",
+        "content": "PROJECT",
+        "confidence": 0.9845508933067322,
+        "bbox": [
+            4273,
+            2720,
+            4407,
+            2775
+        ]
+    },
+    {
+        "text_id": "00b5cf3f-e899-40dc-923f-61ae01d1ff40",
+        "content": "BECHTEL",
+        "confidence": 0.9911492466926575,
+        "bbox": [
+            3825,
+            2785,
+            4054,
+            2855
+        ]
+    },
+    {
+        "text_id": "6a9a5bbf-531a-49ad-9c86-ef91672b0abe",
+        "content": "CANADA",
+        "confidence": 0.9980335235595703,
+        "bbox": [
+            4059,
+            2785,
+            4268,
+            2855
+        ]
+    },
+    {
+        "text_id": "22c72e74-c781-494d-9c67-a82f7eb3d516",
+        "content": "CO.",
+        "confidence": 0.9430403709411621,
+        "bbox": [
+            4278,
+            2790,
+            4377,
+            2850
+        ]
+    },
+    {
+        "text_id": "8bfc2f5d-b449-45e2-a51e-270ad45ca274",
+        "content": "A",
+        "confidence": 0.995586633682251,
+        "bbox": [
+            4402,
+            2780,
+            4447,
+            2815
+        ]
+    },
+    {
+        "text_id": "68e68b6d-b46e-4251-b59b-efe505397d9a",
+        "content": "de",
+        "confidence": 0.7060631513595581,
+        "bbox": [
+            2948,
+            2860,
+            2978,
+            2895
+        ]
+    },
+    {
+        "text_id": "530cf534-1721-433a-86fc-dea1e3a12479",
+        "content": "JOB",
+        "confidence": 0.9987486004829407,
+        "bbox": [
+            3984,
+            2835,
+            4059,
+            2890
+        ]
+    },
+    {
+        "text_id": "807f2470-4cc0-4959-bd6e-2de2021857da",
+        "content": "NO.",
+        "confidence": 0.9898947477340698,
+        "bbox": [
+            4049,
+            2835,
+            4123,
+            2890
+        ]
+    },
+    {
+        "text_id": "b32375ad-b426-4e5f-bd28-33a94c57d96c",
+        "content": "25183",
+        "confidence": 0.9929401874542236,
+        "bbox": [
+            4113,
+            2835,
+            4218,
+            2890
+        ]
+    },
+    {
+        "text_id": "ff91db4e-6c25-4cfb-b3f6-d53ef898068c",
+        "content": "NOT",
+        "confidence": 0.9953265190124512,
+        "bbox": [
+            1887,
+            2880,
+            1922,
+            2910
+        ]
+    },
+    {
+        "text_id": "67fd856e-2a16-4713-9eb2-45807fa774e7",
+        "content": "P-41101A/B",
+        "confidence": 0.9642748832702637,
+        "bbox": [
+            2256,
+            2870,
+            2475,
+            2934
+        ]
+    },
+    {
+        "text_id": "db7a7752-7397-48c0-8ef6-97d665802ec0",
+        "content": "[Do",
+        "confidence": 0.4001646339893341,
+        "bbox": [
+            1284,
+            2925,
+            1359,
+            2974
+        ]
+    },
+    {
+        "text_id": "800ef1c8-565a-4ac9-a520-a23ffb026ee3",
+        "content": "P-41101A",
+        "confidence": 0.7766528129577637,
+        "bbox": [
+            1474,
+            2890,
+            1673,
+            2989
+        ]
+    },
+    {
+        "text_id": "1d405a67-bd0c-4064-8817-df225376fe58",
+        "content": "BITUMEN",
+        "confidence": 0.9814207553863525,
+        "bbox": [
+            2355,
+            2915,
+            2500,
+            2964
+        ]
+    },
+    {
+        "text_id": "4971cf68-cfce-4731-86d4-3c360770d61e",
+        "content": "Do",
+        "confidence": 0.2976602613925934,
+        "bbox": [
+            2744,
+            2925,
+            2818,
+            2974
+        ]
+    },
+    {
+        "text_id": "b4179496-0e48-4720-8ed1-3fa086d4494f",
+        "content": "P-411018",
+        "confidence": 0.8644149303436279,
+        "bbox": [
+            2928,
+            2890,
+            3127,
+            2989
+        ]
+    },
+    {
+        "text_id": "6e9860bf-5319-419b-aeab-22d98503f13a",
+        "content": "PIPING",
+        "confidence": 0.9970089793205261,
+        "bbox": [
+            3755,
+            2895,
+            3889,
+            2964
+        ]
+    },
+    {
+        "text_id": "d58ae5fd-5802-49e5-bf9a-524db976147b",
+        "content": "AND",
+        "confidence": 0.9998159408569336,
+        "bbox": [
+            3879,
+            2900,
+            3974,
+            2954
+        ]
+    },
+    {
+        "text_id": "d29ebad5-5011-4b29-955d-cad94a0625ad",
+        "content": "INSTRUMENT",
+        "confidence": 0.9998016357421875,
+        "bbox": [
+            3959,
+            2895,
+            4188,
+            2959
+        ]
+    },
+    {
+        "text_id": "7f6081b7-cd87-4d81-a2bc-bce254f034ff",
+        "content": "DIAGRAM",
+        "confidence": 0.9995681047439575,
+        "bbox": [
+            4183,
+            2900,
+            4342,
+            2954
+        ]
+    },
+    {
+        "text_id": "6129e9e8-d680-4df6-9a23-2624851e39d9",
+        "content": "8",
+        "confidence": 0.2913205027580261,
+        "bbox": [
+            4392,
+            2915,
+            4447,
+            2984
+        ]
+    },
+    {
+        "text_id": "b53796eb-8265-407a-8921-653a7b6a4c84",
+        "content": "DLUTED",
+        "confidence": 0.008066162467002869,
+        "bbox": [
+            2221,
+            2905,
+            2390,
+            3014
+        ]
+    },
+    {
+        "text_id": "103e4c7f-1e35-466f-baf8-3ccc0833d69f",
+        "content": "AOSP",
+        "confidence": 0.9992163777351379,
+        "bbox": [
+            3705,
+            2939,
+            3810,
+            2994
+        ]
+    },
+    {
+        "text_id": "1b846ed8-e102-4f16-923a-d46c648b1f7b",
+        "content": "PROJECT",
+        "confidence": 0.9997349381446838,
+        "bbox": [
+            4233,
+            2939,
+            4392,
+            2994
+        ]
+    },
+    {
+        "text_id": "520bfc99-8d05-4540-a79d-857794778041",
+        "content": "RA",
+        "confidence": 0.9976662397384644,
+        "bbox": [
+            2226,
+            2984,
+            2256,
+            3014
+        ]
+    },
+    {
+        "text_id": "ecf80031-2758-42f6-ac0f-8b1ec57af870",
+        "content": "DIFF",
+        "confidence": 0.6971817016601562,
+        "bbox": [
+            2261,
+            2999,
+            2300,
+            3034
+        ]
+    },
+    {
+        "text_id": "d8912536-3f6b-44eb-9e6f-cde74393f6e8",
+        "content": "LOw",
+        "confidence": 0.13863666355609894,
+        "bbox": [
+            2305,
+            2994,
+            2355,
+            3034
+        ]
+    },
+    {
+        "text_id": "170dec95-6dda-4010-863c-acd777f85ad6",
+        "content": "DOWNSTREAM",
+        "confidence": 0.29421767592430115,
+        "bbox": [
+            3800,
+            2934,
+            4049,
+            3034
+        ]
+    },
+    {
+        "text_id": "67ac6128-c323-4955-a4e0-deefc81bca6f",
+        "content": "EURANSION",
+        "confidence": 0.18894201517105103,
+        "bbox": [
+            4024,
+            2929,
+            4253,
+            3049
+        ]
+    },
+    {
+        "text_id": "e49f9f5d-daa8-4d25-a99c-9907dc569f26",
+        "content": "INSULATION",
+        "confidence": 0.9769030213356018,
+        "bbox": [
+            2111,
+            3039,
+            2251,
+            3089
+        ]
+    },
+    {
+        "text_id": "01607682-3f15-4783-9e1b-5a81902b1c38",
+        "content": "DILUTED",
+        "confidence": 0.563701868057251,
+        "bbox": [
+            3760,
+            2984,
+            3929,
+            3079
+        ]
+    },
+    {
+        "text_id": "3765b4e0-5c17-495c-bc06-e8ae4a4b75c4",
+        "content": "BITUMEN",
+        "confidence": 0.9996157288551331,
+        "bbox": [
+            3919,
+            3014,
+            4074,
+            3069
+        ]
+    },
+    {
+        "text_id": "44ac8bc9-2f66-4ee9-bf7d-5829884dbee4",
+        "content": "CHARGE",
+        "confidence": 0.9987248182296753,
+        "bbox": [
+            4074,
+            3014,
+            4218,
+            3069
+        ]
+    },
+    {
+        "text_id": "3a5f8893-6422-44d6-adb5-f7f1599a2d42",
+        "content": "PUMP",
+        "confidence": 0.9897975325584412,
+        "bbox": [
+            4218,
+            3014,
+            4328,
+            3069
+        ]
+    },
+    {
+        "text_id": "285514d5-e9db-4179-8aa1-38ea285934df",
+        "content": "MAT",
+        "confidence": 0.8462038040161133,
+        "bbox": [
+            2271,
+            3099,
+            2300,
+            3129
+        ]
+    },
+    {
+        "text_id": "e6ec3643-0097-4eb4-8bca-fe2a973c3614",
+        "content": "TRIAL",
+        "confidence": 0.05762884393334389,
+        "bbox": [
+            2305,
+            3104,
+            2355,
+            3139
+        ]
+    },
+    {
+        "text_id": "688b1e2e-b114-4185-91b1-8b44785794f4",
+        "content": "11001-P2C",
+        "confidence": 0.3323288857936859,
+        "bbox": [
+            2430,
+            3094,
+            2554,
+            3149
+        ]
+    },
+    {
+        "text_id": "9ba207c9-61a7-43da-b721-2461b094ae89",
+        "content": "SELI",
+        "confidence": 0.13230517506599426,
+        "bbox": [
+            3690,
+            3084,
+            3760,
+            3139
+        ]
+    },
+    {
+        "text_id": "3f23aeb0-6b47-4427-b112-c31a9b3dac8d",
+        "content": "SCAIE",
+        "confidence": 0.3965449631214142,
+        "bbox": [
+            3695,
+            3064,
+            3760,
+            3099
+        ]
+    },
+    {
+        "text_id": "1b71b4f9-04c8-4254-8a29-69bc3c349876",
+        "content": "DWG",
+        "confidence": 0.9800561666488647,
+        "bbox": [
+            3760,
+            3099,
+            3790,
+            3129
+        ]
+    },
+    {
+        "text_id": "c51aae46-d6ea-45b6-bd1b-2cfc72d3546e",
+        "content": "411.000.000.041.001",
+        "confidence": 0.5352055430412292,
+        "bbox": [
+            3864,
+            3099,
+            4258,
+            3164
+        ]
+    },
+    {
+        "text_id": "56fdc952-27b1-4f3b-a657-03b26248fc48",
+        "content": "I",
+        "confidence": 0.5528705716133118,
+        "bbox": [
+            3899,
+            3074,
+            3934,
+            3114
+        ]
+    },
+    {
+        "text_id": "8a11cc46-11c2-4375-be79-9810a89a06fb",
+        "content": "FEX",
+        "confidence": 0.04744453728199005,
+        "bbox": [
+            4288,
+            3089,
+            4342,
+            3149
+        ]
+    },
+    {
+        "text_id": "820a90c7-2940-4a3b-8052-afe0085dc736",
+        "content": "c",
+        "confidence": 0.6222745776176453,
+        "bbox": [
+            4328,
+            3099,
+            4382,
+            3159
+        ]
+    },
+    {
+        "text_id": "5e71098a-ac79-4da9-992d-f1f6da9a96ad",
+        "content": "9",
+        "confidence": 0.18007369339466095,
+        "bbox": [
+            4457,
+            3099,
+            4507,
+            3174
+        ]
+    },
+    {
+        "text_id": "0114b53e-f26e-42cd-9964-c09575ab75da",
+        "content": "1",
+        "confidence": 0.996785581111908,
+        "bbox": [
+            3899,
+            3164,
+            3929,
+            3193
+        ]
+    }
+]

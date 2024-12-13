@@ -1,0 +1,3660 @@
+{
+  "p_and_id_image_path": "/Users/hivamoh/Downloads/2/2.jpg/Users/hivamoh/Downloads/2/2.jpg/Users/hivamoh/Downloads/2/2.jpg/Users/hivamoh/Downloads/2/2.jpg/Users/hivamoh/Downloads/2/2.jpg/Users/hivamoh/Downloads/2/2.jpg",
+  "data": {
+    "symbols": [
+      {
+        "symbol_id": "0de128ee-b7fd-46bc-b040-534e98d5052a",
+        "class_id": 27,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Pri Loc access",
+        "confidence": 0.9687919616699219,
+        "bbox": [
+          2735,
+          1031,
+          2846,
+          1138
+        ]
+      },
+      {
+        "symbol_id": "f38f58d6-4e0d-428f-ad67-0089d1c1ff0d",
+        "class_id": 25,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete indicator",
+        "confidence": 0.9659698605537415,
+        "bbox": [
+          2030,
+          2850,
+          2107,
+          2929
+        ]
+      },
+      {
+        "symbol_id": "625a811f-9267-4953-9283-ab144895c349",
+        "class_id": 25,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete indicator",
+        "confidence": 0.9535061717033386,
+        "bbox": [
+          2203,
+          3327,
+          2282,
+          3402
+        ]
+      },
+      {
+        "symbol_id": "762aa5b9-3ef4-4aaa-9979-2a06ecbbd1d3",
+        "class_id": 25,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete indicator",
+        "confidence": 0.9519920349121094,
+        "bbox": [
+          4190,
+          2750,
+          4273,
+          2836
+        ]
+      },
+      {
+        "symbol_id": "50a457d8-0107-4d79-9b4f-a3bd5e402b5b",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.9418502449989319,
+        "bbox": [
+          3455,
+          3501,
+          3531,
+          3601
+        ]
+      },
+      {
+        "symbol_id": "247712f6-cd1b-4672-bf05-48845afa16d2",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.9390308856964111,
+        "bbox": [
+          4581,
+          2018,
+          4689,
+          2124
+        ]
+      },
+      {
+        "symbol_id": "3b9ad9d0-0eaf-4d4a-8b8c-71ec353fb83f",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.9358766674995422,
+        "bbox": [
+          2013,
+          2604,
+          2130,
+          2716
+        ]
+      },
+      {
+        "symbol_id": "748553a5-e355-48f3-981f-2aa3fbb3a444",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.9352141618728638,
+        "bbox": [
+          3861,
+          3021,
+          3972,
+          3134
+        ]
+      },
+      {
+        "symbol_id": "ee5ee6bf-e057-4fce-86c9-941fea8fa8dd",
+        "class_id": 26,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete recorder",
+        "confidence": 0.9322545528411865,
+        "bbox": [
+          587,
+          3735,
+          700,
+          3851
+        ]
+      },
+      {
+        "symbol_id": "fcc8c535-4e00-4fc7-baa0-1c01d417dafc",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.931724488735199,
+        "bbox": [
+          4177,
+          3621,
+          4264,
+          3673
+        ]
+      },
+      {
+        "symbol_id": "b2baf7ce-d98d-4f24-991c-9a86030905d8",
+        "class_id": 26,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete recorder",
+        "confidence": 0.9256645441055298,
+        "bbox": [
+          3152,
+          2297,
+          3266,
+          2412
+        ]
+      },
+      {
+        "symbol_id": "3aadfb1a-25f9-4d0b-90fb-13225b40c5ae",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.9195492267608643,
+        "bbox": [
+          2015,
+          4007,
+          2127,
+          4126
+        ]
+      },
+      {
+        "symbol_id": "075588bb-c64b-48af-91f3-15d5ee73b73e",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.9179067015647888,
+        "bbox": [
+          1321,
+          4183,
+          1409,
+          4247
+        ]
+      },
+      {
+        "symbol_id": "425743ed-dd75-42be-97f2-7c311d37e796",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.9170613884925842,
+        "bbox": [
+          3293,
+          3617,
+          3425,
+          3672
+        ]
+      },
+      {
+        "symbol_id": "6eeb176f-02e3-4e8a-b3e1-9c16d121383c",
+        "class_id": 3,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NO",
+        "confidence": 0.9156341552734375,
+        "bbox": [
+          2044,
+          1180,
+          2097,
+          1268
+        ]
+      },
+      {
+        "symbol_id": "2d1bc475-79a6-4283-be1d-5ee2874e54f9",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.909570038318634,
+        "bbox": [
+          612,
+          915,
+          697,
+          1005
+        ]
+      },
+      {
+        "symbol_id": "9da16e44-58c6-4992-aced-06c31e739dec",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.9050015807151794,
+        "bbox": [
+          3264,
+          3898,
+          3347,
+          3959
+        ]
+      },
+      {
+        "symbol_id": "414a5b89-e537-47ef-aa63-d678ab6cdd0d",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.8821832537651062,
+        "bbox": [
+          585,
+          2591,
+          695,
+          2701
+        ]
+      },
+      {
+        "symbol_id": "9073a1a7-0cbf-4ad3-9ecc-f79e2be3dd86",
+        "class_id": 30,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared with Pri Loc access",
+        "confidence": 0.8797175884246826,
+        "bbox": [
+          2588,
+          4037,
+          2678,
+          4134
+        ]
+      },
+      {
+        "symbol_id": "c4315237-b627-4812-8d1e-c8bf6660210e",
+        "class_id": 16,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade blind",
+        "confidence": 0.8787218928337097,
+        "bbox": [
+          1870,
+          3335,
+          1925,
+          3389
+        ]
+      },
+      {
+        "symbol_id": "a486f5b6-1b4a-494e-b5b2-346365721796",
+        "class_id": 17,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade close blind flanged",
+        "confidence": 0.8674685955047607,
+        "bbox": [
+          2045,
+          1411,
+          2150,
+          1451
+        ]
+      },
+      {
+        "symbol_id": "5c1c4fec-1654-40bf-b133-014123cc122f",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.859470546245575,
+        "bbox": [
+          1334,
+          473,
+          1438,
+          544
+        ]
+      },
+      {
+        "symbol_id": "4c6340a2-ef4d-4279-bdd5-4c50f942cf64",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.853365957736969,
+        "bbox": [
+          1081,
+          3619,
+          1168,
+          3675
+        ]
+      },
+      {
+        "symbol_id": "f6123e9f-4e28-457a-8c04-d20aab3bd678",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.8531712889671326,
+        "bbox": [
+          2720,
+          3605,
+          2760,
+          3691
+        ]
+      },
+      {
+        "symbol_id": "cae33c8f-2ff6-4937-811c-95567597c8e0",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.8531523942947388,
+        "bbox": [
+          2900,
+          1742,
+          2951,
+          1829
+        ]
+      },
+      {
+        "symbol_id": "4ee393dd-e434-42f1-9aa8-c1c5bc4daf93",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.8445231318473816,
+        "bbox": [
+          880,
+          3213,
+          983,
+          3312
+        ]
+      },
+      {
+        "symbol_id": "d68b5d25-2f82-4170-9e7f-9900aa72fe2a",
+        "class_id": 11,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NC",
+        "confidence": 0.842609167098999,
+        "bbox": [
+          3754,
+          1219,
+          3809,
+          1308
+        ]
+      },
+      {
+        "symbol_id": "a637d21b-d59a-480f-aed7-c27400ebe020",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.8404985070228577,
+        "bbox": [
+          2991,
+          3303,
+          3079,
+          3386
+        ]
+      },
+      {
+        "symbol_id": "a29979a4-f1fc-4263-b80b-1951883f4343",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.8351620435714722,
+        "bbox": [
+          3646,
+          3568,
+          3729,
+          3610
+        ]
+      },
+      {
+        "symbol_id": "0a784c70-f331-42e2-afd6-c7987877dc87",
+        "class_id": 2,
+        "category": "inst",
+        "type": "valv",
+        "label": "Globe valve NO",
+        "confidence": 0.8346912860870361,
+        "bbox": [
+          2782,
+          1344,
+          2863,
+          1394
+        ]
+      },
+      {
+        "symbol_id": "941ec83c-cce9-4b8b-9f8c-9e1371b640cf",
+        "class_id": 32,
+        "category": "inst",
+        "type": "ind",
+        "label": "Programmable with Pri Loc access",
+        "confidence": 0.8343358039855957,
+        "bbox": [
+          1859,
+          1320,
+          1966,
+          1425
+        ]
+      },
+      {
+        "symbol_id": "a71b6ddc-22e3-4acc-b677-43115c5bcd2d",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.8250918388366699,
+        "bbox": [
+          4321,
+          872,
+          4379,
+          951
+        ]
+      },
+      {
+        "symbol_id": "366ac50a-f4ca-4d24-84ed-6e4183f388aa",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.8180182576179504,
+        "bbox": [
+          1578,
+          464,
+          1692,
+          574
+        ]
+      },
+      {
+        "symbol_id": "5bd6d151-83eb-466e-9310-8918a4638a1a",
+        "class_id": 10,
+        "category": "inst",
+        "type": "valv",
+        "label": "Sealing gate valve",
+        "confidence": 0.8158645033836365,
+        "bbox": [
+          1040,
+          3891,
+          1108,
+          3954
+        ]
+      },
+      {
+        "symbol_id": "370ea71a-151a-4beb-a120-169f977f81f0",
+        "class_id": 29,
+        "category": "inst",
+        "type": "ind",
+        "label": "Solenoid actuator",
+        "confidence": 0.8122525215148926,
+        "bbox": [
+          2582,
+          3450,
+          2699,
+          3565
+        ]
+      },
+      {
+        "symbol_id": "b766bab4-20fb-48b4-9174-27f3a0676713",
+        "class_id": 32,
+        "category": "inst",
+        "type": "ind",
+        "label": "Programmable with Pri Loc access",
+        "confidence": 0.7841894626617432,
+        "bbox": [
+          1305,
+          1035,
+          1400,
+          1132
+        ]
+      },
+      {
+        "symbol_id": "bc3716bd-cd40-407d-b3ea-1924154b0b17",
+        "class_id": 26,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete recorder",
+        "confidence": 0.7789221405982971,
+        "bbox": [
+          3001,
+          1309,
+          3114,
+          1422
+        ]
+      },
+      {
+        "symbol_id": "1c85f1b5-6ff8-4ce4-9ce9-2cc76d9c1c34",
+        "class_id": 3,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NO",
+        "confidence": 0.7670113444328308,
+        "bbox": [
+          2154,
+          3908,
+          2238,
+          3957
+        ]
+      },
+      {
+        "symbol_id": "e22a198c-f6ab-416c-b8e3-1cc15bc0fbfe",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.7632309198379517,
+        "bbox": [
+          3435,
+          2303,
+          3553,
+          2416
+        ]
+      },
+      {
+        "symbol_id": "8360b7bd-bfa7-4103-8e5a-189289b8549b",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.7556699514389038,
+        "bbox": [
+          900,
+          3483,
+          988,
+          3585
+        ]
+      },
+      {
+        "symbol_id": "de381a7e-90bb-4746-ba3d-c78045683ec6",
+        "class_id": 16,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade blind",
+        "confidence": 0.7540566921234131,
+        "bbox": [
+          2040,
+          922,
+          2097,
+          980
+        ]
+      },
+      {
+        "symbol_id": "badd8f41-2c69-4a60-a9d5-17d445ee96bd",
+        "class_id": 20,
+        "category": "pip",
+        "type": "fit",
+        "label": "Flanged connection",
+        "confidence": 0.7535515427589417,
+        "bbox": [
+          3459,
+          1436,
+          3525,
+          1494
+        ]
+      },
+      {
+        "symbol_id": "8848adad-4375-44ea-b3c7-e442b0e539e5",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.7394935488700867,
+        "bbox": [
+          2315,
+          3832,
+          2391,
+          3877
+        ]
+      },
+      {
+        "symbol_id": "4006fad7-6188-4d89-bc56-0b8e721e1eb5",
+        "class_id": 26,
+        "category": "inst",
+        "type": "ind",
+        "label": "Field mounted discrete recorder",
+        "confidence": 0.7294488549232483,
+        "bbox": [
+          2594,
+          2833,
+          2683,
+          2921
+        ]
+      },
+      {
+        "symbol_id": "956c43e6-f32e-4ab7-a954-708f16052f6f",
+        "class_id": 16,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade blind",
+        "confidence": 0.7210360765457153,
+        "bbox": [
+          2968,
+          3053,
+          3018,
+          3101
+        ]
+      },
+      {
+        "symbol_id": "6c7c5365-7731-48ea-8f05-0aca9ef03e4b",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.6971969604492188,
+        "bbox": [
+          4019,
+          2927,
+          4121,
+          2975
+        ]
+      },
+      {
+        "symbol_id": "fb64af35-104d-4a23-bb19-9ef67176a50a",
+        "class_id": 21,
+        "category": "pip",
+        "type": "fit",
+        "label": "Heating coil tubes",
+        "confidence": 0.6960192918777466,
+        "bbox": [
+          3179,
+          4036,
+          3241,
+          4066
+        ]
+      },
+      {
+        "symbol_id": "5dc3b058-1f73-45be-82dc-2b474673b548",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.6884805560112,
+        "bbox": [
+          2898,
+          2307,
+          2982,
+          2399
+        ]
+      },
+      {
+        "symbol_id": "39d1a7fc-79ee-4385-87b6-0a09ea8b333e",
+        "class_id": 29,
+        "category": "inst",
+        "type": "ind",
+        "label": "Solenoid actuator",
+        "confidence": 0.6858412623405457,
+        "bbox": [
+          2869,
+          3438,
+          2987,
+          3550
+        ]
+      },
+      {
+        "symbol_id": "2c6eef59-cdc0-4e4c-99e2-f940fa354b10",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.6845731735229492,
+        "bbox": [
+          1573,
+          1908,
+          1685,
+          1963
+        ]
+      },
+      {
+        "symbol_id": "f5126720-9fb9-4404-a479-edb2b2d06675",
+        "class_id": 3,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NO",
+        "confidence": 0.6789013147354126,
+        "bbox": [
+          2899,
+          2007,
+          2952,
+          2105
+        ]
+      },
+      {
+        "symbol_id": "2c4c2c1f-e35b-4b49-8d12-dd1d9c7357ba",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.6737431883811951,
+        "bbox": [
+          986,
+          2197,
+          1077,
+          2249
+        ]
+      },
+      {
+        "symbol_id": "b8277a75-8ec5-494f-b339-ef0e515df278",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.6623622179031372,
+        "bbox": [
+          3579,
+          2739,
+          3685,
+          2847
+        ]
+      },
+      {
+        "symbol_id": "57301bce-7730-4e12-8498-461780562539",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.6620136499404907,
+        "bbox": [
+          3472,
+          1738,
+          3523,
+          1831
+        ]
+      },
+      {
+        "symbol_id": "62113038-4457-425c-b20a-3263f8e43d5a",
+        "class_id": 5,
+        "category": "inst",
+        "type": "valv",
+        "label": "Butterfly Valve",
+        "confidence": 0.640836775302887,
+        "bbox": [
+          4040,
+          2589,
+          4094,
+          2679
+        ]
+      },
+      {
+        "symbol_id": "a0cb1fdf-eb9e-4c92-95fa-8d71034c9378",
+        "class_id": 17,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade close blind flanged",
+        "confidence": 0.6384364366531372,
+        "bbox": [
+          882,
+          1848,
+          963,
+          1886
+        ]
+      },
+      {
+        "symbol_id": "224b9365-9590-4730-8351-3fa27cc18f05",
+        "class_id": 27,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Pri Loc access",
+        "confidence": 0.6378612518310547,
+        "bbox": [
+          738,
+          1026,
+          849,
+          1143
+        ]
+      },
+      {
+        "symbol_id": "bbd8206f-0607-449e-921b-b0349396e952",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.6341049075126648,
+        "bbox": [
+          3183,
+          3452,
+          3236,
+          3555
+        ]
+      },
+      {
+        "symbol_id": "08411714-503b-4e00-841e-7529e8cee954",
+        "class_id": 12,
+        "category": "inst",
+        "type": "valv",
+        "label": "Globe valve NC",
+        "confidence": 0.6277628540992737,
+        "bbox": [
+          986,
+          2198,
+          1076,
+          2249
+        ]
+      },
+      {
+        "symbol_id": "d73ecea8-4d8d-4169-a951-ab6e84221e00",
+        "class_id": 30,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared with Pri Loc access",
+        "confidence": 0.6262617707252502,
+        "bbox": [
+          603,
+          1726,
+          681,
+          1798
+        ]
+      },
+      {
+        "symbol_id": "bb0622ae-127a-406c-a59a-7e99c0f28a19",
+        "class_id": 10,
+        "category": "inst",
+        "type": "valv",
+        "label": "Sealing gate valve",
+        "confidence": 0.605131208896637,
+        "bbox": [
+          727,
+          3598,
+          812,
+          3664
+        ]
+      },
+      {
+        "symbol_id": "5a0950b9-d6fc-462a-8ed6-ddf91233eb8b",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.6000320315361023,
+        "bbox": [
+          1016,
+          1035,
+          1063,
+          1125
+        ]
+      },
+      {
+        "symbol_id": "bfb4416d-8311-4d72-9922-66d80f5d1dc8",
+        "class_id": 11,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NC",
+        "confidence": 0.5798462629318237,
+        "bbox": [
+          3850,
+          3333,
+          3927,
+          3383
+        ]
+      },
+      {
+        "symbol_id": "400bbd33-cd79-4bb9-a080-10d810cb642d",
+        "class_id": 27,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Pri Loc access",
+        "confidence": 0.5781096816062927,
+        "bbox": [
+          3876,
+          1313,
+          3988,
+          1425
+        ]
+      },
+      {
+        "symbol_id": "08e377a6-980c-4816-baec-667f129a801a",
+        "class_id": 6,
+        "category": "inst",
+        "type": "valv",
+        "label": "Manual gate valve",
+        "confidence": 0.5753520131111145,
+        "bbox": [
+          2901,
+          1487,
+          2952,
+          1570
+        ]
+      },
+      {
+        "symbol_id": "64c15790-3ec4-4688-aa41-b3c58bddf9a1",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.5572413802146912,
+        "bbox": [
+          3409,
+          2077,
+          3517,
+          2162
+        ]
+      },
+      {
+        "symbol_id": "11545a28-20f5-4567-a263-fdba329dcc96",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.5526790618896484,
+        "bbox": [
+          2450,
+          1345,
+          2549,
+          1457
+        ]
+      },
+      {
+        "symbol_id": "a7ec33e1-f80e-473f-94b2-009cf068031e",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.5519346594810486,
+        "bbox": [
+          2479,
+          1910,
+          2536,
+          1968
+        ]
+      },
+      {
+        "symbol_id": "b45b5bae-5ccb-42c6-ba27-817f351be57a",
+        "class_id": 11,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NC",
+        "confidence": 0.5437167882919312,
+        "bbox": [
+          4480,
+          2767,
+          4556,
+          2819
+        ]
+      },
+      {
+        "symbol_id": "1bb33142-ad6f-490d-9207-09db23d84c25",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.543041467666626,
+        "bbox": [
+          4982,
+          1617,
+          5085,
+          1704
+        ]
+      },
+      {
+        "symbol_id": "5713d2f0-1eab-459d-b37f-8b6c9c2c4cff",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.540785014629364,
+        "bbox": [
+          3282,
+          3618,
+          3389,
+          3674
+        ]
+      },
+      {
+        "symbol_id": "99c6a6de-33c4-43c3-aed2-f2927c45cadd",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.5325922966003418,
+        "bbox": [
+          3168,
+          3141,
+          3236,
+          3275
+        ]
+      },
+      {
+        "symbol_id": "6e471fa4-bab8-47b5-b009-5e3c36651d55",
+        "class_id": 18,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade open blind flanged",
+        "confidence": 0.523445725440979,
+        "bbox": [
+          3492,
+          2989,
+          3613,
+          3028
+        ]
+      },
+      {
+        "symbol_id": "576eec9a-22ae-4911-a459-d87097b2d1d7",
+        "class_id": 20,
+        "category": "pip",
+        "type": "fit",
+        "label": "Flanged connection",
+        "confidence": 0.5229408740997314,
+        "bbox": [
+          901,
+          2851,
+          960,
+          2912
+        ]
+      },
+      {
+        "symbol_id": "b5db03ea-b2e7-4898-b758-20d55871374a",
+        "class_id": 5,
+        "category": "inst",
+        "type": "valv",
+        "label": "Butterfly Valve",
+        "confidence": 0.5166997313499451,
+        "bbox": [
+          3279,
+          1055,
+          3353,
+          1109
+        ]
+      },
+      {
+        "symbol_id": "6a1dcb16-04b5-461f-b026-4c0ae5d1e577",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.495362788438797,
+        "bbox": [
+          3150,
+          2015,
+          3267,
+          2129
+        ]
+      },
+      {
+        "symbol_id": "dcdfdb02-d9ce-4cd8-91e7-f5a710446eca",
+        "class_id": 17,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade close blind flanged",
+        "confidence": 0.49026015400886536,
+        "bbox": [
+          2516,
+          3337,
+          2553,
+          3448
+        ]
+      },
+      {
+        "symbol_id": "ca364f33-0950-4fb2-bdca-0a2294703443",
+        "class_id": 17,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade close blind flanged",
+        "confidence": 0.484540194272995,
+        "bbox": [
+          4455,
+          1913,
+          4499,
+          2026
+        ]
+      },
+      {
+        "symbol_id": "5f6bbbc7-e91c-4c34-a62f-a7d4adaa28cb",
+        "class_id": 32,
+        "category": "inst",
+        "type": "ind",
+        "label": "Programmable with Pri Loc access",
+        "confidence": 0.47239983081817627,
+        "bbox": [
+          3577,
+          2747,
+          3687,
+          2853
+        ]
+      },
+      {
+        "symbol_id": "daf2813e-2679-43c6-858a-18dfa4f96f9f",
+        "class_id": 28,
+        "category": "inst",
+        "type": "ind",
+        "label": "discrete with Aux Loc access",
+        "confidence": 0.4588119685649872,
+        "bbox": [
+          3298,
+          3309,
+          3408,
+          3416
+        ]
+      },
+      {
+        "symbol_id": "fd8ce9aa-05e4-4794-9ecb-ca9bb98f97f6",
+        "class_id": 29,
+        "category": "inst",
+        "type": "ind",
+        "label": "Solenoid actuator",
+        "confidence": 0.4581381678581238,
+        "bbox": [
+          3158,
+          2865,
+          3269,
+          2980
+        ]
+      },
+      {
+        "symbol_id": "640c1355-e672-43c6-a000-a7a7f82a5338",
+        "class_id": 20,
+        "category": "pip",
+        "type": "fit",
+        "label": "Flanged connection",
+        "confidence": 0.4546268880367279,
+        "bbox": [
+          2037,
+          3456,
+          2100,
+          3532
+        ]
+      },
+      {
+        "symbol_id": "e438ae12-d9d2-4520-9ba9-fa1a71598968",
+        "class_id": 5,
+        "category": "inst",
+        "type": "valv",
+        "label": "Butterfly Valve",
+        "confidence": 0.4479927122592926,
+        "bbox": [
+          1276,
+          542,
+          1348,
+          592
+        ]
+      },
+      {
+        "symbol_id": "876d420d-f4db-43f5-b1a1-1d4409cafa67",
+        "class_id": 17,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade close blind flanged",
+        "confidence": 0.4402013123035431,
+        "bbox": [
+          4271,
+          3480,
+          4377,
+          3517
+        ]
+      },
+      {
+        "symbol_id": "d704b979-4c6d-43de-9636-80d4e36f8546",
+        "class_id": 32,
+        "category": "inst",
+        "type": "ind",
+        "label": "Programmable with Pri Loc access",
+        "confidence": 0.4190712869167328,
+        "bbox": [
+          3871,
+          1015,
+          3963,
+          1118
+        ]
+      },
+      {
+        "symbol_id": "19bfd6d3-57d5-4914-bdb5-4716b230182b",
+        "class_id": 10,
+        "category": "inst",
+        "type": "valv",
+        "label": "Sealing gate valve",
+        "confidence": 0.412671834230423,
+        "bbox": [
+          3083,
+          3911,
+          3178,
+          3980
+        ]
+      },
+      {
+        "symbol_id": "6957fec5-a2b0-4a81-aa54-ec9c452a5c3d",
+        "class_id": 2,
+        "category": "inst",
+        "type": "valv",
+        "label": "Globe valve NO",
+        "confidence": 0.4113463759422302,
+        "bbox": [
+          4329,
+          2886,
+          4377,
+          2980
+        ]
+      },
+      {
+        "symbol_id": "0f15e3b7-d6c7-4f65-83e3-ec308188687d",
+        "class_id": 13,
+        "category": "inst",
+        "type": "valv",
+        "label": "Control Valve",
+        "confidence": 0.4097445607185364,
+        "bbox": [
+          3251,
+          1910,
+          3347,
+          1960
+        ]
+      },
+      {
+        "symbol_id": "5e4d6676-03ba-4bb8-9275-8471f0f716a1",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.40967482328414917,
+        "bbox": [
+          1168,
+          1733,
+          1227,
+          1856
+        ]
+      },
+      {
+        "symbol_id": "8844f74f-dac1-424c-9eb8-ac7bcbf25d28",
+        "class_id": 30,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared with Pri Loc access",
+        "confidence": 0.4084804356098175,
+        "bbox": [
+          1678,
+          3320,
+          1775,
+          3408
+        ]
+      },
+      {
+        "symbol_id": "b10640eb-ac7a-47fb-ae60-d70d3630d512",
+        "class_id": 21,
+        "category": "pip",
+        "type": "fit",
+        "label": "Heating coil tubes",
+        "confidence": 0.39519497752189636,
+        "bbox": [
+          1622,
+          1051,
+          1652,
+          1112
+        ]
+      },
+      {
+        "symbol_id": "16cfb53b-7ff1-45e4-96a7-7e9d0b31ae11",
+        "class_id": 15,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NC",
+        "confidence": 0.38611283898353577,
+        "bbox": [
+          3420,
+          2867,
+          3468,
+          2915
+        ]
+      },
+      {
+        "symbol_id": "c9bd5735-c3a4-4a4c-ab0b-0b118dea3a25",
+        "class_id": 3,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NO",
+        "confidence": 0.38007599115371704,
+        "bbox": [
+          1473,
+          3494,
+          1524,
+          3576
+        ]
+      },
+      {
+        "symbol_id": "40245f92-5060-44c9-8ff9-32b175bc6828",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.36787450313568115,
+        "bbox": [
+          3613,
+          3602,
+          3654,
+          3698
+        ]
+      },
+      {
+        "symbol_id": "6c2a65dc-9845-47a9-9404-9414ab4d94a0",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.36527201533317566,
+        "bbox": [
+          5182,
+          2015,
+          5233,
+          2105
+        ]
+      },
+      {
+        "symbol_id": "0f1cd114-c445-4ca7-842f-c5858555135a",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.3649553060531616,
+        "bbox": [
+          4725,
+          1870,
+          4810,
+          1966
+        ]
+      },
+      {
+        "symbol_id": "1c9a84ea-23bf-42eb-86d2-d1eb8a71ba30",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.3631337583065033,
+        "bbox": [
+          3058,
+          3898,
+          3128,
+          3967
+        ]
+      },
+      {
+        "symbol_id": "28e66724-07e8-45c4-8b85-becc259ba23b",
+        "class_id": 15,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NC",
+        "confidence": 0.3603937327861786,
+        "bbox": [
+          2998,
+          3266,
+          3062,
+          3306
+        ]
+      },
+      {
+        "symbol_id": "3bc92145-2bc2-4f90-ade1-354994ea1346",
+        "class_id": 9,
+        "category": "inst",
+        "type": "valv",
+        "label": "Needle Valve",
+        "confidence": 0.3603576719760895,
+        "bbox": [
+          2310,
+          4032,
+          2375,
+          4116
+        ]
+      },
+      {
+        "symbol_id": "e6f613f2-6a9c-4179-8d1a-485ba3a2736d",
+        "class_id": 4,
+        "category": "inst",
+        "type": "valv",
+        "label": "Ball valve",
+        "confidence": 0.3555466830730438,
+        "bbox": [
+          1471,
+          2333,
+          1522,
+          2424
+        ]
+      },
+      {
+        "symbol_id": "1f7d09bf-cafb-4717-9526-dcb45cc5cd10",
+        "class_id": 29,
+        "category": "inst",
+        "type": "ind",
+        "label": "Solenoid actuator",
+        "confidence": 0.35051313042640686,
+        "bbox": [
+          3297,
+          3307,
+          3408,
+          3419
+        ]
+      },
+      {
+        "symbol_id": "4ffdeaeb-6308-4b32-a3f2-7d55161f1b19",
+        "class_id": 11,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NC",
+        "confidence": 0.34299683570861816,
+        "bbox": [
+          1019,
+          4189,
+          1113,
+          4240
+        ]
+      },
+      {
+        "symbol_id": "ddd012d1-95f3-496d-be51-de37ef9527cb",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.34217315912246704,
+        "bbox": [
+          1860,
+          1314,
+          1971,
+          1418
+        ]
+      },
+      {
+        "symbol_id": "8dd444a3-ed92-4c3a-bfd7-a4fe6922907b",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.3329545259475708,
+        "bbox": [
+          604,
+          2898,
+          699,
+          2988
+        ]
+      },
+      {
+        "symbol_id": "adeb63c6-4c3d-47ff-88f8-94f98c6102de",
+        "class_id": 16,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade blind",
+        "confidence": 0.3300235867500305,
+        "bbox": [
+          4321,
+          3258,
+          4376,
+          3311
+        ]
+      },
+      {
+        "symbol_id": "8d81f354-a63a-40a8-9247-a2ca7fbe918b",
+        "class_id": 15,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NC",
+        "confidence": 0.31412944197654724,
+        "bbox": [
+          3399,
+          2072,
+          3438,
+          2144
+        ]
+      },
+      {
+        "symbol_id": "c7cfffd3-caa1-4110-a631-6f6c46e7e5b3",
+        "class_id": 10,
+        "category": "inst",
+        "type": "valv",
+        "label": "Sealing gate valve",
+        "confidence": 0.312281996011734,
+        "bbox": [
+          2990,
+          3317,
+          3081,
+          3389
+        ]
+      },
+      {
+        "symbol_id": "36505ad0-ea04-454b-bb8d-431c60737169",
+        "class_id": 17,
+        "category": "pip",
+        "type": "fit",
+        "label": "Spade close blind flanged",
+        "confidence": 0.3057379126548767,
+        "bbox": [
+          4747,
+          3899,
+          4778,
+          3964
+        ]
+      },
+      {
+        "symbol_id": "406830eb-b6a2-42ac-8435-9d79d4bd79d2",
+        "class_id": 23,
+        "category": "pip",
+        "type": "fit",
+        "label": "Mid arrow flow direction",
+        "confidence": 0.3052572011947632,
+        "bbox": [
+          609,
+          2904,
+          689,
+          2991
+        ]
+      },
+      {
+        "symbol_id": "f118bb88-b250-4db7-bf73-944d27820063",
+        "class_id": 30,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared with Pri Loc access",
+        "confidence": 0.3019856810569763,
+        "bbox": [
+          1713,
+          3890,
+          1803,
+          3978
+        ]
+      },
+      {
+        "symbol_id": "70b11f63-50c5-4f08-8756-ac575e91c4bf",
+        "class_id": 10,
+        "category": "inst",
+        "type": "valv",
+        "label": "Sealing gate valve",
+        "confidence": 0.30024805665016174,
+        "bbox": [
+          1461,
+          2884,
+          1522,
+          2981
+        ]
+      },
+      {
+        "symbol_id": "f6995a57-b876-4d13-979c-928494deb1bf",
+        "class_id": 19,
+        "category": "pip",
+        "type": "fit",
+        "label": "Right concentric reducer",
+        "confidence": 0.2993035316467285,
+        "bbox": [
+          3469,
+          2991,
+          3599,
+          3028
+        ]
+      },
+      {
+        "symbol_id": "a795b79f-e845-4049-9ce2-3495c61fc3a1",
+        "class_id": 3,
+        "category": "inst",
+        "type": "valv",
+        "label": "Gate valve NO",
+        "confidence": 0.28490734100341797,
+        "bbox": [
+          4324,
+          1218,
+          4374,
+          1307
+        ]
+      },
+      {
+        "symbol_id": "11807efd-3f0a-44a1-98fb-762ec6b92cd1",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.28388193249702454,
+        "bbox": [
+          3613,
+          3602,
+          3654,
+          3700
+        ]
+      },
+      {
+        "symbol_id": "002327ea-2aab-4b5d-aa7b-fc5c7b0025b5",
+        "class_id": 31,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared control logic",
+        "confidence": 0.2830655872821808,
+        "bbox": [
+          1157,
+          4028,
+          1271,
+          4138
+        ]
+      },
+      {
+        "symbol_id": "b6280855-47ad-4a19-9351-89887402dfe1",
+        "class_id": 30,
+        "category": "inst",
+        "type": "ind",
+        "label": "shared with Pri Loc access",
+        "confidence": 0.2818746864795685,
+        "bbox": [
+          1225,
+          3328,
+          1313,
+          3408
+        ]
+      },
+      {
+        "symbol_id": "9c92113b-493b-4ae5-a64f-5baad9944d99",
+        "class_id": 29,
+        "category": "inst",
+        "type": "ind",
+        "label": "Solenoid actuator",
+        "confidence": 0.2812899351119995,
+        "bbox": [
+          2713,
+          3874,
+          2824,
+          3988
+        ]
+      },
+      {
+        "symbol_id": "1f9a8754-ebf2-4f62-b096-308ecb620c2d",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.27521660923957825,
+        "bbox": [
+          2427,
+          1338,
+          2528,
+          1429
+        ]
+      },
+      {
+        "symbol_id": "f13f5026-dbe5-41ee-a2ad-4ba62211ad6c",
+        "class_id": 14,
+        "category": "inst",
+        "type": "valv",
+        "label": "Rotary valve NO",
+        "confidence": 0.26795852184295654,
+        "bbox": [
+          3438,
+          2058,
+          3517,
+          2135
+        ]
+      },
+      {
+        "symbol_id": "703bf5c7-09b8-483d-b1eb-86b04299bca2",
+        "class_id": 22,
+        "category": "pip",
+        "type": "fit",
+        "label": "Jacketed pipe",
+        "confidence": 0.26129287481307983,
+        "bbox": [
+          3168,
+          3256,
+          3242,
+          3292
+        ]
+      }
+    ],
+    "texts": [
+      {
+        "text_id": "157f00a4-86b2-436e-8357-bbfdf0767d55",
+        "content": "QR-04307",
+        "confidence": 0.4754039943218231,
+        "bbox": [
+          1253,
+          516,
+          1456,
+          614
+        ]
+      },
+      {
+        "text_id": "684f7e28-abb2-4cad-a769-ebd3f1c263fd",
+        "content": "-",
+        "confidence": 0.26397231221199036,
+        "bbox": [
+          4263,
+          866,
+          4333,
+          985
+        ]
+      },
+      {
+        "text_id": "3980d7c5-959f-43ed-b994-b7d1908ac5a0",
+        "content": "*",
+        "confidence": 0.9999045133590698,
+        "bbox": [
+          4333,
+          894,
+          4382,
+          950
+        ]
+      },
+      {
+        "text_id": "25aa4cb5-1e13-4b85-975e-1a1bd31acc90",
+        "content": "2",
+        "confidence": 0.3823317587375641,
+        "bbox": [
+          4277,
+          978,
+          4319,
+          1027
+        ]
+      },
+      {
+        "text_id": "d4b955f5-c973-4721-9e75-dec5ded9927e",
+        "content": "U-83253",
+        "confidence": 0.3825628459453583,
+        "bbox": [
+          3255,
+          999,
+          3423,
+          1076
+        ]
+      },
+      {
+        "text_id": "82dcaaba-2f65-479d-8ee6-cf8e0b015155",
+        "content": "Do",
+        "confidence": 0.38299790024757385,
+        "bbox": [
+          3255,
+          1048,
+          3381,
+          1132
+        ]
+      },
+      {
+        "text_id": "830ae646-18ba-45ed-b89a-83bd347a9ccd",
+        "content": "1\"x4\"",
+        "confidence": 0.725459635257721,
+        "bbox": [
+          3871,
+          999,
+          3990,
+          1076
+        ]
+      },
+      {
+        "text_id": "ac9d75bc-7ef5-47a5-99a4-6d45a9a60d41",
+        "content": "8\"-ZF-5862",
+        "confidence": 0.7200694680213928,
+        "bbox": [
+          4340,
+          1027,
+          4564,
+          1097
+        ]
+      },
+      {
+        "text_id": "b783e405-35c3-423d-b4d9-e5970d1afa98",
+        "content": "II",
+        "confidence": 0.2447865754365921,
+        "bbox": [
+          4669,
+          1055,
+          4711,
+          1118
+        ]
+      },
+      {
+        "text_id": "c284fb77-a96b-4e95-bf15-0cdf5c3f9b66",
+        "content": "486",
+        "confidence": 0.99623703956604,
+        "bbox": [
+          749,
+          1055,
+          833,
+          1146
+        ]
+      },
+      {
+        "text_id": "2b5bbf92-2a61-49fe-b64f-c4ee1c4b7f64",
+        "content": "E\"",
+        "confidence": 0.4583885669708252,
+        "bbox": [
+          980,
+          985,
+          1176,
+          1167
+        ]
+      },
+      {
+        "text_id": "9ceab8d5-1ed7-4d3a-a993-33fc09af0380",
+        "content": "ST-68051",
+        "confidence": 0.9531810283660889,
+        "bbox": [
+          2968,
+          1097,
+          3150,
+          1174
+        ]
+      },
+      {
+        "text_id": "ce75db41-afbf-4057-91d1-1f398efeead2",
+        "content": "-",
+        "confidence": 0.3126346468925476,
+        "bbox": [
+          2030,
+          1188,
+          2086,
+          1230
+        ]
+      },
+      {
+        "text_id": "345d3585-f9c9-46d6-af13-6cb5c473c05c",
+        "content": "K",
+        "confidence": 0.13460542261600494,
+        "bbox": [
+          3675,
+          1125,
+          3843,
+          1342
+        ]
+      },
+      {
+        "text_id": "b4b63ada-2f05-4825-a0be-5f398833bcd0",
+        "content": "5",
+        "confidence": 0.2969255745410919,
+        "bbox": [
+          4263,
+          1160,
+          4340,
+          1321
+        ]
+      },
+      {
+        "text_id": "3707e000-a589-4321-9c17-a759a6312389",
+        "content": "4",
+        "confidence": 0.5896005034446716,
+        "bbox": [
+          4312,
+          1202,
+          4389,
+          1342
+        ]
+      },
+      {
+        "text_id": "75ec076e-983c-4776-b25c-9e35ecfd3eed",
+        "content": "CD-36908",
+        "confidence": 0.9983351826667786,
+        "bbox": [
+          2688,
+          1286,
+          2877,
+          1356
+        ]
+      },
+      {
+        "text_id": "582781fe-b926-42e7-a0aa-f69c23242879",
+        "content": "I",
+        "confidence": 0.7770307660102844,
+        "bbox": [
+          931,
+          1139,
+          1001,
+          1370
+        ]
+      },
+      {
+        "text_id": "30f65e88-b80c-4bf8-860c-fe9cb3c87264",
+        "content": "CV-52834",
+        "confidence": 0.9974219799041748,
+        "bbox": [
+          2401,
+          1286,
+          2597,
+          1363
+        ]
+      },
+      {
+        "text_id": "9096eac7-e8e6-49ce-ac7c-61337b63afcf",
+        "content": "2\"-52-5579",
+        "confidence": 0.4698745310306549,
+        "bbox": [
+          4634,
+          1314,
+          4865,
+          1391
+        ]
+      },
+      {
+        "text_id": "ac9a9d71-de7c-4ccd-986b-6b3bd3cd935e",
+        "content": "IH",
+        "confidence": 0.7513126134872437,
+        "bbox": [
+          1638,
+          1335,
+          1722,
+          1419
+        ]
+      },
+      {
+        "text_id": "ba64f591-dd86-49c5-a1f3-86932d3ffc30",
+        "content": "D",
+        "confidence": 0.643486738204956,
+        "bbox": [
+          2429,
+          1349,
+          2485,
+          1405
+        ]
+      },
+      {
+        "text_id": "d8a32009-6b9e-46ab-b1cc-93e0ac74184e",
+        "content": "D8",
+        "confidence": 0.12183020263910294,
+        "bbox": [
+          2758,
+          1335,
+          2884,
+          1419
+        ]
+      },
+      {
+        "text_id": "434d1f39-bb96-4bb7-bc2b-a7c3b79bfc17",
+        "content": "&",
+        "confidence": 0.3236197829246521,
+        "bbox": [
+          2450,
+          1391,
+          2541,
+          1482
+        ]
+      },
+      {
+        "text_id": "224ba95f-ed53-4101-a6c0-9f8814b971ec",
+        "content": "9",
+        "confidence": 0.423810213804245,
+        "bbox": [
+          3451,
+          1426,
+          3542,
+          1517
+        ]
+      },
+      {
+        "text_id": "e90fedbf-db06-45c1-bb75-320566b1f0ef",
+        "content": "E",
+        "confidence": 0.24326634407043457,
+        "bbox": [
+          1988,
+          1489,
+          2044,
+          1538
+        ]
+      },
+      {
+        "text_id": "190da133-81f0-4203-a7ae-11e8b8d6abd2",
+        "content": "3",
+        "confidence": 0.39704734086990356,
+        "bbox": [
+          2835,
+          1426,
+          2912,
+          1608
+        ]
+      },
+      {
+        "text_id": "f9306c7a-2271-4219-a456-1ebc5a8711f5",
+        "content": "Z",
+        "confidence": 0.8889689445495605,
+        "bbox": [
+          2898,
+          1475,
+          2968,
+          1580
+        ]
+      },
+      {
+        "text_id": "ddde1abb-6ce5-4499-8d78-975c33d36ef2",
+        "content": ":",
+        "confidence": 0.8191453814506531,
+        "bbox": [
+          3409,
+          1426,
+          3486,
+          1608
+        ]
+      },
+      {
+        "text_id": "2192a285-df95-4cfc-8a22-73d6e240237e",
+        "content": "5T-18163",
+        "confidence": 0.9456796646118164,
+        "bbox": [
+          4970,
+          1566,
+          5159,
+          1643
+        ]
+      },
+      {
+        "text_id": "42638090-f2a8-43c8-9f00-d2cd89850df3",
+        "content": "",
+        "confidence": 0.3190208971500397,
+        "bbox": [
+          4963,
+          1629,
+          5061,
+          1713
+        ]
+      },
+      {
+        "text_id": "16a95ac1-c199-46dd-a349-2045e9c4f324",
+        "content": "*",
+        "confidence": 0.7887138724327087,
+        "bbox": [
+          2884,
+          1720,
+          2968,
+          1860
+        ]
+      },
+      {
+        "text_id": "d8eb403b-551a-4d21-9306-41799606493f",
+        "content": "*",
+        "confidence": 0.48907560110092163,
+        "bbox": [
+          3451,
+          1720,
+          3535,
+          1853
+        ]
+      },
+      {
+        "text_id": "478ae5aa-e351-4a57-ae8c-f2fb7334d98b",
+        "content": "E4",
+        "confidence": 0.3951093554496765,
+        "bbox": [
+          1127,
+          1804,
+          1204,
+          1895
+        ]
+      },
+      {
+        "text_id": "0dd4cb8e-d4c3-4b50-a49d-13029661690d",
+        "content": "E",
+        "confidence": 0.5237526297569275,
+        "bbox": [
+          833,
+          1720,
+          938,
+          1909
+        ]
+      },
+      {
+        "text_id": "70f6caa4-3a57-4d52-b985-cd37c335bd4e",
+        "content": "P",
+        "confidence": 0.6881250143051147,
+        "bbox": [
+          2835,
+          1713,
+          2912,
+          1895
+        ]
+      },
+      {
+        "text_id": "99e97908-ba9d-4694-ad34-fec1e60afdd4",
+        "content": "P",
+        "confidence": 0.8428255319595337,
+        "bbox": [
+          3409,
+          1713,
+          3486,
+          1895
+        ]
+      },
+      {
+        "text_id": "1c0853e9-8b73-47fa-811d-f1618ef45279",
+        "content": "INS(-24'C)",
+        "confidence": 0.4075655937194824,
+        "bbox": [
+          1547,
+          1853,
+          1736,
+          1923
+        ]
+      },
+      {
+        "text_id": "1f1a3d3b-babc-4bff-b98d-4767982d9100",
+        "content": "DV-17200",
+        "confidence": 0.9991212487220764,
+        "bbox": [
+          2401,
+          1853,
+          2590,
+          1930
+        ]
+      },
+      {
+        "text_id": "e8b57afa-180f-4d23-9ca6-d9cbd05ef025",
+        "content": "7\"-FD-9538",
+        "confidence": 0.9988439083099365,
+        "bbox": [
+          2919,
+          1881,
+          3150,
+          1951
+        ]
+      },
+      {
+        "text_id": "32a94451-9089-4586-8218-6575fd7edcb5",
+        "content": "5\"-EZ-6850",
+        "confidence": 0.8179160356521606,
+        "bbox": [
+          3780,
+          1881,
+          4004,
+          1951
+        ]
+      },
+      {
+        "text_id": "485dd8b0-f1ff-47f6-b0ec-f221a9a07360",
+        "content": "9\"",
+        "confidence": 0.45429283380508423,
+        "bbox": [
+          4711,
+          1846,
+          4851,
+          1958
+        ]
+      },
+      {
+        "text_id": "8f3ce844-576b-40b2-80d4-d9aa21776852",
+        "content": "Lpk",
+        "confidence": 0.3032830059528351,
+        "bbox": [
+          1204,
+          1881,
+          1393,
+          1993
+        ]
+      },
+      {
+        "text_id": "fe1928e8-b23c-4100-8a3b-8600abb975f6",
+        "content": "$9",
+        "confidence": 0.23141053318977356,
+        "bbox": [
+          1561,
+          1909,
+          1729,
+          1986
+        ]
+      },
+      {
+        "text_id": "c1eb6ca4-7165-499b-9556-2804d81c4d14",
+        "content": "a",
+        "confidence": 0.7586534023284912,
+        "bbox": [
+          2464,
+          1916,
+          2534,
+          1972
+        ]
+      },
+      {
+        "text_id": "be36e8ee-26a2-4297-a4aa-7f2fbfc856b9",
+        "content": "ST-09607",
+        "confidence": 0.9107481837272644,
+        "bbox": [
+          1253,
+          1944,
+          1456,
+          2042
+        ]
+      },
+      {
+        "text_id": "5493504d-dccf-4dc7-a2eb-1d2db20b3cd6",
+        "content": "ta",
+        "confidence": 0.2760140597820282,
+        "bbox": [
+          3206,
+          1881,
+          3465,
+          2056
+        ]
+      },
+      {
+        "text_id": "bca87bcf-a437-4927-b2e3-639720562311",
+        "content": "C",
+        "confidence": 0.34455740451812744,
+        "bbox": [
+          4452,
+          1993,
+          4501,
+          2035
+        ]
+      },
+      {
+        "text_id": "09e86532-f375-41aa-8387-882c93e942af",
+        "content": "E",
+        "confidence": 0.8703046441078186,
+        "bbox": [
+          2842,
+          2000,
+          2912,
+          2119
+        ]
+      },
+      {
+        "text_id": "5f54169b-1733-4208-8918-ba553804266c",
+        "content": "L",
+        "confidence": 0.2186335176229477,
+        "bbox": [
+          2891,
+          2007,
+          2968,
+          2119
+        ]
+      },
+      {
+        "text_id": "790905cf-dfed-41c3-b3d8-59b53b7d5e63",
+        "content": "2",
+        "confidence": 0.3608422577381134,
+        "bbox": [
+          2856,
+          2105,
+          2898,
+          2161
+        ]
+      },
+      {
+        "text_id": "cbb833ae-a376-4ea3-a20f-972626a816a6",
+        "content": "I",
+        "confidence": 0.6328231692314148,
+        "bbox": [
+          616,
+          1965,
+          714,
+          2238
+        ]
+      },
+      {
+        "text_id": "ac00b9a7-937a-4719-83cb-b36d790e841f",
+        "content": "I",
+        "confidence": 0.6800985336303711,
+        "bbox": [
+          903,
+          1979,
+          994,
+          2245
+        ]
+      },
+      {
+        "text_id": "589ee406-e2d8-4040-a57e-26ddf7752f41",
+        "content": "0-4",
+        "confidence": 0.17525029182434082,
+        "bbox": [
+          3381,
+          2028,
+          3542,
+          2196
+        ]
+      },
+      {
+        "text_id": "690ae1a2-be09-44be-9119-11a15d0696c2",
+        "content": "à",
+        "confidence": 0.27810147404670715,
+        "bbox": [
+          3500,
+          1986,
+          3598,
+          2189
+        ]
+      },
+      {
+        "text_id": "6677c87b-e5ba-4b15-ab85-34af62181585",
+        "content": "I",
+        "confidence": 0.22499708831310272,
+        "bbox": [
+          966,
+          2119,
+          1176,
+          2280
+        ]
+      },
+      {
+        "text_id": "6b54122b-ce5a-473a-a2f6-3435b330204f",
+        "content": "6'-LD-7533",
+        "confidence": 0.4859928488731384,
+        "bbox": [
+          1498,
+          2168,
+          1715,
+          2245
+        ]
+      },
+      {
+        "text_id": "7fe3dd08-5799-43f8-9d8d-d351abde95b4",
+        "content": "V",
+        "confidence": 0.44043344259262085,
+        "bbox": [
+          2905,
+          2301,
+          2961,
+          2357
+        ]
+      },
+      {
+        "text_id": "731a24c9-b895-43c4-8eba-fa17735a9c9d",
+        "content": "X",
+        "confidence": 0.93384850025177,
+        "bbox": [
+          1456,
+          2315,
+          1540,
+          2441
+        ]
+      },
+      {
+        "text_id": "388d30ea-2b6e-4f37-b8ad-ed6ecf8e8386",
+        "content": "I",
+        "confidence": 0.16957888007164001,
+        "bbox": [
+          1512,
+          2287,
+          1589,
+          2462
+        ]
+      },
+      {
+        "text_id": "bf751846-8d65-4bbc-8da1-7b132292bcfe",
+        "content": "B",
+        "confidence": 0.6787188649177551,
+        "bbox": [
+          2828,
+          2273,
+          2926,
+          2476
+        ]
+      },
+      {
+        "text_id": "d3965f01-c2c4-48a2-9752-3c71c4856de0",
+        "content": "zuo",
+        "confidence": 0.4384571611881256,
+        "bbox": [
+          2002,
+          2602,
+          2100,
+          2672
+        ]
+      },
+      {
+        "text_id": "051dea61-5cb1-4820-aede-195948a596f1",
+        "content": ":",
+        "confidence": 0.9781742095947266,
+        "bbox": [
+          2912,
+          2595,
+          2982,
+          2693
+        ]
+      },
+      {
+        "text_id": "f9bccdf3-1b91-4809-b8bb-7d80ff795307",
+        "content": "E",
+        "confidence": 0.1928185075521469,
+        "bbox": [
+          3969,
+          2560,
+          4067,
+          2756
+        ]
+      },
+      {
+        "text_id": "a833a6e6-19f9-4475-b5d4-1343c4e595ab",
+        "content": "#",
+        "confidence": 0.34639501571655273,
+        "bbox": [
+          4032,
+          2567,
+          4109,
+          2700
+        ]
+      },
+      {
+        "text_id": "78b24a0f-c7fa-427a-87a5-0f47a723b260",
+        "content": "ERV-111",
+        "confidence": 0.48057088255882263,
+        "bbox": [
+          4116,
+          2707,
+          4277,
+          2784
+        ]
+      },
+      {
+        "text_id": "f1533cc8-2ee2-4346-b30d-ab051001ec82",
+        "content": "UV-05201",
+        "confidence": 0.9232771396636963,
+        "bbox": [
+          4396,
+          2707,
+          4578,
+          2784
+        ]
+      },
+      {
+        "text_id": "e0f16075-0688-497e-ab45-99707313c951",
+        "content": "4\"-PU-2809",
+        "confidence": 0.8020994663238525,
+        "bbox": [
+          4914,
+          2735,
+          5166,
+          2805
+        ]
+      },
+      {
+        "text_id": "26ba259f-a21b-4c85-b1ff-3a760e056081",
+        "content": "792",
+        "confidence": 0.5920379161834717,
+        "bbox": [
+          3570,
+          2777,
+          3689,
+          2868
+        ]
+      },
+      {
+        "text_id": "6c64056a-c781-4420-bef2-40813992cfc6",
+        "content": "K",
+        "confidence": 0.39426887035369873,
+        "bbox": [
+          4466,
+          2763,
+          4571,
+          2840
+        ]
+      },
+      {
+        "text_id": "f07605ab-ae8d-4b99-895c-9fde01e41160",
+        "content": "&",
+        "confidence": 0.44041410088539124,
+        "bbox": [
+          672,
+          2896,
+          735,
+          2945
+        ]
+      },
+      {
+        "text_id": "0496f45d-bb66-4160-ae4c-0fa81f8ee685",
+        "content": "a",
+        "confidence": 0.7387123107910156,
+        "bbox": [
+          896,
+          2847,
+          973,
+          2938
+        ]
+      },
+      {
+        "text_id": "a75a8188-aaa3-4698-a025-e16628386c83",
+        "content": "7",
+        "confidence": 0.4619579315185547,
+        "bbox": [
+          2002,
+          2868,
+          2058,
+          2938
+        ]
+      },
+      {
+        "text_id": "4ec7b76f-d788-47e1-9cc5-b96d799cdceb",
+        "content": "N",
+        "confidence": 0.13275742530822754,
+        "bbox": [
+          3402,
+          2840,
+          3479,
+          2938
+        ]
+      },
+      {
+        "text_id": "2e24b16d-c8fd-4565-ba83-e6fbe72e177c",
+        "content": "1",
+        "confidence": 0.44438105821609497,
+        "bbox": [
+          3997,
+          2854,
+          4039,
+          2910
+        ]
+      },
+      {
+        "text_id": "0eee95e3-5f38-4ae5-b2f2-2ad0b2bb65ee",
+        "content": "4",
+        "confidence": 0.34733137488365173,
+        "bbox": [
+          1449,
+          2882,
+          1533,
+          3008
+        ]
+      },
+      {
+        "text_id": "0cf2ba3e-bf16-4a28-91cd-c7ec60ef303b",
+        "content": "",
+        "confidence": 0.6528612375259399,
+        "bbox": [
+          1512,
+          2847,
+          1589,
+          3001
+        ]
+      },
+      {
+        "text_id": "20fd7a22-a881-46e0-af5a-322824e588e6",
+        "content": "STA",
+        "confidence": 0.9993834495544434,
+        "bbox": [
+          3745,
+          2910,
+          3808,
+          2966
+        ]
+      },
+      {
+        "text_id": "2114eb4c-57ae-49fc-bfc8-5680908439ff",
+        "content": "w",
+        "confidence": 0.1162906065583229,
+        "bbox": [
+          3976,
+          2889,
+          4144,
+          3001
+        ]
+      },
+      {
+        "text_id": "1fbcff5a-c1c1-4b5b-9e66-e092bfada306",
+        "content": "%",
+        "confidence": 0.7926614880561829,
+        "bbox": [
+          4319,
+          2868,
+          4389,
+          2994
+        ]
+      },
+      {
+        "text_id": "2dce3eab-e8e2-4cb7-a37c-16d33c9404e8",
+        "content": "E",
+        "confidence": 0.3291797339916229,
+        "bbox": [
+          1988,
+          2959,
+          2058,
+          3029
+        ]
+      },
+      {
+        "text_id": "7fa9516f-d904-4105-a50c-8949d305db0a",
+        "content": "I",
+        "confidence": 0.508618175983429,
+        "bbox": [
+          826,
+          2854,
+          924,
+          3036
+        ]
+      },
+      {
+        "text_id": "cf5a6842-5c43-4b3f-9e04-26d10de25c88",
+        "content": ":",
+        "confidence": 0.32938599586486816,
+        "bbox": [
+          4263,
+          2861,
+          4340,
+          3029
+        ]
+      },
+      {
+        "text_id": "0cfe9499-6def-4005-9840-a92ec6f5effa",
+        "content": "I",
+        "confidence": 0.8966270685195923,
+        "bbox": [
+          4256,
+          3127,
+          4326,
+          3274
+        ]
+      },
+      {
+        "text_id": "bfafc0f7-89ad-4424-8e4a-fb368296ffcb",
+        "content": "s",
+        "confidence": 0.24193203449249268,
+        "bbox": [
+          5117,
+          3148,
+          5208,
+          3246
+        ]
+      },
+      {
+        "text_id": "f1bbf047-434e-43c5-80ee-20987c39ccce",
+        "content": "2",
+        "confidence": 0.6442075371742249,
+        "bbox": [
+          3136,
+          3253,
+          3178,
+          3295
+        ]
+      },
+      {
+        "text_id": "fb8e73f4-c6d9-40ff-98f5-955981a1c557",
+        "content": "B",
+        "confidence": 0.6849325299263,
+        "bbox": [
+          833,
+          3120,
+          931,
+          3330
+        ]
+      },
+      {
+        "text_id": "6f84559d-ef71-487d-bc32-bd999b8b6288",
+        "content": "RV-10141",
+        "confidence": 0.99901282787323,
+        "bbox": [
+          1834,
+          3281,
+          2016,
+          3351
+        ]
+      },
+      {
+        "text_id": "2a85880a-b004-458d-94e6-379ce149c4bc",
+        "content": "ERVB3S",
+        "confidence": 0.4282013475894928,
+        "bbox": [
+          2107,
+          3267,
+          2289,
+          3365
+        ]
+      },
+      {
+        "text_id": "8b470130-e056-44fe-bd1e-fdffb7638f10",
+        "content": "e",
+        "confidence": 0.4011933207511902,
+        "bbox": [
+          1862,
+          3330,
+          1946,
+          3407
+        ]
+      },
+      {
+        "text_id": "49e19072-1db2-4618-81d0-b80d913b6c7b",
+        "content": "K",
+        "confidence": 0.36809566617012024,
+        "bbox": [
+          3829,
+          3330,
+          3955,
+          3400
+        ]
+      },
+      {
+        "text_id": "b1dd707e-910d-4a3c-9096-9a751a74d8e6",
+        "content": "CV-03996",
+        "confidence": 0.9898029565811157,
+        "bbox": [
+          2982,
+          3386,
+          3129,
+          3449
+        ]
+      },
+      {
+        "text_id": "31b8fb51-4240-4369-b400-893bf175f98d",
+        "content": "UV-90988",
+        "confidence": 0.9994243383407593,
+        "bbox": [
+          3829,
+          3379,
+          4004,
+          3456
+        ]
+      },
+      {
+        "text_id": "e007bf64-978b-4c40-b5e1-f094e38aad2c",
+        "content": "y",
+        "confidence": 0.2796366214752197,
+        "bbox": [
+          896,
+          3470,
+          987,
+          3575
+        ]
+      },
+      {
+        "text_id": "117d6729-bb99-4eeb-ba7b-dce8206e2953",
+        "content": "05",
+        "confidence": 0.7690949440002441,
+        "bbox": [
+          4249,
+          3463,
+          4340,
+          3540
+        ]
+      },
+      {
+        "text_id": "0c6071fb-70fc-4bc6-b8bc-3d09faf3d717",
+        "content": "4",
+        "confidence": 0.3133620619773865,
+        "bbox": [
+          826,
+          3407,
+          931,
+          3610
+        ]
+      },
+      {
+        "text_id": "a83571b4-fb95-4fd8-b600-a99f08d3033a",
+        "content": "1",
+        "confidence": 0.20811961591243744,
+        "bbox": [
+          1414,
+          3414,
+          1491,
+          3603
+        ]
+      },
+      {
+        "text_id": "fa0dadba-b5ef-4ae4-ab4c-eceaf0b496bb",
+        "content": "%",
+        "confidence": 0.36875802278518677,
+        "bbox": [
+          1470,
+          3470,
+          1547,
+          3596
+        ]
+      },
+      {
+        "text_id": "081fc20c-3545-4f86-bf46-5c8e01166d0f",
+        "content": "dW",
+        "confidence": 0.32109686732292175,
+        "bbox": [
+          3136,
+          3533,
+          3178,
+          3582
+        ]
+      },
+      {
+        "text_id": "543d0cf0-8d35-4b17-ab42-c400b10f385f",
+        "content": "AB-59065",
+        "confidence": 0.9774473905563354,
+        "bbox": [
+          980,
+          3561,
+          1162,
+          3638
+        ]
+      },
+      {
+        "text_id": "b6d7e47e-0699-48a8-a435-20b8edc271de",
+        "content": "CS-53",
+        "confidence": 0.6001226305961609,
+        "bbox": [
+          2758,
+          3561,
+          2870,
+          3638
+        ]
+      },
+      {
+        "text_id": "aa4c3c2a-f341-4af2-ab0b-c31998a33347",
+        "content": "INS(54C)",
+        "confidence": 0.527026355266571,
+        "bbox": [
+          3262,
+          3561,
+          3437,
+          3631
+        ]
+      },
+      {
+        "text_id": "69b5bef0-2eb6-4afc-9654-680ce6a24556",
+        "content": "S-25",
+        "confidence": 0.950903594493866,
+        "bbox": [
+          3661,
+          3568,
+          3731,
+          3617
+        ]
+      },
+      {
+        "text_id": "ad98acfa-f77c-4434-86a8-09bee191c795",
+        "content": "AV-97932",
+        "confidence": 0.8757143616676331,
+        "bbox": [
+          4116,
+          3561,
+          4305,
+          3638
+        ]
+      },
+      {
+        "text_id": "db155c13-2d31-43e0-b5a2-1a75ff94e4c5",
+        "content": "K",
+        "confidence": 0.4169418513774872,
+        "bbox": [
+          686,
+          3603,
+          819,
+          3687
+        ]
+      },
+      {
+        "text_id": "6582aeae-a43e-4844-b932-96894c79086b",
+        "content": "",
+        "confidence": 0.3907605707645416,
+        "bbox": [
+          4158,
+          3617,
+          4284,
+          3694
+        ]
+      },
+      {
+        "text_id": "d4ef6288-62de-4c64-abd4-35d84fbef7ff",
+        "content": "MW4781",
+        "confidence": 0.5992831587791443,
+        "bbox": [
+          686,
+          3652,
+          882,
+          3750
+        ]
+      },
+      {
+        "text_id": "6c56e779-3e7c-4440-877b-70f366cf35bc",
+        "content": "B",
+        "confidence": 0.34990742802619934,
+        "bbox": [
+          2247,
+          3722,
+          2429,
+          3918
+        ]
+      },
+      {
+        "text_id": "6894b5c1-765b-46bd-b8c5-0c347f875e39",
+        "content": "",
+        "confidence": 0.43149369955062866,
+        "bbox": [
+          1029,
+          3890,
+          1120,
+          3967
+        ]
+      },
+      {
+        "text_id": "a1405f0e-550f-4fdf-94d1-23f1511f1d67",
+        "content": "M",
+        "confidence": 0.2804299592971802,
+        "bbox": [
+          2107,
+          3827,
+          2324,
+          3988
+        ]
+      },
+      {
+        "text_id": "8b174af6-27bd-4a07-9e83-1fcc200cd40a",
+        "content": "ST95287",
+        "confidence": 0.3959633409976959,
+        "bbox": [
+          2961,
+          3841,
+          3171,
+          3939
+        ]
+      },
+      {
+        "text_id": "a9e40b5a-8975-4784-9dc7-fc9a733ece6a",
+        "content": "H",
+        "confidence": 0.3785335123538971,
+        "bbox": [
+          3038,
+          3890,
+          3220,
+          4009
+        ]
+      },
+      {
+        "text_id": "95809b6c-f49c-40fe-81bd-825a04c7ae29",
+        "content": "7\"-YJ-2632",
+        "confidence": 0.582630455493927,
+        "bbox": [
+          3773,
+          3876,
+          3990,
+          3946
+        ]
+      },
+      {
+        "text_id": "c0ab3c39-776d-4c63-a033-051d1397f33d",
+        "content": "HI",
+        "confidence": 0.5690472722053528,
+        "bbox": [
+          4725,
+          3904,
+          4781,
+          3974
+        ]
+      },
+      {
+        "text_id": "3362f619-8fd0-4fae-b727-25b2b9119803",
+        "content": "MN-46505",
+        "confidence": 0.9778783321380615,
+        "bbox": [
+          980,
+          3946,
+          1162,
+          4023
+        ]
+      },
+      {
+        "text_id": "40ce0886-67c0-4f33-a26b-149294d2a64e",
+        "content": "G",
+        "confidence": 0.22330327332019806,
+        "bbox": [
+          3227,
+          3869,
+          3465,
+          4051
+        ]
+      },
+      {
+        "text_id": "40a26021-c529-46e9-9558-6d214c336b92",
+        "content": "-",
+        "confidence": 0.9290403127670288,
+        "bbox": [
+          3185,
+          4037,
+          3234,
+          4079
+        ]
+      },
+      {
+        "text_id": "d49df12d-92c1-4474-aa8a-7c29b943066b",
+        "content": "KL_58999",
+        "confidence": 0.4410291910171509,
+        "bbox": [
+          973,
+          4121,
+          1169,
+          4219
+        ]
+      },
+      {
+        "text_id": "8e6b37ac-c80f-48ee-a748-bd3494cd3318",
+        "content": "2-DC2123",
+        "confidence": 0.260301798582077,
+        "bbox": [
+          2044,
+          4156,
+          2310,
+          4247
+        ]
+      }
+    ],
+    "lines": [],
+    "linkers": [
+      {
+        "symbol_id": "f38f58d6-4e0d-428f-ad67-0089d1c1ff0d",
+        "text_ids": [
+          "a75a8188-aaa3-4698-a025-e16628386c83"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2002,
+          2850,
+          2107,
+          2938
+        ]
+      },
+      {
+        "symbol_id": "3b9ad9d0-0eaf-4d4a-8b8c-71ec353fb83f",
+        "text_ids": [
+          "d3965f01-c2c4-48a2-9752-3c71c4856de0"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2002,
+          2602,
+          2130,
+          2716
+        ]
+      },
+      {
+        "symbol_id": "fcc8c535-4e00-4fc7-baa0-1c01d417dafc",
+        "text_ids": [
+          "6582aeae-a43e-4844-b932-96894c79086b"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4158,
+          3617,
+          4284,
+          3694
+        ]
+      },
+      {
+        "symbol_id": "6eeb176f-02e3-4e8a-b3e1-9c16d121383c",
+        "text_ids": [
+          "ce75db41-afbf-4057-91d1-1f398efeead2"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2030,
+          1180,
+          2097,
+          1268
+        ]
+      },
+      {
+        "symbol_id": "c4315237-b627-4812-8d1e-c8bf6660210e",
+        "text_ids": [
+          "8b470130-e056-44fe-bd1e-fdffb7638f10"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          1862,
+          3330,
+          1946,
+          3407
+        ]
+      },
+      {
+        "symbol_id": "cae33c8f-2ff6-4937-811c-95567597c8e0",
+        "text_ids": [
+          "16a95ac1-c199-46dd-a349-2045e9c4f324"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2884,
+          1720,
+          2968,
+          1860
+        ]
+      },
+      {
+        "symbol_id": "4ee393dd-e434-42f1-9aa8-c1c5bc4daf93",
+        "text_ids": [
+          "fb8e73f4-c6d9-40ff-98f5-955981a1c557"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          833,
+          3120,
+          983,
+          3330
+        ]
+      },
+      {
+        "symbol_id": "d68b5d25-2f82-4170-9e7f-9900aa72fe2a",
+        "text_ids": [
+          "345d3585-f9c9-46d6-af13-6cb5c473c05c"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3675,
+          1125,
+          3843,
+          1342
+        ]
+      },
+      {
+        "symbol_id": "a29979a4-f1fc-4263-b80b-1951883f4343",
+        "text_ids": [
+          "69b5bef0-2eb6-4afc-9654-680ce6a24556"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3646,
+          3568,
+          3731,
+          3617
+        ]
+      },
+      {
+        "symbol_id": "0a784c70-f331-42e2-afd6-c7987877dc87",
+        "text_ids": [
+          "d8a32009-6b9e-46ab-b1cc-93e0ac74184e"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2758,
+          1335,
+          2884,
+          1419
+        ]
+      },
+      {
+        "symbol_id": "a71b6ddc-22e3-4acc-b677-43115c5bcd2d",
+        "text_ids": [
+          "3980d7c5-959f-43ed-b994-b7d1908ac5a0"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4321,
+          872,
+          4382,
+          951
+        ]
+      },
+      {
+        "symbol_id": "5bd6d151-83eb-466e-9310-8918a4638a1a",
+        "text_ids": [
+          "6894b5c1-765b-46bd-b8c5-0c347f875e39"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          1029,
+          3890,
+          1120,
+          3967
+        ]
+      },
+      {
+        "symbol_id": "8360b7bd-bfa7-4103-8e5a-189289b8549b",
+        "text_ids": [
+          "e007bf64-978b-4c40-b5e1-f094e38aad2c"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          896,
+          3470,
+          988,
+          3585
+        ]
+      },
+      {
+        "symbol_id": "badd8f41-2c69-4a60-a9d5-17d445ee96bd",
+        "text_ids": [
+          "224ba95f-ed53-4101-a6c0-9f8814b971ec"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3451,
+          1426,
+          3542,
+          1517
+        ]
+      },
+      {
+        "symbol_id": "6c7c5365-7731-48ea-8f05-0aca9ef03e4b",
+        "text_ids": [
+          "2114eb4c-57ae-49fc-bfc8-5680908439ff"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3976,
+          2889,
+          4144,
+          3001
+        ]
+      },
+      {
+        "symbol_id": "fb64af35-104d-4a23-bb19-9ef67176a50a",
+        "text_ids": [
+          "40a26021-c529-46e9-9558-6d214c336b92"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3179,
+          4036,
+          3241,
+          4079
+        ]
+      },
+      {
+        "symbol_id": "5dc3b058-1f73-45be-82dc-2b474673b548",
+        "text_ids": [
+          "7fe3dd08-5799-43f8-9d8d-d351abde95b4"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2898,
+          2301,
+          2982,
+          2399
+        ]
+      },
+      {
+        "symbol_id": "2c6eef59-cdc0-4e4c-99e2-f940fa354b10",
+        "text_ids": [
+          "fe1928e8-b23c-4100-8a3b-8600abb975f6"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          1561,
+          1908,
+          1729,
+          1986
+        ]
+      },
+      {
+        "symbol_id": "f5126720-9fb9-4404-a479-edb2b2d06675",
+        "text_ids": [
+          "5f54169b-1733-4208-8918-ba553804266c"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2891,
+          2007,
+          2968,
+          2119
+        ]
+      },
+      {
+        "symbol_id": "2c4c2c1f-e35b-4b49-8d12-dd1d9c7357ba",
+        "text_ids": [
+          "6677c87b-e5ba-4b15-ab85-34af62181585"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          966,
+          2119,
+          1176,
+          2280
+        ]
+      },
+      {
+        "symbol_id": "b8277a75-8ec5-494f-b339-ef0e515df278",
+        "text_ids": [
+          "26ba259f-a21b-4c85-b1ff-3a760e056081"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3570,
+          2739,
+          3689,
+          2868
+        ]
+      },
+      {
+        "symbol_id": "57301bce-7730-4e12-8498-461780562539",
+        "text_ids": [
+          "d8eb403b-551a-4d21-9306-41799606493f"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3451,
+          1720,
+          3535,
+          1853
+        ]
+      },
+      {
+        "symbol_id": "62113038-4457-425c-b20a-3263f8e43d5a",
+        "text_ids": [
+          "a833a6e6-19f9-4475-b5d4-1343c4e595ab"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4032,
+          2567,
+          4109,
+          2700
+        ]
+      },
+      {
+        "symbol_id": "224b9365-9590-4730-8351-3fa27cc18f05",
+        "text_ids": [
+          "c284fb77-a96b-4e95-bf15-0cdf5c3f9b66"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          738,
+          1026,
+          849,
+          1146
+        ]
+      },
+      {
+        "symbol_id": "08411714-503b-4e00-841e-7529e8cee954",
+        "text_ids": [
+          "6677c87b-e5ba-4b15-ab85-34af62181585"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          966,
+          2119,
+          1176,
+          2280
+        ]
+      },
+      {
+        "symbol_id": "bb0622ae-127a-406c-a59a-7e99c0f28a19",
+        "text_ids": [
+          "db155c13-2d31-43e0-b5a2-1a75ff94e4c5"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          686,
+          3598,
+          819,
+          3687
+        ]
+      },
+      {
+        "symbol_id": "bfb4416d-8311-4d72-9922-66d80f5d1dc8",
+        "text_ids": [
+          "49e19072-1db2-4618-81d0-b80d913b6c7b"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3829,
+          3330,
+          3955,
+          3400
+        ]
+      },
+      {
+        "symbol_id": "08e377a6-980c-4816-baec-667f129a801a",
+        "text_ids": [
+          "f9306c7a-2271-4219-a456-1ebc5a8711f5"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2898,
+          1475,
+          2968,
+          1580
+        ]
+      },
+      {
+        "symbol_id": "64c15790-3ec4-4688-aa41-b3c58bddf9a1",
+        "text_ids": [
+          "589ee406-e2d8-4040-a57e-26ddf7752f41"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3381,
+          2028,
+          3542,
+          2196
+        ]
+      },
+      {
+        "symbol_id": "11545a28-20f5-4567-a263-fdba329dcc96",
+        "text_ids": [
+          "ba64f591-dd86-49c5-a1f3-86932d3ffc30",
+          "434d1f39-bb96-4bb7-bc2b-a7c3b79bfc17"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2429,
+          1345,
+          2549,
+          1482
+        ]
+      },
+      {
+        "symbol_id": "a7ec33e1-f80e-473f-94b2-009cf068031e",
+        "text_ids": [
+          "c1eb6ca4-7165-499b-9556-2804d81c4d14"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2464,
+          1910,
+          2536,
+          1972
+        ]
+      },
+      {
+        "symbol_id": "b45b5bae-5ccb-42c6-ba27-817f351be57a",
+        "text_ids": [
+          "6c64056a-c781-4420-bef2-40813992cfc6"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4466,
+          2763,
+          4571,
+          2840
+        ]
+      },
+      {
+        "symbol_id": "1bb33142-ad6f-490d-9207-09db23d84c25",
+        "text_ids": [
+          "42638090-f2a8-43c8-9f00-d2cd89850df3"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4963,
+          1617,
+          5085,
+          1713
+        ]
+      },
+      {
+        "symbol_id": "576eec9a-22ae-4911-a459-d87097b2d1d7",
+        "text_ids": [
+          "0496f45d-bb66-4160-ae4c-0fa81f8ee685"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          896,
+          2847,
+          973,
+          2938
+        ]
+      },
+      {
+        "symbol_id": "b5db03ea-b2e7-4898-b758-20d55871374a",
+        "text_ids": [
+          "82dcaaba-2f65-479d-8ee6-cf8e0b015155"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3255,
+          1048,
+          3381,
+          1132
+        ]
+      },
+      {
+        "symbol_id": "ca364f33-0950-4fb2-bdca-0a2294703443",
+        "text_ids": [
+          "bca87bcf-a437-4927-b2e3-639720562311"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4452,
+          1913,
+          4501,
+          2035
+        ]
+      },
+      {
+        "symbol_id": "5f6bbbc7-e91c-4c34-a62f-a7d4adaa28cb",
+        "text_ids": [
+          "26ba259f-a21b-4c85-b1ff-3a760e056081"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3570,
+          2747,
+          3689,
+          2868
+        ]
+      },
+      {
+        "symbol_id": "876d420d-f4db-43f5-b1a1-1d4409cafa67",
+        "text_ids": [
+          "117d6729-bb99-4eeb-ba7b-dce8206e2953"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4249,
+          3463,
+          4377,
+          3540
+        ]
+      },
+      {
+        "symbol_id": "d704b979-4c6d-43de-9636-80d4e36f8546",
+        "text_ids": [
+          "830ae646-18ba-45ed-b89a-83bd347a9ccd"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3871,
+          999,
+          3990,
+          1118
+        ]
+      },
+      {
+        "symbol_id": "19bfd6d3-57d5-4914-bdb5-4716b230182b",
+        "text_ids": [
+          "a9e40b5a-8975-4784-9dc7-fc9a733ece6a"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3038,
+          3890,
+          3220,
+          4009
+        ]
+      },
+      {
+        "symbol_id": "6957fec5-a2b0-4a81-aa54-ec9c452a5c3d",
+        "text_ids": [
+          "1fbcff5a-c1c1-4b5b-9e66-e092bfada306"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4319,
+          2868,
+          4389,
+          2994
+        ]
+      },
+      {
+        "symbol_id": "16cfb53b-7ff1-45e4-96a7-7e9d0b31ae11",
+        "text_ids": [
+          "4ec7b76f-d788-47e1-9cc5-b96d799cdceb"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3402,
+          2840,
+          3479,
+          2938
+        ]
+      },
+      {
+        "symbol_id": "c9bd5735-c3a4-4a4c-ab0b-0b118dea3a25",
+        "text_ids": [
+          "fa0dadba-b5ef-4ae4-ab4c-eceaf0b496bb"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          1470,
+          3470,
+          1547,
+          3596
+        ]
+      },
+      {
+        "symbol_id": "0f1cd114-c445-4ca7-842f-c5858555135a",
+        "text_ids": [
+          "485dd8b0-f1ff-47f6-b0ec-f221a9a07360"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4711,
+          1846,
+          4851,
+          1966
+        ]
+      },
+      {
+        "symbol_id": "e6f613f2-6a9c-4179-8d1a-485ba3a2736d",
+        "text_ids": [
+          "731a24c9-b895-43c4-8eba-fa17735a9c9d"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          1456,
+          2315,
+          1540,
+          2441
+        ]
+      },
+      {
+        "symbol_id": "36505ad0-ea04-454b-bb8d-431c60737169",
+        "text_ids": [
+          "c0ab3c39-776d-4c63-a033-051d1397f33d"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4725,
+          3899,
+          4781,
+          3974
+        ]
+      },
+      {
+        "symbol_id": "70b11f63-50c5-4f08-8756-ac575e91c4bf",
+        "text_ids": [
+          "0eee95e3-5f38-4ae5-b2f2-2ad0b2bb65ee"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          1449,
+          2882,
+          1533,
+          3008
+        ]
+      },
+      {
+        "symbol_id": "a795b79f-e845-4049-9ce2-3495c61fc3a1",
+        "text_ids": [
+          "3707e000-a589-4321-9c17-a759a6312389"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          4312,
+          1202,
+          4389,
+          1342
+        ]
+      },
+      {
+        "symbol_id": "1f9a8754-ebf2-4f62-b096-308ecb620c2d",
+        "text_ids": [
+          "ba64f591-dd86-49c5-a1f3-86932d3ffc30"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          2427,
+          1338,
+          2528,
+          1429
+        ]
+      },
+      {
+        "symbol_id": "f13f5026-dbe5-41ee-a2ad-4ba62211ad6c",
+        "text_ids": [
+          "589ee406-e2d8-4040-a57e-26ddf7752f41"
+        ],
+        "edge_ids": [],
+        "bbox": [
+          3381,
+          2028,
+          3542,
+          2196
+        ]
+      }
+    ],
+    "edges": []
+  },
+  "data_summary": {
+    "symbol_count": 120,
+    "text_count": 119,
+    "line_count": 0,
+    "linker_count": 50,
+    "edge_count": 0
+  }
+}

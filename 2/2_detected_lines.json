@@ -1,0 +1,3304 @@
+{
+    "detections": [
+        {
+            "id": "e146b864",
+            "class": "Class 0",
+            "confidence": 0.95,
+            "bbox": [
+                2860,
+                3430,
+                2992,
+                3560
+            ]
+        },
+        {
+            "id": "bf4637fe",
+            "class": "Class 0",
+            "confidence": 0.95,
+            "bbox": [
+                3144,
+                2003,
+                3274,
+                2133
+            ]
+        },
+        {
+            "id": "0e1028db",
+            "class": "Class 0",
+            "confidence": 0.95,
+            "bbox": [
+                4571,
+                2003,
+                4695,
+                2134
+            ]
+        },
+        {
+            "id": "83cdef4c",
+            "class": "Class 0",
+            "confidence": 0.95,
+            "bbox": [
+                2573,
+                3443,
+                2707,
+                3577
+            ]
+        },
+        {
+            "id": "e0211b85",
+            "class": "Class 0",
+            "confidence": 0.95,
+            "bbox": [
+                1571,
+                447,
+                1701,
+                575
+            ]
+        },
+        {
+            "id": "c8f9cef0",
+            "class": "Class 0",
+            "confidence": 0.94,
+            "bbox": [
+                2731,
+                1017,
+                2856,
+                1144
+            ]
+        },
+        {
+            "id": "758e8e74",
+            "class": "Class 2",
+            "confidence": 0.94,
+            "bbox": [
+                5667,
+                3349,
+                6811,
+                3400
+            ]
+        },
+        {
+            "id": "252475e1",
+            "class": "Class 0",
+            "confidence": 0.93,
+            "bbox": [
+                580,
+                3727,
+                710,
+                3857
+            ]
+        },
+        {
+            "id": "66615d3a",
+            "class": "Class 0",
+            "confidence": 0.93,
+            "bbox": [
+                729,
+                1015,
+                860,
+                1146
+            ]
+        },
+        {
+            "id": "6abd3335",
+            "class": "Class 0",
+            "confidence": 0.92,
+            "bbox": [
+                3852,
+                3010,
+                3979,
+                3138
+            ]
+        },
+        {
+            "id": "c7b025d6",
+            "class": "Class 0",
+            "confidence": 0.92,
+            "bbox": [
+                3145,
+                2859,
+                3274,
+                2988
+            ]
+        },
+        {
+            "id": "09223940",
+            "class": "Class 0",
+            "confidence": 0.92,
+            "bbox": [
+                3145,
+                2288,
+                3272,
+                2415
+            ]
+        },
+        {
+            "id": "adf44564",
+            "class": "Class 0",
+            "confidence": 0.92,
+            "bbox": [
+                3570,
+                2730,
+                3695,
+                2852
+            ]
+        },
+        {
+            "id": "a0d1a310",
+            "class": "Class 2",
+            "confidence": 0.92,
+            "bbox": [
+                5667,
+                4029,
+                6797,
+                4081
+            ]
+        },
+        {
+            "id": "f1cf40dc",
+            "class": "Class 2",
+            "confidence": 0.92,
+            "bbox": [
+                5656,
+                3257,
+                6810,
+                3307
+            ]
+        },
+        {
+            "id": "d0ef1268",
+            "class": "Class 2",
+            "confidence": 0.91,
+            "bbox": [
+                5654,
+                4121,
+                6811,
+                4172
+            ]
+        },
+        {
+            "id": "0aa9ce43",
+            "class": "Class 0",
+            "confidence": 0.91,
+            "bbox": [
+                2996,
+                1303,
+                3121,
+                1430
+            ]
+        },
+        {
+            "id": "ce1ea3c3",
+            "class": "Class 3",
+            "confidence": 0.91,
+            "bbox": [
+                2700,
+                1287,
+                2859,
+                1332
+            ]
+        },
+        {
+            "id": "6bcc2e3e",
+            "class": "Class 2",
+            "confidence": 0.91,
+            "bbox": [
+                5659,
+                3709,
+                6803,
+                3763
+            ]
+        },
+        {
+            "id": "8400917d",
+            "class": "Class 2",
+            "confidence": 0.91,
+            "bbox": [
+                5651,
+                3439,
+                6809,
+                3491
+            ]
+        },
+        {
+            "id": "d6865d9e",
+            "class": "Class 0",
+            "confidence": 0.91,
+            "bbox": [
+                582,
+                2574,
+                710,
+                2708
+            ]
+        },
+        {
+            "id": "5bbfb11a",
+            "class": "Class 0",
+            "confidence": 0.91,
+            "bbox": [
+                2711,
+                3867,
+                2838,
+                3997
+            ]
+        },
+        {
+            "id": "63141f46",
+            "class": "Class 0",
+            "confidence": 0.91,
+            "bbox": [
+                3869,
+                1304,
+                3998,
+                1432
+            ]
+        },
+        {
+            "id": "ae91b6ea",
+            "class": "Class 0",
+            "confidence": 0.91,
+            "bbox": [
+                3433,
+                2298,
+                3560,
+                2426
+            ]
+        },
+        {
+            "id": "dcfdbc79",
+            "class": "Class 0",
+            "confidence": 0.9,
+            "bbox": [
+                1298,
+                1024,
+                1411,
+                1139
+            ]
+        },
+        {
+            "id": "d49c199c",
+            "class": "Class 2",
+            "confidence": 0.9,
+            "bbox": [
+                5637,
+                221,
+                5689,
+                4347
+            ]
+        },
+        {
+            "id": "81408ef1",
+            "class": "Class 0",
+            "confidence": 0.9,
+            "bbox": [
+                989,
+                2192,
+                1077,
+                2253
+            ]
+        },
+        {
+            "id": "da777768",
+            "class": "Class 0",
+            "confidence": 0.9,
+            "bbox": [
+                2003,
+                2594,
+                2134,
+                2725
+            ]
+        },
+        {
+            "id": "7d22596a",
+            "class": "Class 0",
+            "confidence": 0.9,
+            "bbox": [
+                3726,
+                2876,
+                3837,
+                2993
+            ]
+        },
+        {
+            "id": "0bbdcfb0",
+            "class": "Class 3",
+            "confidence": 0.9,
+            "bbox": [
+                1843,
+                3281,
+                2003,
+                3326
+            ]
+        },
+        {
+            "id": "bf103caa",
+            "class": "Class 3",
+            "confidence": 0.9,
+            "bbox": [
+                1558,
+                1857,
+                1716,
+                1899
+            ]
+        },
+        {
+            "id": "42320da7",
+            "class": "Class 3",
+            "confidence": 0.89,
+            "bbox": [
+                2126,
+                3279,
+                2284,
+                3325
+            ]
+        },
+        {
+            "id": "1cd89353",
+            "class": "Class 0",
+            "confidence": 0.89,
+            "bbox": [
+                4320,
+                1218,
+                4383,
+                1305
+            ]
+        },
+        {
+            "id": "646cb05c",
+            "class": "Class 0",
+            "confidence": 0.89,
+            "bbox": [
+                1850,
+                1304,
+                1974,
+                1428
+            ]
+        },
+        {
+            "id": "8230b7bd",
+            "class": "Class 0",
+            "confidence": 0.89,
+            "bbox": [
+                2894,
+                1478,
+                2957,
+                1569
+            ]
+        },
+        {
+            "id": "d1628e29",
+            "class": "Class 2",
+            "confidence": 0.89,
+            "bbox": [
+                5665,
+                3943,
+                6811,
+                3993
+            ]
+        },
+        {
+            "id": "5b46cc1f",
+            "class": "Class 2",
+            "confidence": 0.89,
+            "bbox": [
+                6640,
+                3873,
+                6692,
+                4060
+            ]
+        },
+        {
+            "id": "bbfe41b1",
+            "class": "Class 0",
+            "confidence": 0.89,
+            "bbox": [
+                3285,
+                3297,
+                3414,
+                3425
+            ]
+        },
+        {
+            "id": "6ed85feb",
+            "class": "Class 3",
+            "confidence": 0.89,
+            "bbox": [
+                991,
+                2140,
+                1147,
+                2185
+            ]
+        },
+        {
+            "id": "d75d649c",
+            "class": "Class 0",
+            "confidence": 0.88,
+            "bbox": [
+                608,
+                916,
+                695,
+                1010
+            ]
+        },
+        {
+            "id": "66c2c302",
+            "class": "Class 0",
+            "confidence": 0.88,
+            "bbox": [
+                2895,
+                2004,
+                2956,
+                2103
+            ]
+        },
+        {
+            "id": "de7cc5f2",
+            "class": "Class 3",
+            "confidence": 0.88,
+            "bbox": [
+                3270,
+                3565,
+                3429,
+                3610
+            ]
+        },
+        {
+            "id": "59d4bbe3",
+            "class": "Class 3",
+            "confidence": 0.88,
+            "bbox": [
+                2419,
+                1858,
+                2577,
+                1901
+            ]
+        },
+        {
+            "id": "067fded0",
+            "class": "Class 2",
+            "confidence": 0.88,
+            "bbox": [
+                5927,
+                3189,
+                5979,
+                3467
+            ]
+        },
+        {
+            "id": "68c4907b",
+            "class": "Class 0",
+            "confidence": 0.88,
+            "bbox": [
+                1152,
+                4019,
+                1277,
+                4142
+            ]
+        },
+        {
+            "id": "b8b7cd56",
+            "class": "Class 0",
+            "confidence": 0.88,
+            "bbox": [
+                2895,
+                1737,
+                2956,
+                1828
+            ]
+        },
+        {
+            "id": "542c489b",
+            "class": "Class 3",
+            "confidence": 0.88,
+            "bbox": [
+                6265,
+                4083,
+                6659,
+                4131
+            ]
+        },
+        {
+            "id": "402840b1",
+            "class": "Class 0",
+            "confidence": 0.88,
+            "bbox": [
+                2144,
+                3903,
+                2242,
+                3964
+            ]
+        },
+        {
+            "id": "f64c820f",
+            "class": "Class 2",
+            "confidence": 0.87,
+            "bbox": [
+                5663,
+                3575,
+                6818,
+                3625
+            ]
+        },
+        {
+            "id": "3635f55f",
+            "class": "Class 3",
+            "confidence": 0.87,
+            "bbox": [
+                4127,
+                3564,
+                4284,
+                3608
+            ]
+        },
+        {
+            "id": "c7be32f0",
+            "class": "Class 0",
+            "confidence": 0.87,
+            "bbox": [
+                2580,
+                4019,
+                2694,
+                4135
+            ]
+        },
+        {
+            "id": "ed97a5f1",
+            "class": "Class 2",
+            "confidence": 0.87,
+            "bbox": [
+                5679,
+                3211,
+                6816,
+                3263
+            ]
+        },
+        {
+            "id": "2d5b702f",
+            "class": "Class 0",
+            "confidence": 0.86,
+            "bbox": [
+                5176,
+                3115,
+                5328,
+                3162
+            ]
+        },
+        {
+            "id": "4023e0d7",
+            "class": "Class 0",
+            "confidence": 0.86,
+            "bbox": [
+                3281,
+                3616,
+                3429,
+                3679
+            ]
+        },
+        {
+            "id": "95a5237d",
+            "class": "Class 0",
+            "confidence": 0.86,
+            "bbox": [
+                4318,
+                2878,
+                4383,
+                2979
+            ]
+        },
+        {
+            "id": "8ba6a50e",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                5759,
+                920,
+                5889,
+                950
+            ]
+        },
+        {
+            "id": "a59022b9",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                5817,
+                3297,
+                5949,
+                3332
+            ]
+        },
+        {
+            "id": "74aeeb73",
+            "class": "Class 0",
+            "confidence": 0.86,
+            "bbox": [
+                1466,
+                2328,
+                1528,
+                2426
+            ]
+        },
+        {
+            "id": "cabcc987",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                2986,
+                3386,
+                3141,
+                3431
+            ]
+        },
+        {
+            "id": "0e237610",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                5871,
+                3753,
+                6614,
+                3795
+            ]
+        },
+        {
+            "id": "afb1d332",
+            "class": "Class 2",
+            "confidence": 0.86,
+            "bbox": [
+                6205,
+                3196,
+                6255,
+                3463
+            ]
+        },
+        {
+            "id": "1245f155",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                4705,
+                1858,
+                4852,
+                1903
+            ]
+        },
+        {
+            "id": "d8e3e769",
+            "class": "Class 0",
+            "confidence": 0.86,
+            "bbox": [
+                2594,
+                2829,
+                2692,
+                2928
+            ]
+        },
+        {
+            "id": "ac5623bf",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                3264,
+                1962,
+                3431,
+                2006
+            ]
+        },
+        {
+            "id": "dbcfd609",
+            "class": "Class 1",
+            "confidence": 0.86,
+            "bbox": [
+                2610,
+                3364,
+                2667,
+                3647
+            ]
+        },
+        {
+            "id": "254bd799",
+            "class": "Class 3",
+            "confidence": 0.86,
+            "bbox": [
+                4981,
+                1571,
+                5138,
+                1616
+            ]
+        },
+        {
+            "id": "f3a1aae7",
+            "class": "Class 0",
+            "confidence": 0.85,
+            "bbox": [
+                899,
+                3206,
+                980,
+                3310
+            ]
+        },
+        {
+            "id": "3d292f1b",
+            "class": "Class 0",
+            "confidence": 0.85,
+            "bbox": [
+                3274,
+                1051,
+                3376,
+                1113
+            ]
+        },
+        {
+            "id": "bae1faca",
+            "class": "Class 3",
+            "confidence": 0.85,
+            "bbox": [
+                6143,
+                3999,
+                6341,
+                4037
+            ]
+        },
+        {
+            "id": "833f1433",
+            "class": "Class 0",
+            "confidence": 0.85,
+            "bbox": [
+                2037,
+                913,
+                2101,
+                978
+            ]
+        },
+        {
+            "id": "feae8517",
+            "class": "Class 2",
+            "confidence": 0.85,
+            "bbox": [
+                6350,
+                3876,
+                6401,
+                4058
+            ]
+        },
+        {
+            "id": "5f50a37d",
+            "class": "Class 3",
+            "confidence": 0.85,
+            "bbox": [
+                5723,
+                4084,
+                6046,
+                4125
+            ]
+        },
+        {
+            "id": "7156fb11",
+            "class": "Class 3",
+            "confidence": 0.85,
+            "bbox": [
+                2988,
+                1107,
+                3145,
+                1154
+            ]
+        },
+        {
+            "id": "02953667",
+            "class": "Class 3",
+            "confidence": 0.85,
+            "bbox": [
+                990,
+                3563,
+                1146,
+                3608
+            ]
+        },
+        {
+            "id": "0803eb14",
+            "class": "Class 0",
+            "confidence": 0.85,
+            "bbox": [
+                1018,
+                4183,
+                1109,
+                4246
+            ]
+        },
+        {
+            "id": "b03fe3b4",
+            "class": "Class 0",
+            "confidence": 0.84,
+            "bbox": [
+                4479,
+                2760,
+                4556,
+                2823
+            ]
+        },
+        {
+            "id": "b7ee2c84",
+            "class": "Class 0",
+            "confidence": 0.84,
+            "bbox": [
+                1461,
+                2889,
+                1527,
+                2986
+            ]
+        },
+        {
+            "id": "7dbd6b5c",
+            "class": "Class 0",
+            "confidence": 0.84,
+            "bbox": [
+                1331,
+                474,
+                1442,
+                541
+            ]
+        },
+        {
+            "id": "6d697c90",
+            "class": "Class 0",
+            "confidence": 0.84,
+            "bbox": [
+                2006,
+                4006,
+                2131,
+                4137
+            ]
+        },
+        {
+            "id": "29ad53a0",
+            "class": "Class 3",
+            "confidence": 0.84,
+            "bbox": [
+                5761,
+                1470,
+                5924,
+                1500
+            ]
+        },
+        {
+            "id": "b6be8819",
+            "class": "Class 0",
+            "confidence": 0.84,
+            "bbox": [
+                4320,
+                863,
+                4385,
+                950
+            ]
+        },
+        {
+            "id": "2e6aae20",
+            "class": "Class 3",
+            "confidence": 0.84,
+            "bbox": [
+                3841,
+                3383,
+                4001,
+                3428
+            ]
+        },
+        {
+            "id": "a68d1377",
+            "class": "Class 3",
+            "confidence": 0.84,
+            "bbox": [
+                5683,
+                3999,
+                6078,
+                4036
+            ]
+        },
+        {
+            "id": "77519127",
+            "class": "Class 0",
+            "confidence": 0.84,
+            "bbox": [
+                1178,
+                1721,
+                1255,
+                1866
+            ]
+        },
+        {
+            "id": "2bfa88b6",
+            "class": "Class 3",
+            "confidence": 0.83,
+            "bbox": [
+                6157,
+                241,
+                6311,
+                277
+            ]
+        },
+        {
+            "id": "1e06411d",
+            "class": "Class 3",
+            "confidence": 0.83,
+            "bbox": [
+                1505,
+                2177,
+                1698,
+                2212
+            ]
+        },
+        {
+            "id": "1c77ff32",
+            "class": "Class 0",
+            "confidence": 0.83,
+            "bbox": [
+                898,
+                1728,
+                969,
+                1876
+            ]
+        },
+        {
+            "id": "add0cdee",
+            "class": "Class 0",
+            "confidence": 0.83,
+            "bbox": [
+                899,
+                2851,
+                963,
+                2920
+            ]
+        },
+        {
+            "id": "0a4c7172",
+            "class": "Class 3",
+            "confidence": 0.83,
+            "bbox": [
+                5815,
+                3385,
+                5946,
+                3418
+            ]
+        },
+        {
+            "id": "e3d3360b",
+            "class": "Class 0",
+            "confidence": 0.83,
+            "bbox": [
+                2774,
+                1337,
+                2870,
+                1397
+            ]
+        },
+        {
+            "id": "be1a6ec9",
+            "class": "Class 3",
+            "confidence": 0.83,
+            "bbox": [
+                5687,
+                3921,
+                6084,
+                3956
+            ]
+        },
+        {
+            "id": "bc3707fe",
+            "class": "Class 0",
+            "confidence": 0.83,
+            "bbox": [
+                3871,
+                1050,
+                3960,
+                1116
+            ]
+        },
+        {
+            "id": "bd9909f3",
+            "class": "Class 0",
+            "confidence": 0.83,
+            "bbox": [
+                3037,
+                1026,
+                3148,
+                1115
+            ]
+        },
+        {
+            "id": "20576c18",
+            "class": "Class 0",
+            "confidence": 0.83,
+            "bbox": [
+                3750,
+                1211,
+                3814,
+                1313
+            ]
+        },
+        {
+            "id": "aede9d5c",
+            "class": "Class 3",
+            "confidence": 0.83,
+            "bbox": [
+                5857,
+                4186,
+                6040,
+                4225
+            ]
+        },
+        {
+            "id": "da757e9b",
+            "class": "Class 3",
+            "confidence": 0.82,
+            "bbox": [
+                6400,
+                4186,
+                6757,
+                4231
+            ]
+        },
+        {
+            "id": "197ac2ff",
+            "class": "Class 0",
+            "confidence": 0.82,
+            "bbox": [
+                4036,
+                2578,
+                4096,
+                2677
+            ]
+        },
+        {
+            "id": "f9f43916",
+            "class": "Class 2",
+            "confidence": 0.82,
+            "bbox": [
+                5670,
+                3397,
+                6816,
+                3448
+            ]
+        },
+        {
+            "id": "610a54c5",
+            "class": "Class 0",
+            "confidence": 0.82,
+            "bbox": [
+                2895,
+                2295,
+                2976,
+                2402
+            ]
+        },
+        {
+            "id": "62dcf5e6",
+            "class": "Class 2",
+            "confidence": 0.82,
+            "bbox": [
+                6346,
+                3195,
+                6399,
+                3586
+            ]
+        },
+        {
+            "id": "76ed4481",
+            "class": "Class 0",
+            "confidence": 0.82,
+            "bbox": [
+                899,
+                3482,
+                971,
+                3584
+            ]
+        },
+        {
+            "id": "f208133d",
+            "class": "Class 0",
+            "confidence": 0.82,
+            "bbox": [
+                4193,
+                2746,
+                4280,
+                2839
+            ]
+        },
+        {
+            "id": "f9ff851f",
+            "class": "Class 3",
+            "confidence": 0.81,
+            "bbox": [
+                5834,
+                4267,
+                5946,
+                4306
+            ]
+        },
+        {
+            "id": "c59bdd60",
+            "class": "Class 3",
+            "confidence": 0.81,
+            "bbox": [
+                6418,
+                4266,
+                6631,
+                4304
+            ]
+        },
+        {
+            "id": "ab316caa",
+            "class": "Class 0",
+            "confidence": 0.81,
+            "bbox": [
+                609,
+                2902,
+                681,
+                2984
+            ]
+        },
+        {
+            "id": "b7a7c9c2",
+            "class": "Class 0",
+            "confidence": 0.81,
+            "bbox": [
+                3054,
+                3903,
+                3158,
+                3997
+            ]
+        },
+        {
+            "id": "e7be52ea",
+            "class": "Class 3",
+            "confidence": 0.81,
+            "bbox": [
+                1268,
+                1966,
+                1430,
+                2010
+            ]
+        },
+        {
+            "id": "1fb44370",
+            "class": "Class 3",
+            "confidence": 0.81,
+            "bbox": [
+                6426,
+                3246,
+                6721,
+                3274
+            ]
+        },
+        {
+            "id": "0b539d2e",
+            "class": "Class 3",
+            "confidence": 0.81,
+            "bbox": [
+                6103,
+                4186,
+                6345,
+                4217
+            ]
+        },
+        {
+            "id": "71f3d27d",
+            "class": "Class 0",
+            "confidence": 0.81,
+            "bbox": [
+                2436,
+                1340,
+                2551,
+                1469
+            ]
+        },
+        {
+            "id": "6af0c126",
+            "class": "Class 3",
+            "confidence": 0.81,
+            "bbox": [
+                3269,
+                3956,
+                3428,
+                4003
+            ]
+        },
+        {
+            "id": "66f8eab7",
+            "class": "Class 3",
+            "confidence": 0.8,
+            "bbox": [
+                4647,
+                1319,
+                4848,
+                1355
+            ]
+        },
+        {
+            "id": "a61e67c3",
+            "class": "Class 0",
+            "confidence": 0.8,
+            "bbox": [
+                2716,
+                3609,
+                2764,
+                3684
+            ]
+        },
+        {
+            "id": "40e0bab2",
+            "class": "Class 0",
+            "confidence": 0.8,
+            "bbox": [
+                1321,
+                4176,
+                1406,
+                4246
+            ]
+        },
+        {
+            "id": "4ac8ab0e",
+            "class": "Class 3",
+            "confidence": 0.8,
+            "bbox": [
+                6435,
+                3422,
+                6709,
+                3453
+            ]
+        },
+        {
+            "id": "9ba08dbf",
+            "class": "Class 0",
+            "confidence": 0.8,
+            "bbox": [
+                3171,
+                3140,
+                3250,
+                3286
+            ]
+        },
+        {
+            "id": "0a4f7a63",
+            "class": "Class 3",
+            "confidence": 0.79,
+            "bbox": [
+                6136,
+                3922,
+                6337,
+                3963
+            ]
+        },
+        {
+            "id": "e5ca338d",
+            "class": "Class 3",
+            "confidence": 0.79,
+            "bbox": [
+                5764,
+                1295,
+                6345,
+                1327
+            ]
+        },
+        {
+            "id": "8a427253",
+            "class": "Class 3",
+            "confidence": 0.79,
+            "bbox": [
+                6409,
+                3921,
+                6636,
+                3952
+            ]
+        },
+        {
+            "id": "eeb8766b",
+            "class": "Class 3",
+            "confidence": 0.78,
+            "bbox": [
+                2744,
+                3566,
+                2861,
+                3607
+            ]
+        },
+        {
+            "id": "2f2b83f2",
+            "class": "Class 2",
+            "confidence": 0.78,
+            "bbox": [
+                6639,
+                4237,
+                6688,
+                4325
+            ]
+        },
+        {
+            "id": "a4b16d1b",
+            "class": "Class 3",
+            "confidence": 0.78,
+            "bbox": [
+                5733,
+                3805,
+                6728,
+                3846
+            ]
+        },
+        {
+            "id": "fa0a2c38",
+            "class": "Class 3",
+            "confidence": 0.78,
+            "bbox": [
+                6706,
+                3920,
+                6784,
+                3960
+            ]
+        },
+        {
+            "id": "2e087381",
+            "class": "Class 0",
+            "confidence": 0.78,
+            "bbox": [
+                4017,
+                2919,
+                4120,
+                2974
+            ]
+        },
+        {
+            "id": "d8f4ebe2",
+            "class": "Class 0",
+            "confidence": 0.77,
+            "bbox": [
+                4318,
+                3252,
+                4383,
+                3322
+            ]
+        },
+        {
+            "id": "a8ff1e41",
+            "class": "Class 3",
+            "confidence": 0.77,
+            "bbox": [
+                5759,
+                1245,
+                5942,
+                1274
+            ]
+        },
+        {
+            "id": "e34593d0",
+            "class": "Class 3",
+            "confidence": 0.77,
+            "bbox": [
+                5764,
+                486,
+                6751,
+                518
+            ]
+        },
+        {
+            "id": "dea7b9a9",
+            "class": "Class 3",
+            "confidence": 0.77,
+            "bbox": [
+                5755,
+                566,
+                6781,
+                599
+            ]
+        },
+        {
+            "id": "2cabfc62",
+            "class": "Class 3",
+            "confidence": 0.77,
+            "bbox": [
+                2414,
+                1286,
+                2571,
+                1332
+            ]
+        },
+        {
+            "id": "62f6697f",
+            "class": "Class 3",
+            "confidence": 0.76,
+            "bbox": [
+                5761,
+                618,
+                5897,
+                648
+            ]
+        },
+        {
+            "id": "d26f1ea5",
+            "class": "Class 3",
+            "confidence": 0.76,
+            "bbox": [
+                5758,
+                1152,
+                6169,
+                1184
+            ]
+        },
+        {
+            "id": "0e6bbd56",
+            "class": "Class 0",
+            "confidence": 0.76,
+            "bbox": [
+                2029,
+                1412,
+                2150,
+                1457
+            ]
+        },
+        {
+            "id": "9d166cad",
+            "class": "Class 3",
+            "confidence": 0.76,
+            "bbox": [
+                4926,
+                2741,
+                5142,
+                2778
+            ]
+        },
+        {
+            "id": "c7e8cbac",
+            "class": "Class 0",
+            "confidence": 0.76,
+            "bbox": [
+                1074,
+                3617,
+                1178,
+                3680
+            ]
+        },
+        {
+            "id": "a8c722de",
+            "class": "Class 3",
+            "confidence": 0.76,
+            "bbox": [
+                5759,
+                969,
+                6365,
+                1001
+            ]
+        },
+        {
+            "id": "8f0e47c2",
+            "class": "Class 0",
+            "confidence": 0.76,
+            "bbox": [
+                2314,
+                3829,
+                2399,
+                3879
+            ]
+        },
+        {
+            "id": "30d5795e",
+            "class": "Class 2",
+            "confidence": 0.76,
+            "bbox": [
+                5670,
+                3300,
+                6821,
+                3350
+            ]
+        },
+        {
+            "id": "f0d05f28",
+            "class": "Class 0",
+            "confidence": 0.76,
+            "bbox": [
+                3604,
+                3599,
+                3651,
+                3702
+            ]
+        },
+        {
+            "id": "acf50d2a",
+            "class": "Class 0",
+            "confidence": 0.75,
+            "bbox": [
+                4262,
+                3472,
+                4391,
+                3521
+            ]
+        },
+        {
+            "id": "f35c270d",
+            "class": "Class 3",
+            "confidence": 0.75,
+            "bbox": [
+                1276,
+                538,
+                1436,
+                585
+            ]
+        },
+        {
+            "id": "f160e8b2",
+            "class": "Class 0",
+            "confidence": 0.75,
+            "bbox": [
+                2985,
+                3274,
+                3083,
+                3395
+            ]
+        },
+        {
+            "id": "27711db6",
+            "class": "Class 0",
+            "confidence": 0.75,
+            "bbox": [
+                3465,
+                1424,
+                3527,
+                1514
+            ]
+        },
+        {
+            "id": "af726f15",
+            "class": "Class 2",
+            "confidence": 0.75,
+            "bbox": [
+                5787,
+                3176,
+                5834,
+                3452
+            ]
+        },
+        {
+            "id": "7fd0f9ab",
+            "class": "Class 0",
+            "confidence": 0.74,
+            "bbox": [
+                1008,
+                1042,
+                1069,
+                1126
+            ]
+        },
+        {
+            "id": "7ec56f5d",
+            "class": "Class 3",
+            "confidence": 0.74,
+            "bbox": [
+                5759,
+                343,
+                6785,
+                376
+            ]
+        },
+        {
+            "id": "c0621ad7",
+            "class": "Class 1",
+            "confidence": 0.74,
+            "bbox": [
+                930,
+                3902,
+                1215,
+                3959
+            ]
+        },
+        {
+            "id": "5ad9b09c",
+            "class": "Class 3",
+            "confidence": 0.74,
+            "bbox": [
+                6701,
+                3999,
+                6789,
+                4035
+            ]
+        },
+        {
+            "id": "80002e19",
+            "class": "Class 0",
+            "confidence": 0.73,
+            "bbox": [
+                4180,
+                3614,
+                4279,
+                3675
+            ]
+        },
+        {
+            "id": "c632c8aa",
+            "class": "Class 0",
+            "confidence": 0.73,
+            "bbox": [
+                2316,
+                4018,
+                2386,
+                4123
+            ]
+        },
+        {
+            "id": "fe495ee1",
+            "class": "Class 3",
+            "confidence": 0.73,
+            "bbox": [
+                6407,
+                3395,
+                6758,
+                3423
+            ]
+        },
+        {
+            "id": "45acd60d",
+            "class": "Class 3",
+            "confidence": 0.73,
+            "bbox": [
+                5758,
+                1068,
+                6284,
+                1099
+            ]
+        },
+        {
+            "id": "eea87c09",
+            "class": "Class 3",
+            "confidence": 0.72,
+            "bbox": [
+                5756,
+                756,
+                6132,
+                786
+            ]
+        },
+        {
+            "id": "624a7a2c",
+            "class": "Class 3",
+            "confidence": 0.72,
+            "bbox": [
+                5977,
+                3424,
+                6057,
+                3453
+            ]
+        },
+        {
+            "id": "51f1c085",
+            "class": "Class 1",
+            "confidence": 0.72,
+            "bbox": [
+                902,
+                1369,
+                959,
+                1653
+            ]
+        },
+        {
+            "id": "c1286f7a",
+            "class": "Class 2",
+            "confidence": 0.72,
+            "bbox": [
+                5776,
+                4137,
+                5830,
+                4337
+            ]
+        },
+        {
+            "id": "2b6efe67",
+            "class": "Class 3",
+            "confidence": 0.72,
+            "bbox": [
+                5766,
+                375,
+                6646,
+                407
+            ]
+        },
+        {
+            "id": "b3c748cf",
+            "class": "Class 0",
+            "confidence": 0.71,
+            "bbox": [
+                3262,
+                3898,
+                3353,
+                3965
+            ]
+        },
+        {
+            "id": "6dddbbf7",
+            "class": "Class 1",
+            "confidence": 0.71,
+            "bbox": [
+                3780,
+                3905,
+                4065,
+                3961
+            ]
+        },
+        {
+            "id": "43d71a0a",
+            "class": "Class 3",
+            "confidence": 0.71,
+            "bbox": [
+                6107,
+                3194,
+                6223,
+                3227
+            ]
+        },
+        {
+            "id": "e0d4702d",
+            "class": "Class 3",
+            "confidence": 0.71,
+            "bbox": [
+                4127,
+                2709,
+                4256,
+                2753
+            ]
+        },
+        {
+            "id": "ec3f9b2f",
+            "class": "Class 3",
+            "confidence": 0.7,
+            "bbox": [
+                6451,
+                3196,
+                6691,
+                3230
+            ]
+        },
+        {
+            "id": "553bb613",
+            "class": "Class 1",
+            "confidence": 0.69,
+            "bbox": [
+                931,
+                2193,
+                1213,
+                2249
+            ]
+        },
+        {
+            "id": "20e6f435",
+            "class": "Class 3",
+            "confidence": 0.69,
+            "bbox": [
+                5759,
+                433,
+                5881,
+                462
+            ]
+        },
+        {
+            "id": "df8e70c3",
+            "class": "Class 1",
+            "confidence": 0.69,
+            "bbox": [
+                4915,
+                2764,
+                5205,
+                2820
+            ]
+        },
+        {
+            "id": "71349d10",
+            "class": "Class 0",
+            "confidence": 0.68,
+            "bbox": [
+                1467,
+                3489,
+                1531,
+                3582
+            ]
+        },
+        {
+            "id": "1a0b64c5",
+            "class": "Class 1",
+            "confidence": 0.68,
+            "bbox": [
+                1186,
+                1653,
+                1242,
+                1938
+            ]
+        },
+        {
+            "id": "cfbe1005",
+            "class": "Class 1",
+            "confidence": 0.68,
+            "bbox": [
+                903,
+                2221,
+                958,
+                2504
+            ]
+        },
+        {
+            "id": "bf6579f5",
+            "class": "Class 1",
+            "confidence": 0.67,
+            "bbox": [
+                1497,
+                2194,
+                1781,
+                2249
+            ]
+        },
+        {
+            "id": "5f01cddb",
+            "class": "Class 1",
+            "confidence": 0.67,
+            "bbox": [
+                1186,
+                510,
+                1244,
+                797
+            ]
+        },
+        {
+            "id": "abe2bf34",
+            "class": "Class 0",
+            "confidence": 0.67,
+            "bbox": [
+                3396,
+                2042,
+                3529,
+                2162
+            ]
+        },
+        {
+            "id": "0189fe72",
+            "class": "Class 1",
+            "confidence": 0.67,
+            "bbox": [
+                3206,
+                3905,
+                3491,
+                3962
+            ]
+        },
+        {
+            "id": "4b321c2c",
+            "class": "Class 1",
+            "confidence": 0.66,
+            "bbox": [
+                1185,
+                3930,
+                1241,
+                4215
+            ]
+        },
+        {
+            "id": "fbed883f",
+            "class": "Class 1",
+            "confidence": 0.66,
+            "bbox": [
+                2922,
+                1053,
+                3208,
+                1112
+            ]
+        },
+        {
+            "id": "380aea70",
+            "class": "Class 0",
+            "confidence": 0.65,
+            "bbox": [
+                2515,
+                3326,
+                2559,
+                3440
+            ]
+        },
+        {
+            "id": "090ff03b",
+            "class": "Class 1",
+            "confidence": 0.65,
+            "bbox": [
+                648,
+                3616,
+                931,
+                3673
+            ]
+        },
+        {
+            "id": "0c632677",
+            "class": "Class 1",
+            "confidence": 0.65,
+            "bbox": [
+                932,
+                1053,
+                1214,
+                1111
+            ]
+        },
+        {
+            "id": "5780453f",
+            "class": "Class 1",
+            "confidence": 0.65,
+            "bbox": [
+                4635,
+                1338,
+                4918,
+                1397
+            ]
+        },
+        {
+            "id": "90393e82",
+            "class": "Class 1",
+            "confidence": 0.64,
+            "bbox": [
+                1214,
+                1911,
+                1498,
+                1967
+            ]
+        },
+        {
+            "id": "abc1be24",
+            "class": "Class 3",
+            "confidence": 0.64,
+            "bbox": [
+                6419,
+                3294,
+                6723,
+                3327
+            ]
+        },
+        {
+            "id": "0a9908e4",
+            "class": "Class 3",
+            "confidence": 0.64,
+            "bbox": [
+                5759,
+                1609,
+                6751,
+                1640
+            ]
+        },
+        {
+            "id": "7367b933",
+            "class": "Class 0",
+            "confidence": 0.63,
+            "bbox": [
+                4684,
+                1050,
+                4712,
+                1114
+            ]
+        },
+        {
+            "id": "a7694a1c",
+            "class": "Class 0",
+            "confidence": 0.63,
+            "bbox": [
+                2027,
+                2848,
+                2110,
+                2931
+            ]
+        },
+        {
+            "id": "e7ae6672",
+            "class": "Class 0",
+            "confidence": 0.63,
+            "bbox": [
+                1035,
+                3887,
+                1139,
+                3962
+            ]
+        },
+        {
+            "id": "95b238ce",
+            "class": "Class 0",
+            "confidence": 0.62,
+            "bbox": [
+                2965,
+                3041,
+                3028,
+                3114
+            ]
+        },
+        {
+            "id": "ca4abeae",
+            "class": "Class 1",
+            "confidence": 0.62,
+            "bbox": [
+                931,
+                3616,
+                1214,
+                3674
+            ]
+        },
+        {
+            "id": "7c3e8a9e",
+            "class": "Class 0",
+            "confidence": 0.62,
+            "bbox": [
+                1627,
+                1050,
+                1664,
+                1115
+            ]
+        },
+        {
+            "id": "01a14e95",
+            "class": "Class 1",
+            "confidence": 0.62,
+            "bbox": [
+                2066,
+                4187,
+                2358,
+                4244
+            ]
+        },
+        {
+            "id": "74139b2c",
+            "class": "Class 0",
+            "confidence": 0.62,
+            "bbox": [
+                3464,
+                1734,
+                3527,
+                1848
+            ]
+        },
+        {
+            "id": "b6c2ce88",
+            "class": "Class 3",
+            "confidence": 0.61,
+            "bbox": [
+                5759,
+                1206,
+                6801,
+                1238
+            ]
+        },
+        {
+            "id": "b5107586",
+            "class": "Class 3",
+            "confidence": 0.61,
+            "bbox": [
+                6087,
+                4268,
+                6355,
+                4303
+            ]
+        },
+        {
+            "id": "5824686d",
+            "class": "Class 1",
+            "confidence": 0.61,
+            "bbox": [
+                1215,
+                481,
+                1500,
+                540
+            ]
+        },
+        {
+            "id": "d181c61a",
+            "class": "Class 0",
+            "confidence": 0.61,
+            "bbox": [
+                1643,
+                1337,
+                1680,
+                1399
+            ]
+        },
+        {
+            "id": "788ee8b7",
+            "class": "Class 1",
+            "confidence": 0.6,
+            "bbox": [
+                617,
+                3360,
+                674,
+                3645
+            ]
+        },
+        {
+            "id": "91f4592e",
+            "class": "Class 1",
+            "confidence": 0.6,
+            "bbox": [
+                1186,
+                1079,
+                1243,
+                1369
+            ]
+        },
+        {
+            "id": "294c2b23",
+            "class": "Class 0",
+            "confidence": 0.6,
+            "bbox": [
+                3176,
+                3456,
+                3237,
+                3563
+            ]
+        },
+        {
+            "id": "c84db579",
+            "class": "Class 3",
+            "confidence": 0.6,
+            "bbox": [
+                5971,
+                3195,
+                6064,
+                3228
+            ]
+        },
+        {
+            "id": "143df7e6",
+            "class": "Class 3",
+            "confidence": 0.6,
+            "bbox": [
+                5766,
+                1559,
+                5938,
+                1589
+            ]
+        },
+        {
+            "id": "0a837526",
+            "class": "Class 0",
+            "confidence": 0.6,
+            "bbox": [
+                1573,
+                1904,
+                1716,
+                1975
+            ]
+        },
+        {
+            "id": "6b922d5f",
+            "class": "Class 3",
+            "confidence": 0.6,
+            "bbox": [
+                6270,
+                3385,
+                6341,
+                3418
+            ]
+        },
+        {
+            "id": "9e2e9dd2",
+            "class": "Class 1",
+            "confidence": 0.6,
+            "bbox": [
+                615,
+                795,
+                673,
+                1079
+            ]
+        },
+        {
+            "id": "c7b55fcd",
+            "class": "Class 1",
+            "confidence": 0.6,
+            "bbox": [
+                2071,
+                1339,
+                2355,
+                1397
+            ]
+        },
+        {
+            "id": "5b4fc1f5",
+            "class": "Class 1",
+            "confidence": 0.59,
+            "bbox": [
+                4891,
+                1651,
+                4947,
+                1937
+            ]
+        },
+        {
+            "id": "a890c86c",
+            "class": "Class 1",
+            "confidence": 0.59,
+            "bbox": [
+                2038,
+                3077,
+                2096,
+                3361
+            ]
+        },
+        {
+            "id": "a9d8a261",
+            "class": "Class 1",
+            "confidence": 0.59,
+            "bbox": [
+                4322,
+                3645,
+                4378,
+                3933
+            ]
+        },
+        {
+            "id": "5f37c0fd",
+            "class": "Class 1",
+            "confidence": 0.59,
+            "bbox": [
+                1470,
+                3929,
+                1528,
+                4215
+            ]
+        },
+        {
+            "id": "2b50173c",
+            "class": "Class 1",
+            "confidence": 0.59,
+            "bbox": [
+                1217,
+                3334,
+                1502,
+                3391
+            ]
+        },
+        {
+            "id": "2b38632d",
+            "class": "Class 1",
+            "confidence": 0.58,
+            "bbox": [
+                2898,
+                1937,
+                2953,
+                2223
+            ]
+        },
+        {
+            "id": "c3cb3da3",
+            "class": "Class 1",
+            "confidence": 0.58,
+            "bbox": [
+                1214,
+                3904,
+                1498,
+                3961
+            ]
+        },
+        {
+            "id": "259c712e",
+            "class": "Class 1",
+            "confidence": 0.58,
+            "bbox": [
+                1186,
+                3646,
+                1242,
+                3930
+            ]
+        },
+        {
+            "id": "3b7f6b3d",
+            "class": "Class 1",
+            "confidence": 0.58,
+            "bbox": [
+                1496,
+                1053,
+                1783,
+                1111
+            ]
+        },
+        {
+            "id": "ca6085b5",
+            "class": "Class 1",
+            "confidence": 0.58,
+            "bbox": [
+                901,
+                3930,
+                958,
+                4214
+            ]
+        },
+        {
+            "id": "8e4f2803",
+            "class": "Class 3",
+            "confidence": 0.58,
+            "bbox": [
+                6118,
+                3380,
+                6199,
+                3408
+            ]
+        },
+        {
+            "id": "2ca9363d",
+            "class": "Class 1",
+            "confidence": 0.58,
+            "bbox": [
+                2897,
+                2792,
+                2953,
+                3074
+            ]
+        },
+        {
+            "id": "f1cf22b7",
+            "class": "Class 1",
+            "confidence": 0.57,
+            "bbox": [
+                1185,
+                3360,
+                1242,
+                3644
+            ]
+        },
+        {
+            "id": "3c5ec2b5",
+            "class": "Class 1",
+            "confidence": 0.57,
+            "bbox": [
+                2039,
+                1653,
+                2095,
+                1937
+            ]
+        },
+        {
+            "id": "30052005",
+            "class": "Class 1",
+            "confidence": 0.57,
+            "bbox": [
+                2637,
+                1053,
+                2922,
+                1112
+            ]
+        },
+        {
+            "id": "6312222f",
+            "class": "Class 2",
+            "confidence": 0.57,
+            "bbox": [
+                6726,
+                4239,
+                6779,
+                4330
+            ]
+        },
+        {
+            "id": "8174b54a",
+            "class": "Class 1",
+            "confidence": 0.57,
+            "bbox": [
+                2897,
+                1653,
+                2954,
+                1940
+            ]
+        },
+        {
+            "id": "748fcb4c",
+            "class": "Class 1",
+            "confidence": 0.57,
+            "bbox": [
+                1498,
+                3904,
+                1784,
+                3961
+            ]
+        },
+        {
+            "id": "6f491aa7",
+            "class": "Class 3",
+            "confidence": 0.57,
+            "bbox": [
+                5985,
+                3242,
+                6056,
+                3273
+            ]
+        },
+        {
+            "id": "cb540e61",
+            "class": "Class 1",
+            "confidence": 0.56,
+            "bbox": [
+                1186,
+                1369,
+                1242,
+                1652
+            ]
+        },
+        {
+            "id": "dc21d099",
+            "class": "Class 1",
+            "confidence": 0.56,
+            "bbox": [
+                2354,
+                1052,
+                2639,
+                1111
+            ]
+        },
+        {
+            "id": "9bdca47e",
+            "class": "Class 1",
+            "confidence": 0.56,
+            "bbox": [
+                902,
+                1652,
+                958,
+                1937
+            ]
+        },
+        {
+            "id": "a2be1421",
+            "class": "Class 3",
+            "confidence": 0.56,
+            "bbox": [
+                5824,
+                3193,
+                5927,
+                3227
+            ]
+        },
+        {
+            "id": "62664d72",
+            "class": "Class 1",
+            "confidence": 0.56,
+            "bbox": [
+                928,
+                480,
+                1216,
+                539
+            ]
+        },
+        {
+            "id": "ee7f7ba4",
+            "class": "Class 3",
+            "confidence": 0.56,
+            "bbox": [
+                6127,
+                3242,
+                6209,
+                3274
+            ]
+        },
+        {
+            "id": "1f695ce2",
+            "class": "Class 1",
+            "confidence": 0.56,
+            "bbox": [
+                4039,
+                1939,
+                4094,
+                2221
+            ]
+        },
+        {
+            "id": "4e414998",
+            "class": "Class 1",
+            "confidence": 0.55,
+            "bbox": [
+                614,
+                507,
+                673,
+                795
+            ]
+        },
+        {
+            "id": "9b35e012",
+            "class": "Class 1",
+            "confidence": 0.55,
+            "bbox": [
+                2610,
+                2785,
+                2667,
+                3077
+            ]
+        },
+        {
+            "id": "4f7a085c",
+            "class": "Class 1",
+            "confidence": 0.55,
+            "bbox": [
+                4349,
+                1054,
+                4639,
+                1110
+            ]
+        },
+        {
+            "id": "9f244ae3",
+            "class": "Class 1",
+            "confidence": 0.54,
+            "bbox": [
+                2039,
+                1368,
+                2097,
+                1652
+            ]
+        },
+        {
+            "id": "e110799b",
+            "class": "Class 1",
+            "confidence": 0.54,
+            "bbox": [
+                1469,
+                3077,
+                1524,
+                3361
+            ]
+        },
+        {
+            "id": "8047b77d",
+            "class": "Class 3",
+            "confidence": 0.54,
+            "bbox": [
+                5761,
+                866,
+                6709,
+                898
+            ]
+        },
+        {
+            "id": "a2f044a0",
+            "class": "Class 0",
+            "confidence": 0.54,
+            "bbox": [
+                5091,
+                3612,
+                5123,
+                3676
+            ]
+        },
+        {
+            "id": "1aa365e4",
+            "class": "Class 1",
+            "confidence": 0.54,
+            "bbox": [
+                1498,
+                1910,
+                1782,
+                1966
+            ]
+        },
+        {
+            "id": "34a934c7",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                2899,
+                2223,
+                2954,
+                2508
+            ]
+        },
+        {
+            "id": "58e534a4",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                1185,
+                797,
+                1243,
+                1081
+            ]
+        },
+        {
+            "id": "64d5076d",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                1785,
+                3334,
+                2068,
+                3391
+            ]
+        },
+        {
+            "id": "5606691a",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                902,
+                2789,
+                958,
+                3078
+            ]
+        },
+        {
+            "id": "c84c039d",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                2038,
+                3931,
+                2095,
+                4216
+            ]
+        },
+        {
+            "id": "672aa98c",
+            "class": "Class 0",
+            "confidence": 0.53,
+            "bbox": [
+                1254,
+                1878,
+                1364,
+                1974
+            ]
+        },
+        {
+            "id": "6e2314c1",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                4323,
+                1081,
+                4379,
+                1367
+            ]
+        },
+        {
+            "id": "dbfcb275",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                2069,
+                1052,
+                2355,
+                1111
+            ]
+        },
+        {
+            "id": "8f065ff8",
+            "class": "Class 1",
+            "confidence": 0.53,
+            "bbox": [
+                4064,
+                1340,
+                4350,
+                1397
+            ]
+        },
+        {
+            "id": "14b20af3",
+            "class": "Class 1",
+            "confidence": 0.52,
+            "bbox": [
+                3466,
+                2506,
+                3522,
+                2791
+            ]
+        },
+        {
+            "id": "14c9c099",
+            "class": "Class 1",
+            "confidence": 0.52,
+            "bbox": [
+                1211,
+                1053,
+                1499,
+                1111
+            ]
+        },
+        {
+            "id": "dcfebabb",
+            "class": "Class 3",
+            "confidence": 0.52,
+            "bbox": [
+                5764,
+                1521,
+                6768,
+                1552
+            ]
+        },
+        {
+            "id": "429b5e5b",
+            "class": "Class 1",
+            "confidence": 0.52,
+            "bbox": [
+                1783,
+                1052,
+                2068,
+                1112
+            ]
+        },
+        {
+            "id": "17d341f3",
+            "class": "Class 1",
+            "confidence": 0.52,
+            "bbox": [
+                3466,
+                2223,
+                3523,
+                2506
+            ]
+        },
+        {
+            "id": "3cacec07",
+            "class": "Class 1",
+            "confidence": 0.52,
+            "bbox": [
+                3496,
+                3047,
+                3780,
+                3104
+            ]
+        },
+        {
+            "id": "16194cb4",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                3211,
+                1909,
+                3494,
+                1966
+            ]
+        },
+        {
+            "id": "03bee26c",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                4038,
+                3076,
+                4094,
+                3360
+            ]
+        },
+        {
+            "id": "6f77a8b1",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                4605,
+                2221,
+                4661,
+                2506
+            ]
+        },
+        {
+            "id": "2d43eef4",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                4322,
+                800,
+                4379,
+                1085
+            ]
+        },
+        {
+            "id": "513a7feb",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                3497,
+                1340,
+                3781,
+                1398
+            ]
+        },
+        {
+            "id": "8dd8c771",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                617,
+                2221,
+                674,
+                2502
+            ]
+        },
+        {
+            "id": "8a9ebe35",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                4322,
+                3075,
+                4377,
+                3361
+            ]
+        },
+        {
+            "id": "e62a5e46",
+            "class": "Class 1",
+            "confidence": 0.51,
+            "bbox": [
+                643,
+                3905,
+                935,
+                3961
+            ]
+        },
+        {
+            "id": "cf5ca77a",
+            "class": "Class 3",
+            "confidence": 0.51,
+            "bbox": [
+                2984,
+                3850,
+                3140,
+                3897
+            ]
+        },
+        {
+            "id": "bab1b03b",
+            "class": "Class 3",
+            "confidence": 0.5,
+            "bbox": [
+                6125,
+                3292,
+                6209,
+                3320
+            ]
+        },
+        {
+            "id": "f6c771eb",
+            "class": "Class 1",
+            "confidence": 0.5,
+            "bbox": [
+                2037,
+                509,
+                2097,
+                799
+            ]
+        },
+        {
+            "id": "8f982771",
+            "class": "Class 2",
+            "confidence": 0.5,
+            "bbox": [
+                302,
+                1075,
+                357,
+                3763
+            ]
+        },
+        {
+            "id": "befd7134",
+            "class": "Class 1",
+            "confidence": 0.5,
+            "bbox": [
+                3751,
+                1079,
+                3809,
+                1366
+            ]
+        },
+        {
+            "id": "41da7663",
+            "class": "Class 1",
+            "confidence": 0.5,
+            "bbox": [
+                2609,
+                3648,
+                2666,
+                3932
+            ]
+        },
+        {
+            "id": "de66ed56",
+            "class": "Class 3",
+            "confidence": 0.5,
+            "bbox": [
+                2130,
+                3850,
+                2284,
+                3896
+            ]
+        },
+        {
+            "id": "24f5fdf1",
+            "class": "Class 1",
+            "confidence": 0.5,
+            "bbox": [
+                1212,
+                4187,
+                1500,
+                4244
+            ]
+        },
+        {
+            "id": "aabea722",
+            "class": "Class 1",
+            "confidence": 0.5,
+            "bbox": [
+                3778,
+                2765,
+                4065,
+                2819
+            ]
+        },
+        {
+            "id": "59f77a9a",
+            "class": "Class 3",
+            "confidence": 0.49,
+            "bbox": [
+                6274,
+                3297,
+                6339,
+                3327
+            ]
+        },
+        {
+            "id": "92ddc4f0",
+            "class": "Class 1",
+            "confidence": 0.49,
+            "bbox": [
+                1783,
+                1911,
+                2068,
+                1967
+            ]
+        },
+        {
+            "id": "3fb82b73",
+            "class": "Class 1",
+            "confidence": 0.49,
+            "bbox": [
+                2327,
+                3362,
+                2384,
+                3647
+            ]
+        },
+        {
+            "id": "71122fac",
+            "class": "Class 2",
+            "confidence": 0.49,
+            "bbox": [
+                5669,
+                3849,
+                6802,
+                3902
+            ]
+        },
+        {
+            "id": "a2ab6423",
+            "class": "Class 1",
+            "confidence": 0.49,
+            "bbox": [
+                2039,
+                2222,
+                2096,
+                2506
+            ]
+        },
+        {
+            "id": "78cc9fb6",
+            "class": "Class 1",
+            "confidence": 0.49,
+            "bbox": [
+                2608,
+                3931,
+                2668,
+                4215
+            ]
+        },
+        {
+            "id": "2312f579",
+            "class": "Class 1",
+            "confidence": 0.49,
+            "bbox": [
+                1468,
+                2507,
+                1524,
+                2792
+            ]
+        },
+        {
+            "id": "1a6f1061",
+            "class": "Class 1",
+            "confidence": 0.49,
+            "bbox": [
+                3208,
+                1052,
+                3495,
+                1111
+            ]
+        },
+        {
+            "id": "56a354c2",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                5176,
+                2506,
+                5230,
+                2793
+            ]
+        },
+        {
+            "id": "09c66899",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                1497,
+                3617,
+                1783,
+                3674
+            ]
+        },
+        {
+            "id": "977ae6ea",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                5175,
+                2223,
+                5231,
+                2509
+            ]
+        },
+        {
+            "id": "f7ef9dbd",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                903,
+                3357,
+                958,
+                3643
+            ]
+        },
+        {
+            "id": "669794c0",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                2038,
+                1082,
+                2098,
+                1366
+            ]
+        },
+        {
+            "id": "91defc12",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                5177,
+                2796,
+                5231,
+                3081
+            ]
+        },
+        {
+            "id": "183277f9",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                2896,
+                3078,
+                2952,
+                3362
+            ]
+        },
+        {
+            "id": "b4152ccd",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                3752,
+                1367,
+                3809,
+                1655
+            ]
+        },
+        {
+            "id": "85ce4187",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                2896,
+                3648,
+                2952,
+                3932
+            ]
+        },
+        {
+            "id": "2553c0cc",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                3466,
+                2790,
+                3522,
+                3075
+            ]
+        },
+        {
+            "id": "76882656",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                3750,
+                2506,
+                3807,
+                2793
+            ]
+        },
+        {
+            "id": "9b0ffcd5",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                3466,
+                1082,
+                3525,
+                1367
+            ]
+        },
+        {
+            "id": "9fe2e6e6",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                4039,
+                2223,
+                4094,
+                2504
+            ]
+        },
+        {
+            "id": "ebb6ff09",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                2068,
+                3905,
+                2353,
+                3962
+            ]
+        },
+        {
+            "id": "d733257e",
+            "class": "Class 2",
+            "confidence": 0.48,
+            "bbox": [
+                5664,
+                3274,
+                6803,
+                3325
+            ]
+        },
+        {
+            "id": "59f8283a",
+            "class": "Class 1",
+            "confidence": 0.48,
+            "bbox": [
+                645,
+                478,
+                929,
+                537
+            ]
+        },
+        {
+            "id": "1bb709ef",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                3750,
+                2792,
+                3807,
+                3077
+            ]
+        },
+        {
+            "id": "7f37f4f2",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                3779,
+                2477,
+                4064,
+                2532
+            ]
+        },
+        {
+            "id": "269eb1b7",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                4067,
+                2765,
+                4348,
+                2819
+            ]
+        },
+        {
+            "id": "15623d88",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                2072,
+                1910,
+                2355,
+                1967
+            ]
+        },
+        {
+            "id": "07e09022",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                1785,
+                3618,
+                2069,
+                3675
+            ]
+        },
+        {
+            "id": "7fcddfb5",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                4037,
+                3644,
+                4094,
+                3932
+            ]
+        },
+        {
+            "id": "43f8da43",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                3493,
+                1910,
+                3779,
+                1967
+            ]
+        },
+        {
+            "id": "b8a896ae",
+            "class": "Class 1",
+            "confidence": 0.47,
+            "bbox": [
+                2039,
+                3363,
+                2096,
+                3648
+            ]
+        },
+        {
+            "id": "f3e0644c",
+            "class": "Class 1",
+            "confidence": 0.46,
+            "bbox": [
+                1782,
+                3905,
+                2067,
+                3961
+            ]
+        }
+    ]
+}

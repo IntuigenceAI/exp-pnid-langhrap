@@ -19,7 +19,7 @@ def build_knowledge_graph(classified_components: List[Dict], relationships: List
         # Add nodes to the graph
         for component in classified_components:
             graph.add_node(
-                component["id"],
+                component["symbol_id"],
                 label=component["label"],
                 type=component["type"],
                 properties=component.get("properties", {})
@@ -29,7 +29,7 @@ def build_knowledge_graph(classified_components: List[Dict], relationships: List
         for relationship in relationships:
             source = relationship["source"]
             target = relationship["target"]
-            relationship_type = relationship["type"]
+            relationship_type = relationship["relationship"]
             graph.add_edge(source, target, type=relationship_type)
 
         # Convert the graph to a dictionary for JSON serialization

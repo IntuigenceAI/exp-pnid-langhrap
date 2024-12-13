@@ -1,0 +1,1684 @@
+{
+    "detections": [
+        {
+            "symbol_id": "0de128ee-b7fd-46bc-b040-534e98d5052a",
+            "class_id": 27,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Pri Loc access",
+            "confidence": 0.9687919616699219,
+            "bbox": [
+                2735,
+                1031,
+                2846,
+                1138
+            ]
+        },
+        {
+            "symbol_id": "f38f58d6-4e0d-428f-ad67-0089d1c1ff0d",
+            "class_id": 25,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete indicator",
+            "confidence": 0.9659698605537415,
+            "bbox": [
+                2030,
+                2850,
+                2107,
+                2929
+            ]
+        },
+        {
+            "symbol_id": "625a811f-9267-4953-9283-ab144895c349",
+            "class_id": 25,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete indicator",
+            "confidence": 0.9535061717033386,
+            "bbox": [
+                2203,
+                3327,
+                2282,
+                3402
+            ]
+        },
+        {
+            "symbol_id": "762aa5b9-3ef4-4aaa-9979-2a06ecbbd1d3",
+            "class_id": 25,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete indicator",
+            "confidence": 0.9519920349121094,
+            "bbox": [
+                4190,
+                2750,
+                4273,
+                2836
+            ]
+        },
+        {
+            "symbol_id": "50a457d8-0107-4d79-9b4f-a3bd5e402b5b",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.9418502449989319,
+            "bbox": [
+                3455,
+                3501,
+                3531,
+                3601
+            ]
+        },
+        {
+            "symbol_id": "247712f6-cd1b-4672-bf05-48845afa16d2",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.9390308856964111,
+            "bbox": [
+                4581,
+                2018,
+                4689,
+                2124
+            ]
+        },
+        {
+            "symbol_id": "3b9ad9d0-0eaf-4d4a-8b8c-71ec353fb83f",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.9358766674995422,
+            "bbox": [
+                2013,
+                2604,
+                2130,
+                2716
+            ]
+        },
+        {
+            "symbol_id": "748553a5-e355-48f3-981f-2aa3fbb3a444",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.9352141618728638,
+            "bbox": [
+                3861,
+                3021,
+                3972,
+                3134
+            ]
+        },
+        {
+            "symbol_id": "ee5ee6bf-e057-4fce-86c9-941fea8fa8dd",
+            "class_id": 26,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete recorder",
+            "confidence": 0.9322545528411865,
+            "bbox": [
+                587,
+                3735,
+                700,
+                3851
+            ]
+        },
+        {
+            "symbol_id": "fcc8c535-4e00-4fc7-baa0-1c01d417dafc",
+            "class_id": 13,
+            "category": "inst",
+            "type": "valv",
+            "label": "Control Valve",
+            "confidence": 0.931724488735199,
+            "bbox": [
+                4177,
+                3621,
+                4264,
+                3673
+            ]
+        },
+        {
+            "symbol_id": "b2baf7ce-d98d-4f24-991c-9a86030905d8",
+            "class_id": 26,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete recorder",
+            "confidence": 0.9256645441055298,
+            "bbox": [
+                3152,
+                2297,
+                3266,
+                2412
+            ]
+        },
+        {
+            "symbol_id": "3aadfb1a-25f9-4d0b-90fb-13225b40c5ae",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.9195492267608643,
+            "bbox": [
+                2015,
+                4007,
+                2127,
+                4126
+            ]
+        },
+        {
+            "symbol_id": "075588bb-c64b-48af-91f3-15d5ee73b73e",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.9179067015647888,
+            "bbox": [
+                1321,
+                4183,
+                1409,
+                4247
+            ]
+        },
+        {
+            "symbol_id": "425743ed-dd75-42be-97f2-7c311d37e796",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.9170613884925842,
+            "bbox": [
+                3293,
+                3617,
+                3425,
+                3672
+            ]
+        },
+        {
+            "symbol_id": "6eeb176f-02e3-4e8a-b3e1-9c16d121383c",
+            "class_id": 3,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NO",
+            "confidence": 0.9156341552734375,
+            "bbox": [
+                2044,
+                1180,
+                2097,
+                1268
+            ]
+        },
+        {
+            "symbol_id": "2d1bc475-79a6-4283-be1d-5ee2874e54f9",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.909570038318634,
+            "bbox": [
+                612,
+                915,
+                697,
+                1005
+            ]
+        },
+        {
+            "symbol_id": "9da16e44-58c6-4992-aced-06c31e739dec",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.9050015807151794,
+            "bbox": [
+                3264,
+                3898,
+                3347,
+                3959
+            ]
+        },
+        {
+            "symbol_id": "414a5b89-e537-47ef-aa63-d678ab6cdd0d",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.8821832537651062,
+            "bbox": [
+                585,
+                2591,
+                695,
+                2701
+            ]
+        },
+        {
+            "symbol_id": "9073a1a7-0cbf-4ad3-9ecc-f79e2be3dd86",
+            "class_id": 30,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared with Pri Loc access",
+            "confidence": 0.8797175884246826,
+            "bbox": [
+                2588,
+                4037,
+                2678,
+                4134
+            ]
+        },
+        {
+            "symbol_id": "c4315237-b627-4812-8d1e-c8bf6660210e",
+            "class_id": 16,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade blind",
+            "confidence": 0.8787218928337097,
+            "bbox": [
+                1870,
+                3335,
+                1925,
+                3389
+            ]
+        },
+        {
+            "symbol_id": "a486f5b6-1b4a-494e-b5b2-346365721796",
+            "class_id": 17,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade close blind flanged",
+            "confidence": 0.8674685955047607,
+            "bbox": [
+                2045,
+                1411,
+                2150,
+                1451
+            ]
+        },
+        {
+            "symbol_id": "5c1c4fec-1654-40bf-b133-014123cc122f",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.859470546245575,
+            "bbox": [
+                1334,
+                473,
+                1438,
+                544
+            ]
+        },
+        {
+            "symbol_id": "4c6340a2-ef4d-4279-bdd5-4c50f942cf64",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.853365957736969,
+            "bbox": [
+                1081,
+                3619,
+                1168,
+                3675
+            ]
+        },
+        {
+            "symbol_id": "f6123e9f-4e28-457a-8c04-d20aab3bd678",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.8531712889671326,
+            "bbox": [
+                2720,
+                3605,
+                2760,
+                3691
+            ]
+        },
+        {
+            "symbol_id": "cae33c8f-2ff6-4937-811c-95567597c8e0",
+            "class_id": 13,
+            "category": "inst",
+            "type": "valv",
+            "label": "Control Valve",
+            "confidence": 0.8531523942947388,
+            "bbox": [
+                2900,
+                1742,
+                2951,
+                1829
+            ]
+        },
+        {
+            "symbol_id": "4ee393dd-e434-42f1-9aa8-c1c5bc4daf93",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.8445231318473816,
+            "bbox": [
+                880,
+                3213,
+                983,
+                3312
+            ]
+        },
+        {
+            "symbol_id": "d68b5d25-2f82-4170-9e7f-9900aa72fe2a",
+            "class_id": 11,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NC",
+            "confidence": 0.842609167098999,
+            "bbox": [
+                3754,
+                1219,
+                3809,
+                1308
+            ]
+        },
+        {
+            "symbol_id": "a637d21b-d59a-480f-aed7-c27400ebe020",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.8404985070228577,
+            "bbox": [
+                2991,
+                3303,
+                3079,
+                3386
+            ]
+        },
+        {
+            "symbol_id": "a29979a4-f1fc-4263-b80b-1951883f4343",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.8351620435714722,
+            "bbox": [
+                3646,
+                3568,
+                3729,
+                3610
+            ]
+        },
+        {
+            "symbol_id": "0a784c70-f331-42e2-afd6-c7987877dc87",
+            "class_id": 2,
+            "category": "inst",
+            "type": "valv",
+            "label": "Globe valve NO",
+            "confidence": 0.8346912860870361,
+            "bbox": [
+                2782,
+                1344,
+                2863,
+                1394
+            ]
+        },
+        {
+            "symbol_id": "941ec83c-cce9-4b8b-9f8c-9e1371b640cf",
+            "class_id": 32,
+            "category": "inst",
+            "type": "ind",
+            "label": "Programmable with Pri Loc access",
+            "confidence": 0.8343358039855957,
+            "bbox": [
+                1859,
+                1320,
+                1966,
+                1425
+            ]
+        },
+        {
+            "symbol_id": "a71b6ddc-22e3-4acc-b677-43115c5bcd2d",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.8250918388366699,
+            "bbox": [
+                4321,
+                872,
+                4379,
+                951
+            ]
+        },
+        {
+            "symbol_id": "366ac50a-f4ca-4d24-84ed-6e4183f388aa",
+            "class_id": 28,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Aux Loc access",
+            "confidence": 0.8180182576179504,
+            "bbox": [
+                1578,
+                464,
+                1692,
+                574
+            ]
+        },
+        {
+            "symbol_id": "5bd6d151-83eb-466e-9310-8918a4638a1a",
+            "class_id": 10,
+            "category": "inst",
+            "type": "valv",
+            "label": "Sealing gate valve",
+            "confidence": 0.8158645033836365,
+            "bbox": [
+                1040,
+                3891,
+                1108,
+                3954
+            ]
+        },
+        {
+            "symbol_id": "370ea71a-151a-4beb-a120-169f977f81f0",
+            "class_id": 29,
+            "category": "inst",
+            "type": "ind",
+            "label": "Solenoid actuator",
+            "confidence": 0.8122525215148926,
+            "bbox": [
+                2582,
+                3450,
+                2699,
+                3565
+            ]
+        },
+        {
+            "symbol_id": "b766bab4-20fb-48b4-9174-27f3a0676713",
+            "class_id": 32,
+            "category": "inst",
+            "type": "ind",
+            "label": "Programmable with Pri Loc access",
+            "confidence": 0.7841894626617432,
+            "bbox": [
+                1305,
+                1035,
+                1400,
+                1132
+            ]
+        },
+        {
+            "symbol_id": "bc3716bd-cd40-407d-b3ea-1924154b0b17",
+            "class_id": 26,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete recorder",
+            "confidence": 0.7789221405982971,
+            "bbox": [
+                3001,
+                1309,
+                3114,
+                1422
+            ]
+        },
+        {
+            "symbol_id": "1c85f1b5-6ff8-4ce4-9ce9-2cc76d9c1c34",
+            "class_id": 3,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NO",
+            "confidence": 0.7670113444328308,
+            "bbox": [
+                2154,
+                3908,
+                2238,
+                3957
+            ]
+        },
+        {
+            "symbol_id": "e22a198c-f6ab-416c-b8e3-1cc15bc0fbfe",
+            "class_id": 28,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Aux Loc access",
+            "confidence": 0.7632309198379517,
+            "bbox": [
+                3435,
+                2303,
+                3553,
+                2416
+            ]
+        },
+        {
+            "symbol_id": "8360b7bd-bfa7-4103-8e5a-189289b8549b",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.7556699514389038,
+            "bbox": [
+                900,
+                3483,
+                988,
+                3585
+            ]
+        },
+        {
+            "symbol_id": "de381a7e-90bb-4746-ba3d-c78045683ec6",
+            "class_id": 16,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade blind",
+            "confidence": 0.7540566921234131,
+            "bbox": [
+                2040,
+                922,
+                2097,
+                980
+            ]
+        },
+        {
+            "symbol_id": "badd8f41-2c69-4a60-a9d5-17d445ee96bd",
+            "class_id": 20,
+            "category": "pip",
+            "type": "fit",
+            "label": "Flanged connection",
+            "confidence": 0.7535515427589417,
+            "bbox": [
+                3459,
+                1436,
+                3525,
+                1494
+            ]
+        },
+        {
+            "symbol_id": "8848adad-4375-44ea-b3c7-e442b0e539e5",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.7394935488700867,
+            "bbox": [
+                2315,
+                3832,
+                2391,
+                3877
+            ]
+        },
+        {
+            "symbol_id": "4006fad7-6188-4d89-bc56-0b8e721e1eb5",
+            "class_id": 26,
+            "category": "inst",
+            "type": "ind",
+            "label": "Field mounted discrete recorder",
+            "confidence": 0.7294488549232483,
+            "bbox": [
+                2594,
+                2833,
+                2683,
+                2921
+            ]
+        },
+        {
+            "symbol_id": "956c43e6-f32e-4ab7-a954-708f16052f6f",
+            "class_id": 16,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade blind",
+            "confidence": 0.7210360765457153,
+            "bbox": [
+                2968,
+                3053,
+                3018,
+                3101
+            ]
+        },
+        {
+            "symbol_id": "6c7c5365-7731-48ea-8f05-0aca9ef03e4b",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.6971969604492188,
+            "bbox": [
+                4019,
+                2927,
+                4121,
+                2975
+            ]
+        },
+        {
+            "symbol_id": "fb64af35-104d-4a23-bb19-9ef67176a50a",
+            "class_id": 21,
+            "category": "pip",
+            "type": "fit",
+            "label": "Heating coil tubes",
+            "confidence": 0.6960192918777466,
+            "bbox": [
+                3179,
+                4036,
+                3241,
+                4066
+            ]
+        },
+        {
+            "symbol_id": "5dc3b058-1f73-45be-82dc-2b474673b548",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.6884805560112,
+            "bbox": [
+                2898,
+                2307,
+                2982,
+                2399
+            ]
+        },
+        {
+            "symbol_id": "39d1a7fc-79ee-4385-87b6-0a09ea8b333e",
+            "class_id": 29,
+            "category": "inst",
+            "type": "ind",
+            "label": "Solenoid actuator",
+            "confidence": 0.6858412623405457,
+            "bbox": [
+                2869,
+                3438,
+                2987,
+                3550
+            ]
+        },
+        {
+            "symbol_id": "2c6eef59-cdc0-4e4c-99e2-f940fa354b10",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.6845731735229492,
+            "bbox": [
+                1573,
+                1908,
+                1685,
+                1963
+            ]
+        },
+        {
+            "symbol_id": "f5126720-9fb9-4404-a479-edb2b2d06675",
+            "class_id": 3,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NO",
+            "confidence": 0.6789013147354126,
+            "bbox": [
+                2899,
+                2007,
+                2952,
+                2105
+            ]
+        },
+        {
+            "symbol_id": "2c4c2c1f-e35b-4b49-8d12-dd1d9c7357ba",
+            "class_id": 13,
+            "category": "inst",
+            "type": "valv",
+            "label": "Control Valve",
+            "confidence": 0.6737431883811951,
+            "bbox": [
+                986,
+                2197,
+                1077,
+                2249
+            ]
+        },
+        {
+            "symbol_id": "b8277a75-8ec5-494f-b339-ef0e515df278",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.6623622179031372,
+            "bbox": [
+                3579,
+                2739,
+                3685,
+                2847
+            ]
+        },
+        {
+            "symbol_id": "57301bce-7730-4e12-8498-461780562539",
+            "class_id": 13,
+            "category": "inst",
+            "type": "valv",
+            "label": "Control Valve",
+            "confidence": 0.6620136499404907,
+            "bbox": [
+                3472,
+                1738,
+                3523,
+                1831
+            ]
+        },
+        {
+            "symbol_id": "62113038-4457-425c-b20a-3263f8e43d5a",
+            "class_id": 5,
+            "category": "inst",
+            "type": "valv",
+            "label": "Butterfly Valve",
+            "confidence": 0.640836775302887,
+            "bbox": [
+                4040,
+                2589,
+                4094,
+                2679
+            ]
+        },
+        {
+            "symbol_id": "a0cb1fdf-eb9e-4c92-95fa-8d71034c9378",
+            "class_id": 17,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade close blind flanged",
+            "confidence": 0.6384364366531372,
+            "bbox": [
+                882,
+                1848,
+                963,
+                1886
+            ]
+        },
+        {
+            "symbol_id": "224b9365-9590-4730-8351-3fa27cc18f05",
+            "class_id": 27,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Pri Loc access",
+            "confidence": 0.6378612518310547,
+            "bbox": [
+                738,
+                1026,
+                849,
+                1143
+            ]
+        },
+        {
+            "symbol_id": "bbd8206f-0607-449e-921b-b0349396e952",
+            "class_id": 13,
+            "category": "inst",
+            "type": "valv",
+            "label": "Control Valve",
+            "confidence": 0.6341049075126648,
+            "bbox": [
+                3183,
+                3452,
+                3236,
+                3555
+            ]
+        },
+        {
+            "symbol_id": "08411714-503b-4e00-841e-7529e8cee954",
+            "class_id": 12,
+            "category": "inst",
+            "type": "valv",
+            "label": "Globe valve NC",
+            "confidence": 0.6277628540992737,
+            "bbox": [
+                986,
+                2198,
+                1076,
+                2249
+            ]
+        },
+        {
+            "symbol_id": "d73ecea8-4d8d-4169-a951-ab6e84221e00",
+            "class_id": 30,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared with Pri Loc access",
+            "confidence": 0.6262617707252502,
+            "bbox": [
+                603,
+                1726,
+                681,
+                1798
+            ]
+        },
+        {
+            "symbol_id": "bb0622ae-127a-406c-a59a-7e99c0f28a19",
+            "class_id": 10,
+            "category": "inst",
+            "type": "valv",
+            "label": "Sealing gate valve",
+            "confidence": 0.605131208896637,
+            "bbox": [
+                727,
+                3598,
+                812,
+                3664
+            ]
+        },
+        {
+            "symbol_id": "5a0950b9-d6fc-462a-8ed6-ddf91233eb8b",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.6000320315361023,
+            "bbox": [
+                1016,
+                1035,
+                1063,
+                1125
+            ]
+        },
+        {
+            "symbol_id": "bfb4416d-8311-4d72-9922-66d80f5d1dc8",
+            "class_id": 11,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NC",
+            "confidence": 0.5798462629318237,
+            "bbox": [
+                3850,
+                3333,
+                3927,
+                3383
+            ]
+        },
+        {
+            "symbol_id": "400bbd33-cd79-4bb9-a080-10d810cb642d",
+            "class_id": 27,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Pri Loc access",
+            "confidence": 0.5781096816062927,
+            "bbox": [
+                3876,
+                1313,
+                3988,
+                1425
+            ]
+        },
+        {
+            "symbol_id": "08e377a6-980c-4816-baec-667f129a801a",
+            "class_id": 6,
+            "category": "inst",
+            "type": "valv",
+            "label": "Manual gate valve",
+            "confidence": 0.5753520131111145,
+            "bbox": [
+                2901,
+                1487,
+                2952,
+                1570
+            ]
+        },
+        {
+            "symbol_id": "64c15790-3ec4-4688-aa41-b3c58bddf9a1",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.5572413802146912,
+            "bbox": [
+                3409,
+                2077,
+                3517,
+                2162
+            ]
+        },
+        {
+            "symbol_id": "11545a28-20f5-4567-a263-fdba329dcc96",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.5526790618896484,
+            "bbox": [
+                2450,
+                1345,
+                2549,
+                1457
+            ]
+        },
+        {
+            "symbol_id": "a7ec33e1-f80e-473f-94b2-009cf068031e",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.5519346594810486,
+            "bbox": [
+                2479,
+                1910,
+                2536,
+                1968
+            ]
+        },
+        {
+            "symbol_id": "b45b5bae-5ccb-42c6-ba27-817f351be57a",
+            "class_id": 11,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NC",
+            "confidence": 0.5437167882919312,
+            "bbox": [
+                4480,
+                2767,
+                4556,
+                2819
+            ]
+        },
+        {
+            "symbol_id": "1bb33142-ad6f-490d-9207-09db23d84c25",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.543041467666626,
+            "bbox": [
+                4982,
+                1617,
+                5085,
+                1704
+            ]
+        },
+        {
+            "symbol_id": "5713d2f0-1eab-459d-b37f-8b6c9c2c4cff",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.540785014629364,
+            "bbox": [
+                3282,
+                3618,
+                3389,
+                3674
+            ]
+        },
+        {
+            "symbol_id": "99c6a6de-33c4-43c3-aed2-f2927c45cadd",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.5325922966003418,
+            "bbox": [
+                3168,
+                3141,
+                3236,
+                3275
+            ]
+        },
+        {
+            "symbol_id": "6e471fa4-bab8-47b5-b009-5e3c36651d55",
+            "class_id": 18,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade open blind flanged",
+            "confidence": 0.523445725440979,
+            "bbox": [
+                3492,
+                2989,
+                3613,
+                3028
+            ]
+        },
+        {
+            "symbol_id": "576eec9a-22ae-4911-a459-d87097b2d1d7",
+            "class_id": 20,
+            "category": "pip",
+            "type": "fit",
+            "label": "Flanged connection",
+            "confidence": 0.5229408740997314,
+            "bbox": [
+                901,
+                2851,
+                960,
+                2912
+            ]
+        },
+        {
+            "symbol_id": "b5db03ea-b2e7-4898-b758-20d55871374a",
+            "class_id": 5,
+            "category": "inst",
+            "type": "valv",
+            "label": "Butterfly Valve",
+            "confidence": 0.5166997313499451,
+            "bbox": [
+                3279,
+                1055,
+                3353,
+                1109
+            ]
+        },
+        {
+            "symbol_id": "6a1dcb16-04b5-461f-b026-4c0ae5d1e577",
+            "class_id": 28,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Aux Loc access",
+            "confidence": 0.495362788438797,
+            "bbox": [
+                3150,
+                2015,
+                3267,
+                2129
+            ]
+        },
+        {
+            "symbol_id": "dcdfdb02-d9ce-4cd8-91e7-f5a710446eca",
+            "class_id": 17,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade close blind flanged",
+            "confidence": 0.49026015400886536,
+            "bbox": [
+                2516,
+                3337,
+                2553,
+                3448
+            ]
+        },
+        {
+            "symbol_id": "ca364f33-0950-4fb2-bdca-0a2294703443",
+            "class_id": 17,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade close blind flanged",
+            "confidence": 0.484540194272995,
+            "bbox": [
+                4455,
+                1913,
+                4499,
+                2026
+            ]
+        },
+        {
+            "symbol_id": "5f6bbbc7-e91c-4c34-a62f-a7d4adaa28cb",
+            "class_id": 32,
+            "category": "inst",
+            "type": "ind",
+            "label": "Programmable with Pri Loc access",
+            "confidence": 0.47239983081817627,
+            "bbox": [
+                3577,
+                2747,
+                3687,
+                2853
+            ]
+        },
+        {
+            "symbol_id": "daf2813e-2679-43c6-858a-18dfa4f96f9f",
+            "class_id": 28,
+            "category": "inst",
+            "type": "ind",
+            "label": "discrete with Aux Loc access",
+            "confidence": 0.4588119685649872,
+            "bbox": [
+                3298,
+                3309,
+                3408,
+                3416
+            ]
+        },
+        {
+            "symbol_id": "fd8ce9aa-05e4-4794-9ecb-ca9bb98f97f6",
+            "class_id": 29,
+            "category": "inst",
+            "type": "ind",
+            "label": "Solenoid actuator",
+            "confidence": 0.4581381678581238,
+            "bbox": [
+                3158,
+                2865,
+                3269,
+                2980
+            ]
+        },
+        {
+            "symbol_id": "640c1355-e672-43c6-a000-a7a7f82a5338",
+            "class_id": 20,
+            "category": "pip",
+            "type": "fit",
+            "label": "Flanged connection",
+            "confidence": 0.4546268880367279,
+            "bbox": [
+                2037,
+                3456,
+                2100,
+                3532
+            ]
+        },
+        {
+            "symbol_id": "e438ae12-d9d2-4520-9ba9-fa1a71598968",
+            "class_id": 5,
+            "category": "inst",
+            "type": "valv",
+            "label": "Butterfly Valve",
+            "confidence": 0.4479927122592926,
+            "bbox": [
+                1276,
+                542,
+                1348,
+                592
+            ]
+        },
+        {
+            "symbol_id": "876d420d-f4db-43f5-b1a1-1d4409cafa67",
+            "class_id": 17,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade close blind flanged",
+            "confidence": 0.4402013123035431,
+            "bbox": [
+                4271,
+                3480,
+                4377,
+                3517
+            ]
+        },
+        {
+            "symbol_id": "d704b979-4c6d-43de-9636-80d4e36f8546",
+            "class_id": 32,
+            "category": "inst",
+            "type": "ind",
+            "label": "Programmable with Pri Loc access",
+            "confidence": 0.4190712869167328,
+            "bbox": [
+                3871,
+                1015,
+                3963,
+                1118
+            ]
+        },
+        {
+            "symbol_id": "19bfd6d3-57d5-4914-bdb5-4716b230182b",
+            "class_id": 10,
+            "category": "inst",
+            "type": "valv",
+            "label": "Sealing gate valve",
+            "confidence": 0.412671834230423,
+            "bbox": [
+                3083,
+                3911,
+                3178,
+                3980
+            ]
+        },
+        {
+            "symbol_id": "6957fec5-a2b0-4a81-aa54-ec9c452a5c3d",
+            "class_id": 2,
+            "category": "inst",
+            "type": "valv",
+            "label": "Globe valve NO",
+            "confidence": 0.4113463759422302,
+            "bbox": [
+                4329,
+                2886,
+                4377,
+                2980
+            ]
+        },
+        {
+            "symbol_id": "0f15e3b7-d6c7-4f65-83e3-ec308188687d",
+            "class_id": 13,
+            "category": "inst",
+            "type": "valv",
+            "label": "Control Valve",
+            "confidence": 0.4097445607185364,
+            "bbox": [
+                3251,
+                1910,
+                3347,
+                1960
+            ]
+        },
+        {
+            "symbol_id": "5e4d6676-03ba-4bb8-9275-8471f0f716a1",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.40967482328414917,
+            "bbox": [
+                1168,
+                1733,
+                1227,
+                1856
+            ]
+        },
+        {
+            "symbol_id": "8844f74f-dac1-424c-9eb8-ac7bcbf25d28",
+            "class_id": 30,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared with Pri Loc access",
+            "confidence": 0.4084804356098175,
+            "bbox": [
+                1678,
+                3320,
+                1775,
+                3408
+            ]
+        },
+        {
+            "symbol_id": "b10640eb-ac7a-47fb-ae60-d70d3630d512",
+            "class_id": 21,
+            "category": "pip",
+            "type": "fit",
+            "label": "Heating coil tubes",
+            "confidence": 0.39519497752189636,
+            "bbox": [
+                1622,
+                1051,
+                1652,
+                1112
+            ]
+        },
+        {
+            "symbol_id": "16cfb53b-7ff1-45e4-96a7-7e9d0b31ae11",
+            "class_id": 15,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NC",
+            "confidence": 0.38611283898353577,
+            "bbox": [
+                3420,
+                2867,
+                3468,
+                2915
+            ]
+        },
+        {
+            "symbol_id": "c9bd5735-c3a4-4a4c-ab0b-0b118dea3a25",
+            "class_id": 3,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NO",
+            "confidence": 0.38007599115371704,
+            "bbox": [
+                1473,
+                3494,
+                1524,
+                3576
+            ]
+        },
+        {
+            "symbol_id": "40245f92-5060-44c9-8ff9-32b175bc6828",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.36787450313568115,
+            "bbox": [
+                3613,
+                3602,
+                3654,
+                3698
+            ]
+        },
+        {
+            "symbol_id": "6c2a65dc-9845-47a9-9404-9414ab4d94a0",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.36527201533317566,
+            "bbox": [
+                5182,
+                2015,
+                5233,
+                2105
+            ]
+        },
+        {
+            "symbol_id": "0f1cd114-c445-4ca7-842f-c5858555135a",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.3649553060531616,
+            "bbox": [
+                4725,
+                1870,
+                4810,
+                1966
+            ]
+        },
+        {
+            "symbol_id": "1c9a84ea-23bf-42eb-86d2-d1eb8a71ba30",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.3631337583065033,
+            "bbox": [
+                3058,
+                3898,
+                3128,
+                3967
+            ]
+        },
+        {
+            "symbol_id": "28e66724-07e8-45c4-8b85-becc259ba23b",
+            "class_id": 15,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NC",
+            "confidence": 0.3603937327861786,
+            "bbox": [
+                2998,
+                3266,
+                3062,
+                3306
+            ]
+        },
+        {
+            "symbol_id": "3bc92145-2bc2-4f90-ade1-354994ea1346",
+            "class_id": 9,
+            "category": "inst",
+            "type": "valv",
+            "label": "Needle Valve",
+            "confidence": 0.3603576719760895,
+            "bbox": [
+                2310,
+                4032,
+                2375,
+                4116
+            ]
+        },
+        {
+            "symbol_id": "e6f613f2-6a9c-4179-8d1a-485ba3a2736d",
+            "class_id": 4,
+            "category": "inst",
+            "type": "valv",
+            "label": "Ball valve",
+            "confidence": 0.3555466830730438,
+            "bbox": [
+                1471,
+                2333,
+                1522,
+                2424
+            ]
+        },
+        {
+            "symbol_id": "1f7d09bf-cafb-4717-9526-dcb45cc5cd10",
+            "class_id": 29,
+            "category": "inst",
+            "type": "ind",
+            "label": "Solenoid actuator",
+            "confidence": 0.35051313042640686,
+            "bbox": [
+                3297,
+                3307,
+                3408,
+                3419
+            ]
+        },
+        {
+            "symbol_id": "4ffdeaeb-6308-4b32-a3f2-7d55161f1b19",
+            "class_id": 11,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NC",
+            "confidence": 0.34299683570861816,
+            "bbox": [
+                1019,
+                4189,
+                1113,
+                4240
+            ]
+        },
+        {
+            "symbol_id": "ddd012d1-95f3-496d-be51-de37ef9527cb",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.34217315912246704,
+            "bbox": [
+                1860,
+                1314,
+                1971,
+                1418
+            ]
+        },
+        {
+            "symbol_id": "8dd444a3-ed92-4c3a-bfd7-a4fe6922907b",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.3329545259475708,
+            "bbox": [
+                604,
+                2898,
+                699,
+                2988
+            ]
+        },
+        {
+            "symbol_id": "adeb63c6-4c3d-47ff-88f8-94f98c6102de",
+            "class_id": 16,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade blind",
+            "confidence": 0.3300235867500305,
+            "bbox": [
+                4321,
+                3258,
+                4376,
+                3311
+            ]
+        },
+        {
+            "symbol_id": "8d81f354-a63a-40a8-9247-a2ca7fbe918b",
+            "class_id": 15,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NC",
+            "confidence": 0.31412944197654724,
+            "bbox": [
+                3399,
+                2072,
+                3438,
+                2144
+            ]
+        },
+        {
+            "symbol_id": "c7cfffd3-caa1-4110-a631-6f6c46e7e5b3",
+            "class_id": 10,
+            "category": "inst",
+            "type": "valv",
+            "label": "Sealing gate valve",
+            "confidence": 0.312281996011734,
+            "bbox": [
+                2990,
+                3317,
+                3081,
+                3389
+            ]
+        },
+        {
+            "symbol_id": "36505ad0-ea04-454b-bb8d-431c60737169",
+            "class_id": 17,
+            "category": "pip",
+            "type": "fit",
+            "label": "Spade close blind flanged",
+            "confidence": 0.3057379126548767,
+            "bbox": [
+                4747,
+                3899,
+                4778,
+                3964
+            ]
+        },
+        {
+            "symbol_id": "406830eb-b6a2-42ac-8435-9d79d4bd79d2",
+            "class_id": 23,
+            "category": "pip",
+            "type": "fit",
+            "label": "Mid arrow flow direction",
+            "confidence": 0.3052572011947632,
+            "bbox": [
+                609,
+                2904,
+                689,
+                2991
+            ]
+        },
+        {
+            "symbol_id": "f118bb88-b250-4db7-bf73-944d27820063",
+            "class_id": 30,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared with Pri Loc access",
+            "confidence": 0.3019856810569763,
+            "bbox": [
+                1713,
+                3890,
+                1803,
+                3978
+            ]
+        },
+        {
+            "symbol_id": "70b11f63-50c5-4f08-8756-ac575e91c4bf",
+            "class_id": 10,
+            "category": "inst",
+            "type": "valv",
+            "label": "Sealing gate valve",
+            "confidence": 0.30024805665016174,
+            "bbox": [
+                1461,
+                2884,
+                1522,
+                2981
+            ]
+        },
+        {
+            "symbol_id": "f6995a57-b876-4d13-979c-928494deb1bf",
+            "class_id": 19,
+            "category": "pip",
+            "type": "fit",
+            "label": "Right concentric reducer",
+            "confidence": 0.2993035316467285,
+            "bbox": [
+                3469,
+                2991,
+                3599,
+                3028
+            ]
+        },
+        {
+            "symbol_id": "a795b79f-e845-4049-9ce2-3495c61fc3a1",
+            "class_id": 3,
+            "category": "inst",
+            "type": "valv",
+            "label": "Gate valve NO",
+            "confidence": 0.28490734100341797,
+            "bbox": [
+                4324,
+                1218,
+                4374,
+                1307
+            ]
+        },
+        {
+            "symbol_id": "11807efd-3f0a-44a1-98fb-762ec6b92cd1",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.28388193249702454,
+            "bbox": [
+                3613,
+                3602,
+                3654,
+                3700
+            ]
+        },
+        {
+            "symbol_id": "002327ea-2aab-4b5d-aa7b-fc5c7b0025b5",
+            "class_id": 31,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared control logic",
+            "confidence": 0.2830655872821808,
+            "bbox": [
+                1157,
+                4028,
+                1271,
+                4138
+            ]
+        },
+        {
+            "symbol_id": "b6280855-47ad-4a19-9351-89887402dfe1",
+            "class_id": 30,
+            "category": "inst",
+            "type": "ind",
+            "label": "shared with Pri Loc access",
+            "confidence": 0.2818746864795685,
+            "bbox": [
+                1225,
+                3328,
+                1313,
+                3408
+            ]
+        },
+        {
+            "symbol_id": "9c92113b-493b-4ae5-a64f-5baad9944d99",
+            "class_id": 29,
+            "category": "inst",
+            "type": "ind",
+            "label": "Solenoid actuator",
+            "confidence": 0.2812899351119995,
+            "bbox": [
+                2713,
+                3874,
+                2824,
+                3988
+            ]
+        },
+        {
+            "symbol_id": "1f9a8754-ebf2-4f62-b096-308ecb620c2d",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.27521660923957825,
+            "bbox": [
+                2427,
+                1338,
+                2528,
+                1429
+            ]
+        },
+        {
+            "symbol_id": "f13f5026-dbe5-41ee-a2ad-4ba62211ad6c",
+            "class_id": 14,
+            "category": "inst",
+            "type": "valv",
+            "label": "Rotary valve NO",
+            "confidence": 0.26795852184295654,
+            "bbox": [
+                3438,
+                2058,
+                3517,
+                2135
+            ]
+        },
+        {
+            "symbol_id": "703bf5c7-09b8-483d-b1eb-86b04299bca2",
+            "class_id": 22,
+            "category": "pip",
+            "type": "fit",
+            "label": "Jacketed pipe",
+            "confidence": 0.26129287481307983,
+            "bbox": [
+                3168,
+                3256,
+                3242,
+                3292
+            ]
+        }
+    ]
+}

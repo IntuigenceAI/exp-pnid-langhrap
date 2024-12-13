@@ -10,6 +10,7 @@ SYMBOL_CLASSIFICATION_MAP = {
 }
 
 def classify_symbols(symbols):
+
     """
     Classifies symbols based on predefined categories.
     
@@ -22,6 +23,7 @@ def classify_symbols(symbols):
     classified_symbols = []
     for symbol in symbols:
         symbol_type = symbol.get("type", "unknown")
+        # print(symbol_type)
         classification = "unknown"
         for category, types in SYMBOL_CLASSIFICATION_MAP.items():
             if symbol_type in types:
@@ -30,3 +32,6 @@ def classify_symbols(symbols):
         symbol["classification"] = classification
         classified_symbols.append(symbol)
     return classified_symbols
+
+
+
