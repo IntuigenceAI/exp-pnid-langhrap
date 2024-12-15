@@ -100,7 +100,7 @@ def reflect_symbols(output_json: str) -> str:
     """
     REFLECTION TOOL: Evaluates the quality of the symbols extracted.
     """
-    prompt = f"Evaluate the following extracted symbols compared to the original image for accuracy and completeness:\n{output_json}\nProvide feedback."
+    prompt = f"Evaluate the following extracted symbols for accuracy and completeness:\n{output_json}\nProvide feedback."
     reflection = reflection_model.invoke(prompt)
     return reflection
 
@@ -109,7 +109,7 @@ def reflect_texts(output_json: str) -> str:
     """
     REFLECTION TOOL: Evaluates the quality of the texts extracted.
     """
-    prompt = f"Evaluate the following extracted texts compared to the original image for accuracy and completeness:\n{output_json}\nProvide feedback."
+    prompt = f"Evaluate the following extracted texts for accuracy and completeness:\n{output_json}\nProvide feedback."
     reflection = reflection_model.invoke(prompt)
     return reflection
 
@@ -118,7 +118,7 @@ def reflect_lines(output_json: str) -> str:
     """
     REFLECTION TOOL: Evaluates the quality of the lines extracted.
     """
-    prompt = f"Evaluate the following extracted lines compared to the original image for accuracy and completeness:\n{output_json}\nProvide feedback."
+    prompt = f"Evaluate the following extracted lines for accuracy and completeness:\n{output_json}\nProvide feedback."
     reflection = reflection_model.invoke(prompt)
     return reflection
 
@@ -127,7 +127,7 @@ def reflect_document(output: str) -> str:
     """
     REFLECTION TOOL: Evaluates the success of the document writing process.
     """
-    prompt = f"Evaluate the following document writing output compared to the original image for success and correctness:\n{output}\nProvide feedback."
+    prompt = f"Evaluate the following document writing output for success and correctness:\n{output}\nProvide feedback."
     reflection = reflection_model.invoke(prompt)
     return reflection
 
@@ -137,7 +137,7 @@ def critique_knowledge_graph(output_json: str) -> str:
     CRITIQUE TOOL: Evaluates the quality of the created knowledge graph.
     """
     prompt = (
-        f"Evaluate the following knowledge graph compared to the original image for accuracy, completeness, and proper structuring:\n{output_json}\nProvide detailed feedback and suggestions for improvements if necessary. Critique the knowledge graph that is provided and suggest improvements and recommendations and identify if there's anything missing or incorrect. Provide detailed recommendations, including requests for reprocessing the data and re analyzing the inputs."
+        f"Evaluate the following knowledge graph for accuracy, completeness, and proper structuring:\n{output_json}\nProvide detailed feedback and suggestions for improvements if necessary. Critique the knowledge graph that is provided and suggest improvements and recommendations and identify if there's anything missing or incorrect. Provide detailed recommendations, including requests for reprocessing the data and re analyzing the inputs."
     )
     critique = critique_model.invoke(prompt)
     return critique
@@ -149,7 +149,7 @@ def reflect_visualization(state) -> str:
     """
     check_result = state.get("check_result", "")
     prompt = (
-        f"Based on the following visualization check results compared to the original image, identify issues and suggest improvements:\n{check_result}\n"
+        f"Based on the following visualization check results, identify issues and suggest improvements:\n{check_result}\n"
         "Provide detailed feedback and recommendations."
     )
     reflection = reflection_model.invoke(prompt)
@@ -161,7 +161,7 @@ def check_visualization(image_path: str) -> str:
     CHECK TOOL: Assesses the quality of the knowledge graph visualization.
     """
     prompt = (
-        f"Assess the quality of the knowledge graph visualization compared to the original image located at {image_path}. "
+        f"Assess the quality of the knowledge graph visualization located at {image_path}. "
         "Is the visualization clear, accurate, and effectively representing the knowledge graph? "
         "Provide a concise assessment."
     )
@@ -207,9 +207,8 @@ def should_continue(state):
 # Function to aggregate extracted data and trigger document writing
 # NOTE: This includes our reflection logic as well 
 def aggregate_and_write(state):
-    # state['p_and_id_image_path'] = "/Users/hivamoh/Desktop/IntuigenceAI/2/2.jpg"
-    # image_path = state["original_image_path"] 
-    image_path = state["original_image_path"]
+    state['p_and_id_image_path'] = "/Users/hivamoh/Desktop/IntuigenceAI/2/2.jpg"
+    image_path = state["original_image_path"] 
     
     # Extract the latest detections
     symbols = extract_symbols_t(image_path)
@@ -266,51 +265,20 @@ def visualize_knowledge_graph(processed_data: Dict[str, Any]) -> Dict[str, Any]:
 
 #####-----------------****** GRAPH NODES ******-----------------#####
 
-# # Function that calls the model
-# def call_model(state):
-#     messages = state["messages"]
-#     response = model.invoke(messages)
-#     return {"messages": [response]}
-
+# Function that calls the model
 def call_model(state):
-    # Retrieve existing messages from the state
     messages = state["messages"]
-
-    # If the original image path is available, include it in the user message
-    if "original_image_path" in state:
-        image_path = state["original_image_path"]
-        user_message = HumanMessage(
-            content=(
-                "What's in this image?\n"
-                f"![Image]({image_path})"  # Using Markdown to embed the image
-            )
-        )
-        messages.append(user_message)
-
-    # Invoke the model with the updated messages
     response = model.invoke(messages)
     return {"messages": [response]}
 
 
-
-# # Node to ask the human for the path
-# def ask_human(state):
-#     tool_call_id = state["messages"][-1].tool_calls[0]["id"]
-#     location = input("What is the p&id path: ")
-#     tool_message = [{
-#         "tool_call_id": tool_call_id,
-#         "role": "tool",  # Corrected key
-#         "content": location
-#     }]
-#     return {"messages": tool_message}
+# Node to ask the human for the path
 def ask_human(state):
     tool_call_id = state["messages"][-1].tool_calls[0]["id"]
     location = input("What is the p&id path: ")
-    # Store the user-provided image path in the state
-    state["original_image_path"] = location
     tool_message = [{
         "tool_call_id": tool_call_id,
-        "role": "tool",
+        "role": "tool",  # Corrected key
         "content": location
     }]
     return {"messages": tool_message}
@@ -447,7 +415,8 @@ for event in app.stream(
         "messages": [
             (
                 "user",
-                "Use the tools to ask the user for the p&id path and then use the path to call the tools to extract the symbols, texts and lines from the given p&ID. Use this image as the ground truth when running rreflection to check the accuracy of the tools and models.",
+                # "Use the tools to ask the user for the p&id path and then use the path to call the tools to extract the symbols, texts and lines from the given p&ID. Then aggregate the data given from the process tools. Then create a knowledge graph and after criticizing it, visualize it and check it. Make sure to ask for user feedaback and if they said that they are satisfied by the final knowledge graph, end the loop. Make sure you are using the right tools for each stage and reflect after each step.",
+                "Use the tools to ask the user for the p&id path and then use the path to call the tools to extract the symbols, texts and lines from the given p&ID.",
             )
         ]
     },
